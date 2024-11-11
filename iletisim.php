@@ -35,7 +35,7 @@
 			<!--Section Blog ends -->
 
 			<!-- Section Contact -->
-			<section class="bg-lightcolor1 container-fluid nobg-small" id="contact">
+			<section class="bg-lightcolor1 container-fluid nobg-small" style="min-height: 65vh;" id="contact">
 				<!-- Parallax object -->
 				<div class="parallax-object1 hidden-sm hidden-xs" data-0="opacity:1;" data-100="transform:translatex(-310%);" data-center-center="transform:translatex(30%);"><!-- Image -->
 					<img alt="" src="img/birdornament.png">

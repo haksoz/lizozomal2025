@@ -3,7 +3,7 @@
 <?php $page = 'genel-bilgiler'; ?>
 
 <head>
-    <title>Uluslararası Katılımlı 17. Çocuk Alerji ve Astım Kongresi</title>
+    <title>9. Uluslararası Katılımlı Lizozomal Hastalıklar Kongresi</title>
     <?php include("head.php") ?>
 </head>
 
@@ -26,7 +26,7 @@
                     <div class="jumbotron"></div><!-- /jumbotron-->
                     <div class="jumbo-heading" style="background-color: transparent;">
                         <!-- Heading -->
-                        <h1>Uluslararası Katılımlı <br>17. Çocuk Alerji ve Astım Kongresi</h1>
+                        <h1>9. Uluslararası Katılımlı <br>Lizozomal Hastalıklar Kongresi</h1>
                     </div><!-- /jumbo-heading -->
                 </div><!-- /container-fluid-->
             </section><!--Section Blog ends -->
@@ -34,24 +34,22 @@
             <section class="container" id="services">
                 <!-- Section heading -->
                 <div class="section-heading">
-                    <h2>GENEL BİLGİLER</h2><!-- divider -->
+                    <h2 class="mt-5">GENEL BİLGİLER</h2><!-- divider -->
                     <div class="hr"></div>
                 </div>
                 <div class="col-md-12 col-md-12 res-margin">
-                    <p><b>Toplantı Adı:</b> 17. Uluslararası Katılımlı Çocuk Alerji ve Astım Kongresi</p>
-                    <p><b>Toplanı Yeri:</b> Elite World Otel Sapanca</p>
-                    <p><b>Toplantı Tarihi:</b> 27 - 30 Nisan 2023</p>
-                    <p><b>Toplantı Dili:</b> Türkçe</p><br>
-                </div><!-- /col-md-12-->
-                <div class="col-lg-12 col-md-12">
-                    <!-- Custom List -->
-                    <ul class="custom no-margin">
-                        <li>Solo Event, Çocuk Alerji ve Astım Akademisi Derneği tarafından “17. Uluslararası Katılımlı Çocuk Alerji ve Astım Kongresi” resmi organizasyon firması olarak yetkilendirilmiştir.</li>
-                        <li>Tüm kayıt - konaklama - sponsorluk faaliyetlerinin pazarlanması ve satışı Solo Event tarafından yürütülecektir.</li>
-                    </ul>
+                    <p><b>Toplantı Adı:</b> 9. Uluslararası Katılımlı Lizozomal Hastalıklar Kongresi</p>
+                    <p><b>Toplanı Yeri:</b> Concorde Luxury Hotel KKTC</p>
+                    <p><b>Toplantı Tarihi:</b> 27 Nisan - 02 Mayıs 2025</p>
+                    <p><b>Toplantı Konusu:</b> Lizozomal depo hastalıklarında inovatif yaklaşımlar</p><br>
                 </div>
-                
-                
+<!--                <div class="col-lg-12 col-md-12">-->
+<!--                    <ul class="custom no-margin">-->
+<!--                        <li>Solo Event, Çocuk Alerji ve Astım Akademisi Derneği tarafından “17. Uluslararası Katılımlı Çocuk Alerji ve Astım Kongresi” resmi organizasyon firması olarak yetkilendirilmiştir.</li>-->
+<!--                        <li>Tüm kayıt - konaklama - sponsorluk faaliyetlerinin pazarlanması ve satışı Solo Event tarafından yürütülecektir.</li>-->
+<!--                    </ul>-->
+<!--                </div>-->
+
             </section><!-- /section  -->
         </div><!--/page-section-->
 

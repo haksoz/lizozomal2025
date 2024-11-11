@@ -119,7 +119,8 @@ $(document).ready(function() {
 	$("#testimonial-slider").owlCarousel({
         loop:true,
 		dots: true,
-        autoplay: false,
+        autoplay: 3000, // time for slides changes
+
         responsive: {
             1: {
                 items: 1,

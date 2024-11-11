@@ -3,8 +3,8 @@
       <![endif]-->
 	<meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
 
-	<meta content="17. Uluslararası Katılımlı Çocuk Alerji ve Astım Akademisi Kongresi, Astım Akademisi Kongresi, Çocuk Alerji Kongresi, Çocuk Alerji ve Astım Akademisi Kongresi, Çocuk Alerji ve Astım Akademisi Derneği, caaad2023, " name="keywords">
-	<meta content="Çocuk Alerji ve Astım Akademisi Derneği’nin 17. Uluslararası Katılımlı Çocuk Alerji ve Astım Akademisi Kongresi, 27- 30 Nisan 2023 tarihleri arasında Elite World Otel, Sapanca’da düzenlenecektir." name="description">
+	<meta content="IX. Uluslararası Katılımlı Lizozomal Hastalıklar Kongresi, Lizozomal Hastalıklar Kongresi, Çocuk Beslenme ve Metabolizma Derneği, 27 Nisan – 02 Mayıs 2025, Concorde Luxury Resort Hotel " name="keywords">
+	<meta content="Bu yıl, Çocuk Beslenme ve Metabolizma Derneği’nin IX. Uluslararası Katılımlı Lizozomal Hastalıklar Kongresi, 27 Nisan – 02 Mayıs 2025 tarihleri arasında Concorde Luxury Resort Hotel, KKTC’de düzenlenecektir." name="description">
 
 	<meta content="" name="author">
 	<!--[if lt IE 9]>

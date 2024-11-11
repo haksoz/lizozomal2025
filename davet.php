@@ -32,7 +32,7 @@
 			<section class="container" id="services">
 				<!-- Section heading -->
 				<div class="section-heading">
-					<h2>Davet</h2><!-- divider -->
+					<h2 class="mt-5">Davet</h2><!-- divider -->
 					<div class="hr"></div>
 				</div>
 				<?php include("davet-metni.php") ?>

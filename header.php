@@ -3,28 +3,24 @@
 	<div class="header-top">
 		<div class="container">
 			<div class="flex-row justify-end">
-				<!-- 
-			<div class="col-lg-3">
-				<p>Sertifikanızı görmek için <a href="">tıklayınız.</a></p>
-			</div> -->
-				<div class="" style="padding-right:10px;">
-					<a href="doc/17caadkitap.pdf?v=01" target="_blank">
-						<div class="serviceBox bg-color1" style="margin-top:0; padding:10px 10px; border-radius: 6px;">
-							<div class="service-content text-light">
-								<h4 class="title top-bar-button">Bildiri Özetleri Kitabı</h4>
-							</div>
-						</div>
-					</a>
-				</div>
-				<div class="">
-					<a href="http://e-certificate.arcadiastech.com/caaad2023/KatilimciSertifika" target="_blank">
-						<div class="serviceBox bg-color1" style="margin-top:0; padding:10px 10px; border-radius: 6px; background-color:#68bee5;">
-							<div class="service-content text-light">
-								<h4 class="title top-bar-button">Sertifikanız için tıklayınız</h4>
-							</div>
-						</div>
-					</a>
-				</div>
+<!--				<div class="" style="padding-right:10px;">-->
+<!--					<a href="/">-->
+<!--						<div class="serviceBox bg-color1" style="margin-top:0; padding:10px 10px; border-radius: 6px;">-->
+<!--							<div class="service-content text-light">-->
+<!--								<h4 class="title top-bar-button">Bildiri Özetleri Kitabı</h4>-->
+<!--							</div>-->
+<!--						</div>-->
+<!--					</a>-->
+<!--				</div>-->
+<!--				<div class="">-->
+<!--					<a href="/">-->
+<!--						<div class="serviceBox bg-color1" style="margin-top:0; padding:10px 10px; border-radius: 6px; background-color:#68bee5;">-->
+<!--							<div class="service-content text-light">-->
+<!--								<h4 class="title top-bar-button">Sertifikanız için tıklayınız</h4>-->
+<!--							</div>-->
+<!--						</div>-->
+<!--					</a>-->
+<!--				</div>-->
 			</div>
 		</div>
 	</div>

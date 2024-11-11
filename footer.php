@@ -8,11 +8,13 @@
         </div><!-- Credits-->
         <div class="col-md-4 res-margin">
             <ul class="list-unstyled footer-icons">
-                <li><i class="fa fa-map-marker"></i><b>Adres:</b> Şehremini Mah. Millet Cad. No:133/4 Fatih, İstanbul</li>
-                <li><i class="fa fa-phone"></i><b>Tel:</b><a href="tel:+902125340452"> +90 212 534 04 52</a></li>
-                <li><i class="fa fa-phone"></i><b>Tel:</b><a href="+905372688548"> +90 537 268 85 48</a></li>
+                <li><i class="fa fa-map-marker"></i><b>Adres:</b>Konutkent Mah. 3035 Cadde Dış Kapı No:74 A İç Kapı No:47
+                    <br>Çankaya/Ankara/Türkiye
+                </li>
+<!--                <li><i class="fa fa-phone"></i><b>Tel:</b><a href="tel:+902125340452"> +90 212 534 04 52</a></li>-->
+<!--                <li><i class="fa fa-phone"></i><b>Tel:</b><a href="+905372688548"> +90 537 268 85 48</a></li>-->
                 <li>
-                    <i class="fa fa-envelope"></i><b>E-Mail:</b><a href="mailto:cocukalerjiastim@gmail.com"> cocukalerjiastim@gmail.com</a>
+                    <i class="fa fa-envelope"></i><b>E-Mail:</b><a href="mailto:cbmdsekreter@gmail.com"> cbmdsekreter@gmail.com</a>
                 </li>
             </ul>
         </div><!-- /.col-md-4 -->
@@ -34,7 +36,7 @@
         
         <div class="credits col-md-12 text-center">
             <hr>
-            Copyright © 2024 - <a href="https://ko.com.tr" target="_blank">Kapital Online</a> <!-- Go To Top Link -->
+            <span class="text-white">Copyright © 2024 -</span> <a href="https://ko.com.tr" target="_blank">Kapital Online</a> <!-- Go To Top Link -->
             <div class="page-scroll hidden-sm hidden-xs">
                 <a class="back-to-top" href="#page-top"><i class="fa fa-angle-up"></i></a>
             </div>

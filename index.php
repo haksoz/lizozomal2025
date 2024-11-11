@@ -75,13 +75,17 @@
             </section><!-- /section  -->
 		
 			<!-- Clouds divider -->
-			<svg class="colored hidden-xs hidden-sm" height="100" id="cloud1" preserveaspectratio="none" version="1.1" viewbox="0 0 100 100" width="100%" xmlns="http://www.w3.org/2000/svg">
-			<path d="M-5 100 Q 0 20 5 100 Z M0 100 Q 5 0 10 100 M5 100 Q 10 30 15 100 M10 100 Q 15 10 20 100 M15 100 Q 20 30 25 100 M20 100 Q 25 -10 30 100 M25 100 Q 30 10 35 100 M30 100 Q 35 30 40 100 M35 100 Q 40 10 45 100 M40 100 Q 45 50 50 100 M45 100 Q 50 20 55 100 M50 100 Q 55 40 60 100 M55 100 Q 60 60 65 100 M60 100 Q 65 50 70 100 M65 100 Q 70 20 75 100 M70 100 Q 75 45 80 100 M75 100 Q 80 30 85 100 M80 100 Q 85 20 90 100 M85 100 Q 90 50 95 100 M90 100 Q 95 25 100 100 M95 100 Q 100 15 105 100 Z"></path></svg> <!-- /Clouds divider -->
+<!--			<svg class="colored hidden-xs hidden-sm" height="100" id="cloud1" preserveaspectratio="none" version="1.1" viewbox="0 0 100 100" width="100%" xmlns="http://www.w3.org/2000/svg">-->
+<!--			<path d="M-5 100 Q 0 20 5 100 Z M0 100 Q 5 0 10 100 M5 100 Q 10 30 15 100 M10 100 Q 15 10 20 100 M15 100 Q 20 30 25 100 M20 100 Q 25 -10 30 100 M25 100 Q 30 10 35 100 M30 100 Q 35 30 40 100 M35 100 Q 40 10 45 100 M40 100 Q 45 50 50 100 M45 100 Q 50 20 55 100 M50 100 Q 55 40 60 100 M55 100 Q 60 60 65 100 M60 100 Q 65 50 70 100 M65 100 Q 70 20 75 100 M70 100 Q 75 45 80 100 M75 100 Q 80 30 85 100 M80 100 Q 85 20 90 100 M85 100 Q 90 50 95 100 M90 100 Q 95 25 100 100 M95 100 Q 100 15 105 100 Z"></path>-->
+<!--            </svg> -->
+            <!-- /Clouds divider -->
 			 <!-- Section Testimonials -->
 			<section class="container-fluid small-section" id="testimonials">
 				<!-- Parallax object -->
-				<div class="parallax-object1 hidden-sm hidden-xs" data-0="opacity:1;" data-100="transform:translatey(40%);" data-center-center="transform:translatey(-60%);"><!-- Image -->
-				<img alt="" src="img/sunbg.png"></div><!-- Section heading -->
+<!--				<div class="parallax-object1 hidden-sm hidden-xs" data-0="opacity:1;" data-100="transform:translatey(40%);" data-center-center="transform:translatey(-60%);">-->
+<!--				    <img alt="" src="img/sunbg.png">-->
+<!--                </div>-->
+
 				<div class="section-heading">
 					<h2 class="text-light">Genel Bilgiler</h2><!-- divider -->
 					<div class="hr"></div>
@@ -91,19 +95,24 @@
 						<!-- Testimonial 1 -->
 						<div class="testimonial">
 							<div class="description">
-								<p><b>Toplantı Adı: 17. Uluslararası Katılımlı Çocuk Alerji ve Astım Kongresi</b></p>
+								<p><b>Toplantı Adı: 9. Uluslararası Katılımlı Lizozomal Hastalıklar Kongresi</b></p>
 							</div>
 						</div><!-- /Testimonial 1 -->
 						<!-- Testimonial 2 -->
 						<div class="testimonial">
 							<div class="description">
-								<p><b>Toplanı Yeri: Elite World Otel Sapanca</b></p>
+								<p><b>Toplanı Yeri: Concorde Luxury Hotel KKTC</b></p>
 							</div>
 						</div><!-- /Testimonial 2 -->
 						<!-- Testimonial 3 -->
 						<div class="testimonial">
 							<div class="description">
-								<p><b>Toplantı Tarihi: 27 - 30 Nisan 2023</b></p>
+								<p><b>Toplantı Tarihi: 27 Nisan - 02 Mayıs 2025</b></p>
+							</div>
+						</div><!-- /Testimonial 3 -->
+                        <div class="testimonial">
+							<div class="description">
+								<p><b>Toplantı Konusu: Lizozomal depo hastalıklarında inovatif yaklaşımlar</b></p>
 							</div>
 						</div><!-- /Testimonial 3 -->
 						
@@ -111,13 +120,10 @@
 				</div><!--/container -->
 			</section><!-- /Section -->
 			<!-- Clouds divider -->
-			<svg class="hidden-xs hidden-sm" height="100" id="cloud2" preserveaspectratio="none" version="1.1" viewbox="0 0 100 100" width="100%" xmlns="http://www.w3.org/2000/svg">
-			<path d="M-5 100 Q 0 20 5 100 Z M0 100 Q 5 0 10 100 M5 100 Q 10 30 15 100 M10 100 Q 15 10 20 100 M15 100 Q 20 30 25 100 M20 100 Q 25 -10 30 100 M25 100 Q 30 10 35 100 M30 100 Q 35 30 40 100 M35 100 Q 40 10 45 100 M40 100 Q 45 50 50 100 M45 100 Q 50 20 55 100 M50 100 Q 55 40 60 100 M55 100 Q 60 60 65 100 M60 100 Q 65 50 70 100 M65 100 Q 70 20 75 100 M70 100 Q 75 45 80 100 M75 100 Q 80 30 85 100 M80 100 Q 85 20 90 100 M85 100 Q 90 50 95 100 M90 100 Q 95 25 100 100 M95 100 Q 100 15 105 100 Z"></path></svg> <!-- /clouds divider -->
-			
-			<!-- map -->
-			<div class="container-fluid">
-				<div id="map-canvas"></div>
-			</div>
+<!--			<svg class="hidden-xs hidden-sm" height="100" id="cloud2" preserveaspectratio="none" version="1.1" viewbox="0 0 100 100" width="100%" xmlns="http://www.w3.org/2000/svg">-->
+<!--			<path d="M-5 100 Q 0 20 5 100 Z M0 100 Q 5 0 10 100 M5 100 Q 10 30 15 100 M10 100 Q 15 10 20 100 M15 100 Q 20 30 25 100 M20 100 Q 25 -10 30 100 M25 100 Q 30 10 35 100 M30 100 Q 35 30 40 100 M35 100 Q 40 10 45 100 M40 100 Q 45 50 50 100 M45 100 Q 50 20 55 100 M50 100 Q 55 40 60 100 M55 100 Q 60 60 65 100 M60 100 Q 65 50 70 100 M65 100 Q 70 20 75 100 M70 100 Q 75 45 80 100 M75 100 Q 80 30 85 100 M80 100 Q 85 20 90 100 M85 100 Q 90 50 95 100 M90 100 Q 95 25 100 100 M95 100 Q 100 15 105 100 Z"></path>-->
+<!--            </svg>-->
+            <!-- /clouds divider -->
 		</div><!-- /main-->
 
     <?php include("footer.php") ?>

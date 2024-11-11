@@ -2,7 +2,7 @@
 <html lang="en">
 <?php $page = 'ana-konular'; ?>
 <head>
-	<title>Uluslararası Katılımlı 17. Çocuk Alerji ve Astım Kongresi</title>
+	<title>9. Uluslararası Katılımlı Lizozomal Hastalıklar Kongresi</title>
 	<?php include("head.php")?> 
 </head>
 <body data-spy="scroll" data-target=".navbar-custom" id="page-top">
@@ -32,7 +32,7 @@
 			<section class="container" id="services">
 				<!-- Section heading -->
 				<div class="section-heading">
-					<h2>Ana Konular</h2><!-- divider -->
+					<h2 class="mt-5">Ana Konular</h2><!-- divider -->
 					<div class="hr"></div>
 				</div>
 				<div class="col-lg-12 col-md-12">

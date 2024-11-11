@@ -4,7 +4,7 @@
 
 <head>
     <?php include("head.php") ?>
-    <title>Uluslararası Katılımlı 17. Çocuk Alerji ve Astım Kongresi | Bilimsel Program</title>
+    <title>9. Uluslararası Katılımlı Lizozomal Hastalıklar Kongresi | Bilimsel Program</title>
 </head>
 
 <body data-spy="scroll" data-target=".navbar-custom" id="page-top">

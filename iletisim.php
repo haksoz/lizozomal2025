@@ -3,7 +3,7 @@
 <?php $page = 'iletisim'; ?>
 
 <head>
-	<title>Uluslararası Katılımlı 17. Çocuk Alerji ve Astım Kongresi | İletişim</title>
+	<title>9. Uluslararası Katılımlı Lizozomal Hastalıklar Kongresi | İletişim</title>
 	<?php include("head.php") ?>
 </head>
 
@@ -26,7 +26,7 @@
 					<div class="jumbotron"></div><!-- /jumbotron-->
 					<div class="jumbo-heading" style="background-color: transparent;">
 						<!-- Heading -->
-						<h1>Uluslararası Katılımlı <br>17. Çocuk Alerji ve Astım Kongresi</h1><!-- Breadcrumb -->
+						<h1>9. Uluslararası Katılımlı <br>Lizozomal Hastalıklar Kongresi</h1><!-- Breadcrumb -->
 					</div>
 					<!-- /jumbo-heading -->
 				</div>
@@ -49,13 +49,15 @@
 				<div class="container">
 					<div class="res-margin">
 						<div class="col-lg-5 col-md-5 well text-center">
-							<img alt="" class="res-margin center-block img-responsive" src="doc/logo-2.png"><br>
+							<img alt="" class="res-margin center-block img-responsive" src="/doc/cbmd-logo.png"><br>
 							<div class="contact-info">
 								<p><b>Kongre Sekretaryası</b></p>
-								<p><i class="fa fa-map-marker margin-icon"></i><b>Adres:</b> Şehremini Mah. Millet Cad. No:133/4<br>
-									Fatih, İstanbul</p>
-								<p><i class="fa fa-phone margin-icon"></i><b>Tel:</b> +90 212 534 04 52 | +90 537 268 85 48</p>
-								<p><i class="fa fa-envelope margin-icon"></i><b>E-Mail:</b> <a href="mailto:cocukalerjiastim@gmail.com">cocukalerjiastim@gmail.com</a></p>
+								<p><i class="fa fa-map-marker margin-icon"></i><b>Adres:</b>
+                                    Konutkent Mah. 3035 Cadde Dış Kapı No:74 A İç Kapı No:47
+                                    <br>Çankaya/Ankara/Türkiye
+                                </p>
+<!--								<p><i class="fa fa-phone margin-icon"></i><b>Tel:</b> +90 212 534 04 52 | +90 537 268 85 48</p>-->
+								<p><i class="fa fa-envelope margin-icon"></i><b>E-Mail:</b> <a href="mailto:cbmdsekreter@gmail.com">cbmdsekreter@gmail.com</a></p>
 							</div>
 						</div>
 					</div>
@@ -74,7 +76,7 @@
 									Şişli, 34394, İstanbul</p>
 								<p><i class="fa fa-phone margin-icon"></i><b>Tel:</b> +90 212 279 00 20</p>
 								<p><i class="fa fa-fax margin-icon"></i><b>Faks:</b> +90 212 279 00 35</p>
-								<p><i class="fa fa-envelope margin-icon"></i><b>E-Mail:</b> <a href="mailto:caaad@soloevent.net">caaad@soloevent.net</a></p>
+								<p><i class="fa fa-envelope margin-icon"></i><b>E-Mail:</b> <a href="mailto:lizozomal@soloevent.net">lizozomal@soloevent.net</a></p>
 							</div>
 						</div>
 					</div>
@@ -88,7 +90,7 @@
 			<div class="container">
 				<div class="credits col-md-12 text-center">
 					<hr>
-					Copyright © 2023 - <a href="https://ko.com.tr" target="_blank">Kapital Online</a> <!-- Go To Top Link -->
+					Copyright © 2024 - <a href="https://ko.com.tr" target="_blank">Kapital Online</a> <!-- Go To Top Link -->
 					<div class="page-scroll hidden-sm hidden-xs">
 						<a class="back-to-top" href="#page-top"><i class="fa fa-angle-up"></i></a>
 					</div>

@@ -18,7 +18,7 @@
  
 <script src="layerslider/js/layerslider.kreaturamedia.jquery.js?v=71235" type="text/javascript">
 </script> <!-- Bootstrap Select Tool (For Module #4) -->
-<script src="switcher/js/bootstrap-select.js?v=71235">
+<!--<script src="switcher/js/bootstrap-select.js?v=71235">-->
 </script> <!-- UI jQuery (For Module #5 and #6) -->
 <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.js?v=71235" type="text/javascript">
 </script> <!-- All Scripts & Plugins -->

@@ -56,8 +56,8 @@
                             <thead>
                             <tr>
                                 <th>Kayıt Tipi</th>
-                                <th>1 Ocak 2025 ve Öncesi</th>
-                                <th>1 Ocak 2025 Sonrası</th>
+                                <th>14 Şubat 2025 ve Öncesi</th>
+                                <th>14 Şubat 2025 Sonrası</th>
                             </tr>
                             </thead>
                             <tbody>
@@ -87,8 +87,8 @@
                                 <td>₺ 45.000,00</td>
                             </tr>
                             <tr>
-                                <td>Dış Katılım Bedeli</td>
-                                <td colspan="2" align="center">₺4.000,00</td>
+                                <td>Dış Katılım Bedeli * Günlük</td>
+                                <td colspan="2" align="center">₺7.000,00</td>
                             </tr>
                             </tbody>
                         </table>

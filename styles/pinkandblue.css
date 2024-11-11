@@ -55,7 +55,7 @@
 .owl-dot:hover,
 .blog-prev .blog-caption,
 .header-text{
-    background-color: rgb(51 141 232 / 50%);
+    background-color: rgb(207 100 93 / 90%);
 }
 .smaller.social-media a i:hover,
 .back-to-top i:hover,
@@ -183,7 +183,7 @@ blockquote,
 .btn-primary:active:focus,
 .btn-primary:active:hover,
 .nav-tabs li.active a:before {
-    background-color: #38627b;
+    background-color: #004e68;
 }
 .jumbotron,
 #elements h5.sub-header,

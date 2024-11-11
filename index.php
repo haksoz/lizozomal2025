@@ -30,8 +30,8 @@
 				</div>
 
 			</div>-->
-            <img class="banner-img banner-desktop" src="doc/lizozomalkongre-slider.jpg" alt="">
-            <img class="banner-img banner-mobil" src="doc/lizozomalkongre-slider.jpg" alt="">
+            <img class="banner-img banner-desktop" src="doc/lizozomalkongre_webbanner.jpg" alt="">
+            <img class="banner-img banner-mobil" src="doc/lizozomalkongre_webbanner.jpg" alt="">
 			<!-- Section Services -->
             <section class="container" style="padding: 0px 0px;">
                 <!-- Services Boxes -->
@@ -95,24 +95,24 @@
 						<!-- Testimonial 1 -->
 						<div class="testimonial">
 							<div class="description">
-								<p><b>Toplantı Adı: 9. Uluslararası Katılımlı Lizozomal Hastalıklar Kongresi</b></p>
+								<p><b>Toplantı Adı:<br>9. Uluslararası Katılımlı Lizozomal Hastalıklar Kongresi</b></p>
 							</div>
 						</div><!-- /Testimonial 1 -->
 						<!-- Testimonial 2 -->
 						<div class="testimonial">
 							<div class="description">
-								<p><b>Toplanı Yeri: Concorde Luxury Hotel KKTC</b></p>
+								<p><b>Toplanı Yeri:<br>Concorde Luxury Hotel KKTC</b></p>
 							</div>
 						</div><!-- /Testimonial 2 -->
 						<!-- Testimonial 3 -->
 						<div class="testimonial">
 							<div class="description">
-								<p><b>Toplantı Tarihi: 27 Nisan - 02 Mayıs 2025</b></p>
+								<p><b>Toplantı Tarihi:<br>27 Nisan - 02 Mayıs 2025</b></p>
 							</div>
 						</div><!-- /Testimonial 3 -->
                         <div class="testimonial">
 							<div class="description">
-								<p><b>Toplantı Konusu: Lizozomal depo hastalıklarında inovatif yaklaşımlar</b></p>
+								<p><b>Toplantı Konusu:<br>Lizozomal depo hastalıklarında inovatif yaklaşımlar</b></p>
 							</div>
 						</div><!-- /Testimonial 3 -->
 						

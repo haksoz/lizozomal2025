@@ -22,7 +22,7 @@ ul {
 /* Headings */
 
 h1 {
-    font-size: 50px;
+    font-size: 38px;
     margin: 0;
     font-weight: 400;
     line-height: 52px;
@@ -199,7 +199,7 @@ img {
 }
 
 .navbar-nav > li > a {
-    padding: 37px 14px;
+    padding: 32px 14px;
 }
 
 .navbar-custom ul.nav li a {
@@ -229,7 +229,7 @@ img {
 
 .navbar-custom .nav a:hover,
 .navbar-custom .nav > .active > a {
-    padding-top: 35px;
+    padding-top: 32px;
     box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.10);
     padding-bottom: 50px;
     color: #fff;
@@ -294,7 +294,7 @@ img {
 }
 
 .navbar-brand img {
-    max-width: 250px;
+    max-width: 260px;
     position: absolute;
     left: 0;
     right: 0;
@@ -391,11 +391,11 @@ img {
 ============================ */
 
 #testimonials {
-    background: linear-gradient(to bottom, #007a8d 18%, rgba(255, 255, 255, 0) 120%);
+    background: linear-gradient(to bottom, #2f7692 18%, rgba(255, 255, 255, 0) 120%);
 }
 
 .testimonial {
-    padding: 20px 15px 50px;
+    padding: 20px 10px 20px;
     margin-bottom: 20px;
 }
 
@@ -418,7 +418,7 @@ img {
     border-radius: 40px;
     font-size: 14px;
     box-shadow: 10px 0px 0px 0px rgba(153, 153, 153, 0.22);
-    padding: 45px 35px;
+    padding: 30px 25px;
     position: relative;
 }
 
@@ -1221,7 +1221,7 @@ section {
     position: relative;
     top: -25px;
     padding: 0 10px;
-    font-size: 38px;
+    font-size: 10px;
 }
 
 .section-heading .hr.light,
@@ -2044,7 +2044,7 @@ blockquote:before {
 }
 
 .jumbo-heading h1 {
-    color: #69bee5;
+    color: #2f7692;
     position: relative;
     margin: 10px auto;
 }
@@ -2240,7 +2240,7 @@ button.list-group-item:hover {
 @media (max-width: 991px) {
     /* Slider */
     .banner-img {
-        padding-top: 125px;
+        padding-top: 123px;
     }
 
     .navbar-right li {
@@ -2945,7 +2945,7 @@ button.list-group-item:hover {
 
 .header-top {
     padding: 8px 0 8px 0;
-    background-color: #007a8d;
+    background-color: #2f7692;
 }
 
 .flex-row {

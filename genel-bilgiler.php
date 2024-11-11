@@ -41,7 +41,7 @@
                     <p><b>Toplantı Adı:</b> 9. Uluslararası Katılımlı Lizozomal Hastalıklar Kongresi</p>
                     <p><b>Toplanı Yeri:</b> Concorde Luxury Hotel KKTC</p>
                     <p><b>Toplantı Tarihi:</b> 27 Nisan - 02 Mayıs 2025</p>
-                    <p><b>Toplantı Konusu:</b> Lizozomal depo hastalıklarında inovatif yaklaşımlar</p><br>
+                    <p><b>Toplantı Konusu:</b> Lizozomal Depo Hastalıklarında İnovatif Yaklaşımlar</p><br>
                 </div>
 <!--                <div class="col-lg-12 col-md-12">-->
 <!--                    <ul class="custom no-margin">-->

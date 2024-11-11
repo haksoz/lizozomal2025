@@ -30,8 +30,55 @@
 				</div>
 
 			</div>-->
-            <img class="banner-img banner-desktop" src="doc/lizozomalkongre_webbanner.jpg" alt="">
-            <img class="banner-img banner-mobil" src="doc/lizozomalkongre_webbanner.jpg" alt="">
+            <div class="relative">
+                <img class="banner-img banner-desktop" src="doc/lizozomalkongre_webbanner.jpg" alt="">
+                <img class="banner-img banner-mobil" src="doc/lizozomalkongre_webbanner.jpg" alt="">
+                <div class="px-0 py-0 md-absolute bottom-0 w-100">
+                <div class="container">
+                    <div class="flex-row justify-content-center">
+                        <div class="col-lg-2 col-md-3 col-sm-6 px-0">
+                            <div class="single-fun-fact">
+                                <div id="timer" class="flex-wrap d-flex justify-content-center">
+                                    <h3>
+                                        <span id="days" class="align-items-center flex-column d-flex justify-content-center">0</span>
+                                    </h3>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-2 col-md-3 col-sm-6 px-0">
+                            <div class="single-fun-fact bg-1">
+                                <div id="timer" class="flex-wrap d-flex justify-content-center">
+                                    <h3>
+                                        <span id="hours" class="align-items-center flex-column d-flex justify-content-center">0</span>
+                                    </h3>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-2 col-md-3 col-sm-6 px-0">
+                            <div class="single-fun-fact bg-2">
+                                <div id="timer" class="flex-wrap d-flex justify-content-center">
+                                    <h3>
+                                        <span id="minutes" class="align-items-center flex-column d-flex justify-content-center">0</span>
+                                    </h3>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-2 col-md-3 col-sm-6 px-0">
+                            <div class="single-fun-fact bg-3">
+                                <div id="timer" class="flex-wrap d-flex justify-content-center">
+                                    <h3>
+                                        <span id="seconds" class="align-items-center flex-column d-flex justify-content-center">0</span>
+                                    </h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            </div>
 			<!-- Section Services -->
             <section class="container" style="padding: 0px 0px;">
                 <!-- Services Boxes -->

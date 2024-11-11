@@ -2988,3 +2988,7 @@ footer .img-responsive {
 .owl-dot.active,.owl-dot:hover{
     background-color: #ffffff!important;
 }
+
+#contact .img-responsive {
+    max-height: 100px;
+}

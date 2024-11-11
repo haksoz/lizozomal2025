@@ -31,7 +31,7 @@
 
 			</div>-->
             <img class="banner-img banner-desktop" src="doc/lizozomalkongre-slider.jpg" alt="">
-            <img class="banner-img banner-mobil" src="doc/slider02.jpeg" alt="">
+            <img class="banner-img banner-mobil" src="doc/lizozomalkongre-slider.jpg" alt="">
 			<!-- Section Services -->
             <section class="container" style="padding: 0px 0px;">
                 <!-- Services Boxes -->

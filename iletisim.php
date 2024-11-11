@@ -56,18 +56,12 @@
                                     Konutkent Mah. 3035 Cadde Dış Kapı No:74 A İç Kapı No:47
                                     <br>Çankaya/Ankara/Türkiye
                                 </p>
-<!--								<p><i class="fa fa-phone margin-icon"></i><b>Tel:</b> +90 212 534 04 52 | +90 537 268 85 48</p>-->
 								<p><i class="fa fa-envelope margin-icon"></i><b>E-Mail:</b> <a href="mailto:cbmdsekreter@gmail.com">cbmdsekreter@gmail.com</a></p>
 							</div>
 						</div>
-					</div>
-					<div class="res-margin">
 						<div class="col-lg-2 col-md-2">
 
 						</div>
-					</div>
-					<div class="res-margin">
-
 						<div class="col-lg-5 col-md-5 well text-center">
 							<img alt="" class="res-margin center-block img-responsive" src="doc/solo.png">
 							<div class="contact-info">
@@ -80,6 +74,7 @@
 							</div>
 						</div>
 					</div>
+				
 				</div>
 			</section>
 			<!--/Section ends -->

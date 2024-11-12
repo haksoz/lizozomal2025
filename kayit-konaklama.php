@@ -67,11 +67,6 @@
                                 <td>₺ 21.000,00</td>
                             </tr>
                             <tr>
-                                <td>Asistan - Diyetisyen - Hemşire</td>
-                                <td>₺ 13.000,00</td>
-                                <td>₺ 16.500,00</td>
-                            </tr>
-                            <tr>
                                 <td>Firma Temsilcisi</td>
                                 <td>₺ 15.000,00</td>
                                 <td>₺ 21.000,00</td>

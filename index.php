@@ -159,7 +159,7 @@
 						</div><!-- /Testimonial 3 -->
                         <div class="testimonial">
 							<div class="description">
-								<p><b>Toplantı Konusu:<br>Lizozomal depo hastalıklarında inovatif yaklaşımlar</b></p>
+								<p><b>Toplantı Konusu:<br>Lizozomal Depo Hastalıklarında İnovatif Yaklaşımlar</b></p>
 							</div>
 						</div><!-- /Testimonial 3 -->
 						

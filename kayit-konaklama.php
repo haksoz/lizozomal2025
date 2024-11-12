@@ -120,8 +120,8 @@
                             <thead>
                             <tr>
                                 <th>Konaklama Tipi</th>
-                                <th>1 Ocak 2025 ve Öncesi</th>
-                                <th>1 Ocak 2025 Sonrası</th>
+                                <th>14 Şubat 2025 ve Öncesi</th>
+                                <th>14 Şubat 2025 Sonrası</th>
                             </tr>
                             </thead>
                             <tbody>
@@ -149,7 +149,7 @@
                             <thead>
                             <tr>
                                 <th>Konaklama Tipi</th>
-                                <th>1 Ocak 2025 ve Öncesi</th>
+                                <th>14 Şubat 2025 ve Öncesi</th>
                             </tr>
                             </thead>
                             <tbody>

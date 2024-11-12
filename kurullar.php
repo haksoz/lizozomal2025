@@ -29,13 +29,39 @@
 				</div><!-- /container-fluid-->
 			</section><!--Section Blog ends -->
 						<!-- Section Services -->
-			<section class="container" style="min-height: 50vh" id="services">
+			<section class="container" id="services">
 				<!-- Section heading -->
 				<div class="section-heading">
-					<h2 class="mt-5">Kurullar</h2><!-- divider -->
+					<h2>Kurullar</h2><!-- divider -->
 					<div class="hr"></div>
 				</div>
-                <h4 class="text-center">Yapım Aşamasında</h4>
+				<div class="row justify-content-center">
+				<div class="text-center">
+					<h4>Dernek Yönetim Kurulu</h4>
+
+					<p><b>Başkan</b><br>
+					Prof. Dr. H. Neslihan Önenli Mungan</p>
+
+					<p><b>Sayman</b><br>
+					Prof. Dr. Ertuğrul Kıykım</p>
+
+					<p><b>Genel Sekreter</b><br>
+					Prof. Dr. Özlem Ünal Uzun</p>
+
+					<p><b>Üyeler</b><br>
+					Doç. Dr. Mehmet Gündüz<br>
+					Prof. Dr. Nur Arslan<br>
+					Prof. Dr. Fatma Gülden Gökçay<br>
+					Doç. Dr. Sevil Yıldız</p>
+
+					<p><b>Denetleme Kurulu</b><br>
+					Prof. Dr. Mustafa Kendirci<br>
+					Prof. Dr. Hasan Önal<br>
+					Prof. Dr. Mahmut Çoker</p>
+
+				</div><!-- /col-md-12-->
+				</div>
+				
 				
 			</section><!-- /section  -->
 		</div><!--/page-section-->

@@ -9,7 +9,7 @@ Version: 1.0
 $(document).ready(function() {
 
     function makeTimer() {
-        var endTime = new Date("June 12, 2025 00:00:00");
+        var endTime = new Date("april 27, 2025 00:00:00");
         var endTime = (Date.parse(endTime)) / 1000;
         var now = new Date();
         var now = (Date.parse(now) / 1000);

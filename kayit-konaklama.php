@@ -229,13 +229,13 @@
                         <li>Kongre tarihinden sonra zamanında ödenmeyen veya geciktirilen tüm ödemeler için bütçelerde ve web sitesinde ilan ettiğimiz gibi %10 ekleme yapılacak ve tarafınıza yansıtılacaktır.</li>
                     </ul>
                 </div>
-
+<!--
                 <div class="col-md-12 col-md-12 res-margin">
                     <h3 class="text-center mt-5">Banka Bilgileri</h3>
                 </div>
                 <center>
                     <div class="col-md-6" style="float: none;">
-                        <!-- Tables -->
+                  
                         <table class="table table-bordered table-striped table-hover">
                             <tbody>
                             <tr>
@@ -268,10 +268,11 @@
                             </tr>
                             </tbody>
                         </table>
-                        <!-- /table -->
+                      
                     </div>
 
                 </center>
+            -->
 			</section><!-- /section  -->
 		</div><!--/page-section-->
 

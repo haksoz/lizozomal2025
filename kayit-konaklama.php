@@ -37,17 +37,17 @@
 					<h2 class="mt-5">KAYIT & KONAKLAMA</h2><!-- divider -->
 					<div class="hr"></div>
 				</div>
-				<div class="col-md-12 col-md-12 res-margin">
-					<h3 class="text-center">Kayıt</h3>
-				</div>
+                 <div class="col-md-12 col-md-12 res-margin">
+                    <h3 class="text-center mt-5">KAYIT</h3>
+                </div>
 				<div class="col-lg-12 col-md-12">
-					<!-- Custom List -->
-<!--					<ul class="custom no-margin">-->
-<!--						<li>Kongre bilimsel toplantılarına, refakatçi veya ürün tanıtımcısı olarak katılmak isteyen herkesin kayıt yaptırması gerekmektedir. </li>-->
-<!--						<li>Kayıt ücretine; bilimsel aktivitelere katılım, stant alanlarına giriş, yaka kartı, katılım sertifikası, çay ve kahve molaları, öğle yemeği, kongre çantası ve içindeki dokümanlar dahildir.</li>-->
-<!--						<li>Kongre tarihinden sonra zamanında ödenmeyen veya geciktirilen tüm ödemeler için bütçelerde ve web sitesinde ilan ettiğimiz gibi %10 ekleme yapılacak ve tarafınıza yansıtılacaktır.</li>-->
-<!--						<li>Kayıt bedeline %20 KDV eklenecektir.</li>-->
-<!--					</ul>-->
+                    <h4 class="sub-header">Kayıt</h4>
+                    <ul class="custom no-margin">
+                        <li>Kongre bilimsel toplantılarına, refakatçi veya ürün tanıtımcısı olarak katılmak isteyen herkesin kayıt yaptırması gerekmektedir.</li>
+                        <li>Kayıt ücretine; bilimsel aktivitelere katılım, stant alanlarına giriş, yaka kartı, katılım sertifikası, çay ve kahve molaları, öğle yemeği, kongre çantası ve içindeki dokümanlar dahildir.</li>
+                        <li>Kongre tarihinden sonra zamanında ödenmeyen veya geciktirilen tüm ödemeler için bütçelerde ve web sitesinde ilan ettiğimiz gibi %10 ekleme yapılacak ve tarafınıza yansıtılacaktır.</li>
+                        <li>Kayıt bedeline %20 KDV eklenecektir.</li>
+                    </ul>
 				</div>
                 <center>
                     <div class="col-md-8" style="float: none;">
@@ -90,29 +90,28 @@
                         <!-- /table -->
                     </div>
                 </center>
-
-<!--				<div class="col-lg-12 col-md-12">-->
-<!--					<h4 class="sub-header">Kayıt İptal Şartları;</h4>-->
-<!--					<ul class="custom no-margin">-->
-<!--						<li>Kayıt iptal talebi Solo Event’e yazılı olarak bildirilmelidir.</li>-->
-<!--						<li>1 Ocak 2025 tarihinden önce yapılan iptal talebinde, yatırılmış bulunan kayıt ücretinin yarısı iade edilecektir.</li>-->
-<!--						<li>1 Ocak 2025 ve sonrasında yapılacak iptallerde herhangi bir iade yapılmayacaktır. Bu tarihten sonra sadece isim değişiklikleri kabul edilecektir.</li>-->
-<!--					</ul><br>-->
-<!--				</div>-->
+                <div class="col-lg-12 col-md-12">
+                    <h4 class="sub-header">Kayıt İptal Şartları;</h4>
+                    <ul class="custom no-margin">
+                        <li>Kayıt iptal talebi Solo Event’e yazılı olarak bildirilmelidir.</li>
+                        <li>1 Şubat 2024 tarihinden önce yapılan iptal talebinde, yatırılmış bulunan kayıt ücretinin yarısı iade edilecektir.</li>
+                        <li>1 Şubat 2024 ve sonrasında yapılacak iptallerde herhangi bir iade yapılmayacaktır. Bu tarihten sonra sadece isim değişiklikleri kabul edilecektir.</li>
+                    </ul>
+                </div>
 				<div class="col-md-12 col-md-12 res-margin">
-					<h3 class="text-center mt-5">Konaklama</h3>
-				</div>
-<!--				<div class="col-lg-12 col-md-12">-->
-<!--					<ul class="custom no-margin">-->
-<!--						<li>Konaklama fiyatları 3 gece paket olup, tam pansiyon konaklamayı içerir (27 Nisan 2023 saat 14:00 itibariyle giriş ve 30 Nisan 2023 saat 12:00 itibariyle çıkış) </li>-->
-<!--						<li>28 Şubat 2023 tarihi itibari ile ödemesi yapılmamış konaklama bütçelerine %10 eklenecektir.</li>-->
-<!--						<li>Oda dağılımı; müracaat sırasına ve ödeme tarihlerine göre yapılacaktır.</li>-->
-<!--						<li>Kongre tarihinden sonra zamanında ödenmeyen veya geciktirilen tüm ödemeler için bütçelerde ve web sitesinde ilan ettiğimiz gibi %10 ekleme yapılacak ve tarafınıza yansıtılacaktır.</li>-->
-<!--						<li>Konaklama bedellerine %8 KDV ve %2 konaklama vergisi eklenecektir.</li>-->
-<!--						<li>Ek vergiler fiyatlara ilave edilecektir.</li>-->
-<!--					</ul>-->
-<!--				</div>-->
-                <h4 class="sub-header text-center">Kongre Konaklama</h4>
+                    <h3 class="text-center mt-5">KONAKLAMA</h3>
+                </div>
+                <div class="col-lg-12 col-md-12">
+                    <h4 class="sub-header">Kongre Konaklama</h4>
+                    <ul class="custom no-margin">
+                        <li>Konaklama fiyatı 4 geceliktir.</li>
+                        <li>Oda dağılımı; müracaat sırasına ve ödeme tarihlerine göre yapılacaktır.</li>
+                        <li>Kongre tarihinden sonra zamanında ödenmeyen veya geciktirilen tüm ödemeler için bütçelerde ve web sitesinde ilan ettiğimiz gibi %10 ekleme yapılacak ve tarafınıza yansıtılacaktır.</li>
+                        <li>Konaklama konfirmasyonu ödeme yapıldığında gerçekleşecektir.</li>
+                        <li>Konaklama bedeline KDV dahil değildir. Konaklama KDV'si %10 eklenecektir.</li>
+                        <li>Konaklama vergisi %2 eklenecektir.</li>
+                    </ul>
+                </div>
 				<center>
                     <div class="col-md-6" style="float: none">
                         <!-- Tables -->
@@ -141,7 +140,19 @@
                     </div>
                 </center>
 
-                <h4 class="sub-header text-center">Kurs Konaklama</h4>
+
+                <div class="col-lg-12 col-md-12">
+                    <h4 class="sub-header">Kurs Konaklama</h4>
+                    <ul class="custom no-margin">
+                        <li>Konaklama fiyatı 1 geceliktir.</li>
+                        <li>Oda dağılımı; müracaat sırasına ve ödeme tarihlerine göre yapılacaktır.</li>
+                        <li>Kongre tarihinden sonra zamanında ödenmeyen veya geciktirilen tüm ödemeler için bütçelerde ve web sitesinde ilan ettiğimiz gibi %10 ekleme yapılacak ve tarafınıza yansıtılacaktır.</li>
+                        <li>Konaklama konfirmasyonu ödeme yapıldığında gerçekleşecektir.</li>
+                        <li>Konaklama bedeline KDV dahil değildir. Konaklama KDV'si %10 eklenecektir.</li>
+                        <li>Konaklama vergisi %2 eklenecektir.</li>
+                    </ul>
+                </div>
+
                 <center>
                     <div class="col-md-6" style="float: none">
                         <!-- Tables -->
@@ -166,17 +177,25 @@
                         <!-- /table -->
                     </div>
                 </center>
-<!--				<div class="col-lg-12 col-md-12">-->
-<!--					<h4 class="sub-header">Konaklama İptal Şartları;</h4>-->
-<!--					<ul class="custom no-margin">-->
-<!--						<li>Konaklama iptal talebi Solo Event’e yazılı olarak bildirilmelidir.</li>-->
-<!--						<li>Konaklama konfirmasyonu ödeme önceliğine göre verilecektir. Belirtilen tarihte ödeme yapılmaması durumunda Kongre Organizasyon Sekretaryası konaklama talebini konfirme edemeyecektir.</li>-->
-<!--						<li>20 Ocak 2023 tarihinden önce yapılan iptal talebinde, yatırılmış bulunan konaklama ücretinin yarısı iade edilecektir.</li>-->
-<!--						<li>20 Ocak 2023 ve sonrasında yapılacak iptallerde herhangi bir iade yapılmayacaktır. Bu tarihten sonra sadece isim değişiklikleri kabul edilecektir.</li>-->
-<!--					</ul><br>-->
-<!--				</div>-->
+                <div class="col-lg-12 col-md-12">
+                    <h4 class="sub-header">Konaklama İptal Şartları;</h4>
+                    <ul class="custom no-margin">
+                        <li>Konaklama iptal talebi Solo Event’e yazılı olarak bildirilmelidir</li>
+                        <li>Konaklama konfirmasyonu ödeme önceliğine göre verilecektir. Belirtilen tarihte ödeme yapılmaması durumunda Kongre Organizasyon Sekretaryası konaklama talebini konfirme edemeyecektir.</li>
+                        <li>1 Şubat 2024 tarihinden önce yapılan iptal talebinde, yatırılmış bulunan konaklama ücretinin yarısı iade edilecektir.</li>
+                        <li>1 Şubat 2024 ve sonrasında yapılacak iptallerde herhangi bir iade yapılmayacaktır. Bu tarihten sonra sadece isim değişiklikleri kabul edilecektir.</li>
+                    </ul>
+                </div>
                 <div class="col-md-12 col-md-12 res-margin">
-                    <h3 class="text-center mt-5">Transfer Detayları</h3>
+                    <h3 class="text-center mt-5">TRANSFER BİLGİLERİ</h3>
+                </div>
+
+                <div class="col-lg-12 col-md-12">
+                    <ul class="custom no-margin">
+                        <li>Transfer Ücretine Dahil Olan Hizmetler;</li>
+                        <li>Havalimanı - Otel - Havalimanı arası 27 Nisan tarihinde geliş ve 2 Mayıs tarihinde dönüş olarak gerçekleşecek kişi başı transfer bedeli çift yön 200 € + KDV’dir.</li>
+                        <li>Bu tarihler dışında talep edilecek özel transfer talepleriniz için Solo Event ile iletişime geçebilirsiniz.</li>
+                    </ul>
                 </div>
                 <center>
                     <div class="col-md-6" style="float: none">
@@ -197,6 +216,20 @@
                         <!-- /table -->
                     </div>
                 </center>
+                <div class="col-md-12 col-md-12 res-margin">
+                    <h3 class="text-center mt-5">MALİ KOŞULLAR</h3>
+                </div>
+                <div class="col-lg-12 col-md-12">
+                    <ul class="custom no-margin">
+                        <li>Tarafımıza bildirilecek olan kişi ve oda sayıları doğrultusunda bütçe çalışması yapılarak tarafınıza gönderilecektir.</li>
+                        <li>Stant aktivite ve ikramları, sanatçı, salon dekorasyonları vb. taleplerinizi tarafımıza iletmenizi rica ederiz. Talep olması durumunda ayrıca fiyatlandırılacaktır.</li>
+                        <li>Kullanılacak olan döviz kuru ödemenin yapıldığı günkü Merkez Bankası Efektif Döviz Satış kurudur.</li>
+                        <li>Kayıt ve rezervasyonların kesinleşebilmesi için, ödeme dekontlarının <a href="mailto:lizozomal@soloevent.net"> lizozomal@soloevent.net</a> mail adresine gönderilmesi gerekmektedir. Aksi takdirde konfirmasyon verilemeyecektir.</li>
+                        <li>Tüm ödemelerin kongre başlamadan önceki tarihte yapılması gerekmektedir.</li>
+                        <li>Kongre tarihinden sonra zamanında ödenmeyen veya geciktirilen tüm ödemeler için bütçelerde ve web sitesinde ilan ettiğimiz gibi %10 ekleme yapılacak ve tarafınıza yansıtılacaktır.</li>
+                    </ul>
+                </div>
+
                 <div class="col-md-12 col-md-12 res-margin">
                     <h3 class="text-center mt-5">Banka Bilgileri</h3>
                 </div>

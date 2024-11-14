@@ -2,7 +2,7 @@
 <html lang="TR">
 <?php $page = 'kurullar'; ?>
 <head>
-	<title>9. Uluslararası Katılımlı Lizozomal Hastalıklar Kongresi</title>	
+	<title>9. Uluslararası Katılımlı Lizozomal Hastalıklar Kongresi | Kurullar</title>	
 	<?php include("head.php")?>
 </head>
 <body data-spy="scroll" data-target=".navbar-custom" id="page-top">

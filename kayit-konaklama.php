@@ -3,7 +3,7 @@
 <?php $page = 'kayit-konaklama'; ?>
 
 <head>
-	<title>9. Uluslararası Katılımlı Lizozomal Hastalıklar Kongresi</title>
+	<title>9. Uluslararası Katılımlı Lizozomal Hastalıklar Kongresi | Kayıt & Konaklama</title>
 	<?php include("head.php") ?>
 </head>
 

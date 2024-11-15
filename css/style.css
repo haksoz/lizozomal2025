@@ -2241,6 +2241,7 @@ button.list-group-item:hover {
     /* Slider */
     .banner-img {
         padding-top: 123px;
+        width: 100%;
     }
 
     .navbar-right li {

@@ -36,7 +36,7 @@
                 <div class="px-0 py-0 md-absolute bottom-0 w-100">
                 <div class="container">
                     <div class="flex-row justify-content-center">
-                        <div class="col-lg-2 col-md-3 col-sm-6 px-0">
+                        <div class="col-lg-1 col-md-1 col-sm-3 px-0">
                             <div class="single-fun-fact">
                                 <div id="timer" class="flex-wrap d-flex justify-content-center">
                                     <h3>
@@ -46,7 +46,7 @@
                             </div>
                         </div>
 
-                        <div class="col-lg-2 col-md-3 col-sm-6 px-0">
+                        <div class="col-lg-1 col-md-1 col-sm-3 px-0">
                             <div class="single-fun-fact bg-1">
                                 <div id="timer" class="flex-wrap d-flex justify-content-center">
                                     <h3>
@@ -56,7 +56,7 @@
                             </div>
                         </div>
 
-                        <div class="col-lg-2 col-md-3 col-sm-6 px-0">
+                        <div class="col-lg-1 col-md-1 col-sm-3 px-0">
                             <div class="single-fun-fact bg-2">
                                 <div id="timer" class="flex-wrap d-flex justify-content-center">
                                     <h3>
@@ -66,7 +66,7 @@
                             </div>
                         </div>
 
-                        <div class="col-lg-2 col-md-3 col-sm-6 px-0">
+                        <div class="col-lg-1 col-md-1 col-sm-3 px-0">
                             <div class="single-fun-fact bg-3">
                                 <div id="timer" class="flex-wrap d-flex justify-content-center">
                                     <h3>

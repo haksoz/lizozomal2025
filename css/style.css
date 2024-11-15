@@ -2183,7 +2183,7 @@ button.list-group-item:hover {
 
 @media (max-width: 1200px) {
     .navbar-nav > li > a {
-        padding: 32px 4px;
+        padding: 2px 4px;
     }
 }
 
@@ -2586,7 +2586,7 @@ button.list-group-item:hover {
 
     /* navbar */
     .navbar-brand img {
-        max-width: 200px;
+        max-width: 240px;
     }
 
     /* jumbotron */

@@ -2183,7 +2183,7 @@ button.list-group-item:hover {
 
 @media (max-width: 1200px) {
     .navbar-nav > li > a {
-        padding: 2px 4px;
+        padding: 32px 4px;
     }
 }
 
@@ -2462,6 +2462,9 @@ button.list-group-item:hover {
     .pricingTable {
         margin-bottom: 80px;
     }
+    .navbar-nav > li > a {
+        padding: 4px 4px;
+    }
 }
 
 /************ max width 767px *************/
@@ -2574,6 +2577,7 @@ button.list-group-item:hover {
     .jumbo-heading {
         background-image: none;
     }
+    
 }
 
 /************ max width 480px *************/

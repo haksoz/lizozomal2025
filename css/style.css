@@ -1676,6 +1676,9 @@ ul.custom li:before {
     font-family: "Flaticon";
     padding-right: 7px;
 }
+.abstract ul.custom li:before{
+    content: "\f126";
+}
 
 /* Buttons */
 

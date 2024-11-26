@@ -54,10 +54,10 @@
                         <li>Bildiri metinleri Türkçe olarak gönderilmelidir (Uluslararası katılımcılar için İngilizce). </li>
                         <li>Sözlü bildirilere ayrı salon tahsis edilmiş olup çok sayıda sözlü bildirinin sunulması mümkün olacaktır. </li>
                         <li>Bilimsel kurul, bildirileri sözlü veya poster bildiri olarak değiştirme konusunda karar verme hakkına sahiptir. </li>
-                        <li>Programda yer aldığı halde kongrede sunulmayan veya özeti zamanında teslim edilmeyen bildiriler bildiri özetleri kitabında yayınlanmayacaktır. Bildiri özetleri, Kongre Düzenleme Kurulu tarafından değerlendirilerek, kabul veya ret mektupları ve sunum biçimi (sözlü / poster) ...... tarihine kadar başvuru sahiplerine iletilecek ve aynı zamanda kongre resmi web sitesinde ilan edilecektir. </li>
-                        <li>Bildiri özetlerinin son gönderim tarihi ….2023 tarihi olup, bu tarihten sonra gönderilen bildiriler değerlendirmeye alınmayacaktır. Bildiriler kongreden sonra web sitesinde yayınlanacaktır. </li>
+                        <li>Programda yer aldığı halde kongrede sunulmayan veya özeti zamanında teslim edilmeyen bildiriler bildiri özetleri kitabında yayınlanmayacaktır. Bildiri özetleri, Kongre Düzenleme Kurulu tarafından değerlendirilerek, kabul veya ret mektupları ve sunum biçimi (sözlü / poster) <b>21 Mart 2025</b> tarihine kadar başvuru sahiplerine iletilecek ve aynı zamanda kongre resmi web sitesinde ilan edilecektir. </li>
+                        <li>Bildiri özetlerinin son gönderim tarihi <b>17 Mart 2025</b> tarihi olup, bu tarihten sonra gönderilen bildiriler değerlendirmeye alınmayacaktır. Bildiriler kongreden sonra web sitesinde yayınlanacaktır. </li>
                         <li>Kongre kayıt işleminin tamamlanması için kongre organizasyon firmasına kayıt talebinin bildirilmesi ve kayıt ücretinin belirtilen banka hesap numarasına yatırılması gerekmektedir </li>
-                        <li>Kayıt hakkında ayrıntılı bilgi için lütfen sitemizin “Kayıt” sayfasını ziyaret ediniz. Bildirisi kabul edilen katılımcıların ……….tarihine kadar kayıtlarını tamamlaması gerekmektedir. Kayıt işlemleri tamamlanmayan bildiriler, bilimsel programdan çıkarılacaktır. </li>
+                        <li>Kayıt hakkında ayrıntılı bilgi için lütfen sitemizin “Kayıt” sayfasını ziyaret ediniz. Bildirisi kabul edilen katılımcıların <b>24 Mart 2025</b> tarihine kadar kayıtlarını tamamlaması gerekmektedir. Kayıt işlemleri tamamlanmayan bildiriler, bilimsel programdan çıkarılacaktır. </li>
                     </ul>
                 </div>
                 <div>
@@ -84,7 +84,7 @@
                         <li> Daha önceden hazırlamış olduğunuz dosyanızı (word formatında sadece yazı, resim veya tablo) bilgisayarınızda hazır bulundurunuz. </li>
                         <li> Kabul edilen poster veya sözlü özet bildirilerinizi tam metin bildirisi olarak ayrı Word dosyası olarak hazırlayınız. </li>
                         <li> Tam metin bildirileri maksimum 1300 kelime, 4 adet figür/resim, 4 adet tablo ve 20 kaynak ile sınırlıdır. </li>
-                        <li> Tam metin bildirilerinizi ... tarihine kadar Word formatında <b>lizozomal@soloevent.net</b> mail adresine gönderiniz. </li>
+                        <li> Tam metin bildirilerinizi <b>11 Nisan 2025</b>  tarihine kadar Word formatında <b><a href="mailto:lizozomal@soloevent.net">lizozomal@soloevent.net</a></b> mail adresine gönderiniz. </li>
                         <li> Tam metin bildiriler kongre sonrasında ayrıca ‘’Tam Metin Bildiri Kitabı’’ olarak yayınlanacaktır. Tam metin gönderimi zorunlu değildir. </li>
                     </ul>
                 </div>

@@ -55,7 +55,7 @@
 					<a href="program.php">Bilimsel Program</a>
 				</li>
 				<li class="<?php echo $page == 'bildiri' ? 'active' : '' ?>">
-					<a href="bildiri-gonderimi.php">Bildiri</a>
+					<a href="bildiri-gonderimi.php">Bildiri Gönderimi</a>
 				</li>
 				<!--
                   		<li class="dropdown <?php echo $page == 'program' ? 'active' : '' ?>">

@@ -2190,6 +2190,15 @@ button.list-group-item:hover {
     }
 }
 
+@media (min-width: 991px) and (max-width: 1200px) {
+            .navbar-brand img {
+    max-width: 200px;
+    }
+    .navbar-custom ul.nav li a {
+    font-size: 15px;
+    }
+}
+
 /************ max width 1300px *************/
 
 @media (max-width: 1300px) {

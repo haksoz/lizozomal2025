@@ -62,15 +62,16 @@
                             Doç. Dr. Sevil Yıldız
                         </p>
 
+                    </div>
+                    <div class="col-lg-6 text-center">
+                        <h4>Denetleme Kurulu</h4>
                         <p>
-                            <b>Denetleme Kurulu</b><br>
                             Prof. Dr. Mustafa Kendirci <br>
                             Prof. Dr. Hasan Önal<br>
                             Prof. Dr. Mahmut Çoker
                         </p>
-                    </div>
-                    <div class="col-lg-6 text-center">
-                        <h4>Dernek Yönetim Kurulu</h4>
+
+                        <h4>Düzenleme Kurulu</h4>
                         <p>
                             Prof. Dr. H. Neslihan Önenli Mungan<br>
                             Prof. Dr. Ertuğrul Kıykım<br>

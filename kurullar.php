@@ -59,6 +59,10 @@
 					Prof. Dr. Hasan Önal<br>
 					Prof. Dr. Mahmut Çoker</p>
 
+                    <p><b>Düzenleme Kurulu</b><br>
+                        Gülhan Karakaya <br>
+                        Duhan Hopurcuoğlu</p>
+
 				</div><!-- /col-md-12-->
 				</div>
 				

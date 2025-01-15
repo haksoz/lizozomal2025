@@ -62,14 +62,15 @@
                             Doç. Dr. Sevil Yıldız
                         </p>
 
-                    </div>
-                    <div class="col-lg-6 text-center">
                         <h4>Denetleme Kurulu</h4>
                         <p>
                             Prof. Dr. Mustafa Kendirci <br>
                             Prof. Dr. Hasan Önal<br>
                             Prof. Dr. Mahmut Çoker
                         </p>
+
+                    </div>
+                    <div class="col-lg-6 text-center">
 
                         <h4>Düzenleme Kurulu</h4>
                         <p>

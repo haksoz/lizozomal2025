@@ -58,10 +58,12 @@
                             <b>Üyeler</b><br>
                             Doç. Dr. Mehmet Gündüz<br>
                             Prof. Dr. Nur Arslan<br>
-                            Prof. Dr. Fatma Gülden Gökçay<br>
+                            Prof. Dr. Gülden Fatma Gökçay<br>
                             Doç. Dr. Sevil Yıldız
                         </p>
 
+                    </div>
+                    <div class="col-lg-6 text-center">
                         <h4>Denetleme Kurulu</h4>
                         <p>
                             Prof. Dr. Mustafa Kendirci <br>
@@ -69,23 +71,16 @@
                             Prof. Dr. Mahmut Çoker
                         </p>
 
-                    </div>
-                    <div class="col-lg-6 text-center">
-
                         <h4>Düzenleme Kurulu</h4>
                         <p>
-                            Prof. Dr. H. Neslihan Önenli Mungan<br>
-                            Prof. Dr. Ertuğrul Kıykım<br>
-                            Prof. Dr. Özlem Ünal Uzun<br>
-                            Doç. Dr. Mehmet Gündüz<br>
-                            Prof. Dr. Nur Arslan<br>
-                            Prof. Dr. Fatma Gülden Gökçay<br>
-                            Doç. Dr. Sevil Yıldız<br>
-                            Prof. Dr. Mustafa Kendirci<br>
-                            Prof. Dr. Hasan Önal<br>
-                            Prof. Dr. Mahmut Çoker<br>
-                            Uzm. Dr. Gülhan Karakaya<br>
+                            Prof. Dr. Nur Arslan <br>
+                            Doç. Dr. Mehmet Gündüz <br>
+                            Prof. Dr. Gülden Fatma Gökçay <br>
                             Uzm. Dr. Duhan Hopurcuoğlu
+                            Prof. Dr. Ertuğrul Kıykım <br>
+                            Uzm. Dr. Gülhan Karakaya <br>
+                            Prof. Dr. Özlem Ünal Uzun <br>
+                            Doç. Dr. Sevil Yıldız
                         </p>
 
                     </div>

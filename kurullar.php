@@ -36,39 +36,11 @@
 					<div class="hr"></div>
 				</div>
 				<div class="row justify-content-center">
-                    <div class="col-lg-6 text-center">
+                    <div class="col-lg-12 text-center">
                         <h4>Dernek Yönetim Kurulu</h4>
-
                         <p>
                             <b>Başkan</b><br>
                             Prof. Dr. H. Neslihan Önenli Mungan
-                        </p>
-
-                        <p>
-                            <b>Sayman</b><br>
-                            Prof. Dr. Ertuğrul Kıykım
-                        </p>
-
-                        <p>
-                            <b>Genel Sekreter</b><br>
-                            Prof. Dr. Özlem Ünal Uzun
-                        </p>
-
-                        <p>
-                            <b>Üyeler</b><br>
-                            Doç. Dr. Mehmet Gündüz<br>
-                            Prof. Dr. Nur Arslan<br>
-                            Prof. Dr. Gülden Fatma Gökçay<br>
-                            Doç. Dr. Sevil Yıldız
-                        </p>
-
-                    </div>
-                    <div class="col-lg-6 text-center">
-                        <h4>Denetleme Kurulu</h4>
-                        <p>
-                            Prof. Dr. Mustafa Kendirci <br>
-                            Prof. Dr. Hasan Önal<br>
-                            Prof. Dr. Mahmut Çoker
                         </p>
 
                         <h4>Düzenleme Kurulu</h4>
@@ -76,7 +48,7 @@
                             Prof. Dr. Nur Arslan <br>
                             Doç. Dr. Mehmet Gündüz <br>
                             Prof. Dr. Gülden Fatma Gökçay <br>
-                            Uzm. Dr. Duhan Hopurcuoğlu
+                            Uzm. Dr. Duhan Hopurcuoğlu <br>
                             Prof. Dr. Ertuğrul Kıykım <br>
                             Uzm. Dr. Gülhan Karakaya <br>
                             Prof. Dr. Özlem Ünal Uzun <br>
@@ -84,6 +56,32 @@
                         </p>
 
                     </div>
+<!--                    <div class="col-lg-6 text-center">-->
+<!--                        <p>-->
+<!--                            <b>Sayman</b><br>-->
+<!--                            Prof. Dr. Ertuğrul Kıykım-->
+<!--                        </p>-->
+<!---->
+<!--                        <p>-->
+<!--                            <b>Genel Sekreter</b><br>-->
+<!--                            Prof. Dr. Özlem Ünal Uzun-->
+<!--                        </p>-->
+<!---->
+<!--                        <p>-->
+<!--                            <b>Üyeler</b><br>-->
+<!--                            Doç. Dr. Mehmet Gündüz<br>-->
+<!--                            Prof. Dr. Nur Arslan<br>-->
+<!--                            Prof. Dr. Gülden Fatma Gökçay<br>-->
+<!--                            Doç. Dr. Sevil Yıldız-->
+<!--                        </p>-->
+<!--                        -->
+<!--                        <h4>Denetleme Kurulu</h4>-->
+<!--                        <p>-->
+<!--                            Prof. Dr. Mustafa Kendirci <br>-->
+<!--                            Prof. Dr. Hasan Önal<br>-->
+<!--                            Prof. Dr. Mahmut Çoker-->
+<!--                        </p>-->
+<!--                    </div>-->
 				</div>
 				
 				

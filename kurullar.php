@@ -40,19 +40,19 @@
                         <h4>Dernek Yönetim Kurulu</h4>
                         <p>
                             <b>Başkan</b><br>
-                            Prof. Dr. H. Neslihan Önenli Mungan
+                            H. Neslihan Önenli Mungan
                         </p>
 
                         <h4>Düzenleme Kurulu</h4>
                         <p>
-                            Prof. Dr. Nur Arslan <br>
-                            Doç. Dr. Mehmet Gündüz <br>
-                            Prof. Dr. Gülden Fatma Gökçay <br>
-                            Uzm. Dr. Duhan Hopurcuoğlu <br>
-                            Prof. Dr. Ertuğrul Kıykım <br>
-                            Uzm. Dr. Gülhan Karakaya <br>
-                            Prof. Dr. Özlem Ünal Uzun <br>
-                            Doç. Dr. Sevil Yıldız
+                            Nur Arslan <br>
+                            Mehmet Gündüz <br>
+                            Gülden Fatma Gökçay <br>
+                            Duhan Hopurcuoğlu <br>
+                            Ertuğrul Kıykım <br>
+                            Gülhan Karakaya <br>
+                            Özlem Ünal Uzun <br>
+                            Sevil Yıldız
                         </p>
 
                     </div>

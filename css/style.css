@@ -1545,15 +1545,15 @@ label {
 }
 
 .nav-tabs li {
-    margin-right: 20px;
+    margin-right: 4px;
 }
 
 .nav-tabs li a {
     font-weight: 600;
     position: relative;
-    padding: 20px 30px;
+    padding: 10px 10px;
     color: #fff !important;
-    font-size: 16px;
+    font-size: 14px;
     line-height: 24px;
     letter-spacing: 0.7px;
     z-index: 1;
@@ -3274,4 +3274,43 @@ footer .img-responsive {
 .home .relative {
     text-align: center;
     background-color: #2e7792;
+}
+
+.program-lang-tab{
+    display: flex;
+    justify-content: center;
+    border-bottom: 1px dotted #69bee5;
+    margin-bottom: 30px;
+}
+.program-lang-tab > div{
+    border: 1px dotted #69bee5;
+    padding: 13px 40px;
+    margin-bottom: -1px;
+    /*border-top: transparent;*/
+    border-top-right-radius:10px ;
+    border-top-left-radius: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    transition: all;
+    transition-timing-function: ease-in-out;
+    transition-duration: 550ms;
+}
+.program-lang-tab > div.active{
+    border: transparent;
+    background: #004e68;
+}
+.program-lang-tab > div h6{
+    transition: all;
+    transition-timing-function: ease-in-out;
+    transition-duration: 550ms;
+}
+.program-lang-tab > div.active h6{
+    color: #ffffff;
+}
+
+.program-lang-tab > div:hover{
+    background-color: #007a8d;
+}
+.program-lang-tab > div:hover h6{
+    color: #ffffff;
 }

@@ -51,8 +51,8 @@
 <!--                    </div>-->
 <!--                </div>-->
                 <div class="row" style="padding-bottom:30px; display:flex; justify-content:center;">
-					<a href="doc/17caadcep.pdf?v=09" target="_blank">
-						<div class="serviceBox col-lg-12" style="margin-top:0; background-color: #d64c68;">
+					<a href="#">
+						<div class="serviceBox col-lg-12" style="margin-top:0; background-color: rgb(207 100 93 / 90%);">
 							<div class="service-content text-light">
 								<h4 class="title" style="font-size:20px; padding:0px; margin-bottom:0px; margin-top:0px;">Programı İndirmek İçin Tıklayınız</h4>
 							</div>
@@ -80,7 +80,7 @@
                         </ul><!-- Tab panes -->
                         <div class="tab-content">
                             <div class="tab-pane active in fade" id="Section1" role="tabpanel">
-                                <h4 class="text-center">28 NİSAN PAZARTESİ KURSLAR</h4>
+                                <h4 class="text-center">28 NİSAN 2025 PAZARTESİ <br> KURSLAR</h4>
 
                                 <div class="tab program" role="tabpanel">
                                     <ul class="nav nav-tabs" style="" role="tablist">
@@ -169,7 +169,7 @@
 
                             </div><!-- /tab-panel -->
                             <div class="tab-pane fade" id="Section2" role="tabpanel">
-                                <h4 class="text-center">29 NİSAN SALI BİLİMSEL PROGRAM (1. Gün)</h4>
+                                <h4 class="text-center">29 NİSAN 2025 SALI <br> BİLİMSEL PROGRAM</h4>
                                 <div class="tab program" role="tabpanel">
                                     <ul class="nav nav-tabs" style="" role="tablist">
                                         <li class="active" role="presentation">
@@ -271,7 +271,7 @@
                                 </div>
                             </div><!-- /tab-panel -->
                             <div class="tab-pane fade" id="Section3" role="tabpanel">
-                                <h4 class="text-center">30 NİSAN ÇARŞAMBA BİLİMSEL PROGRAM (2. Gün)</h4>
+                                <h4 class="text-center">30 NİSAN 2025 ÇARŞAMBA <br> BİLİMSEL PROGRAM</h4>
                                 <div class="tab program" role="tabpanel">
                                     <ul class="nav nav-tabs" style="" role="tablist">
                                         <li class="active" role="presentation">
@@ -369,7 +369,7 @@
                                 </div>
                             </div><!-- /tab-panel -->
                             <div class="tab-pane fade" id="Section4" role="tabpanel">
-                                <h4 class="text-center">01 MAYIS PERŞEMBE BİLİMSEL PROGRAM (3. Gün)</h4>
+                                <h4 class="text-center">01 MAYIS 2025 PERŞEMBE <br> BİLİMSEL PROGRAM </h4>
                                 <div class="tab program" role="tabpanel">
                                     <ul class="nav nav-tabs" style="" role="tablist">
                                         <li class="active" role="presentation">
@@ -452,7 +452,7 @@
                                 </div>
                             </div><!-- /tab-panel -->
                             <div class="tab-pane fade" id="Section20" role="tabpanel">
-                                <h4 class="text-center">02 MAYIS CUMA BİLİMSEL PROGRAM (4. Gün)</h4>
+                                <h4 class="text-center">02 MAYIS 2025 CUMA <br> BİLİMSEL PROGRAM</h4>
                                 <div class="tab program" role="tabpanel">
                                     <ul class="nav nav-tabs" style="" role="tablist">
                                         <li class="active" role="presentation">
@@ -514,11 +514,12 @@
                                 }
 
                                 .oturum { 
-                                    background-color: #f9f9f9;
+                                    background-color: transparent;
                                 }
 
                                 .oturum_baslik { 
-                                    background-color: #B2E1FF;
+                                    background-color: #307692;
+                                    color: white;
                                     vertical-align: middle !important;
                                 }
 
@@ -598,7 +599,7 @@
                                     
                                 }
                                 .breaktime{
-                					background: #fc8c76;
+                					background: rgb(207 100 93 / 90%);
                 					color: #ffffff;
                 				}
                 				.breaktime b{
@@ -609,7 +610,7 @@
                                 }
                 				.tabletitle{
                 					color: #ffffff;
-                					background: #2a6496;
+                					background: #004e68;
                 				}
                 				.mr-1{
                 					margin-right: 5px;

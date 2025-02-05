@@ -140,13 +140,16 @@ button.list-group-item:hover,
 .bg-color1,
 .navbar-custom .nav a:hover,
 .navbar-custom .nav > .active > a,
-.nav-tabs li a:before,
+
 .navbar-custom ul li a:after,
 .our-team:hover .team-info,
 .jumbo-heading,
 .btn.btn-primary,
 .btn {
     background-color: #007a8d;
+}
+.nav-tabs li a:before{
+    background-color: #307692;
 }
 .elements h5,
 .open>.dropdown-toggle.btn-default:focus,
@@ -213,7 +216,7 @@ footer {
 .sidebar,
 .bubble,
 .tab-content .tab-pane {
-    background-color: rgb(105 190 229 / 15%);
+    background-color: rgb(234 245 252);
 }
 .img-blog {
     border-color: #fcd9d7;

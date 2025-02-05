@@ -538,7 +538,7 @@
                                     /*
                                     border: 3px solid #fff;
                                     */
-                                    border: 2px solid #A1ACBD;
+                                    border: 2px solid #fff;
                                     
                                 }
 

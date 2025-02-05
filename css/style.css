@@ -2919,8 +2919,8 @@ button.list-group-item:hover {
     }
 
     .program .tab-content {
-        width: calc((100% / 12) * 11);
-        padding-left: 15px;
+        width: calc((100% / 12) * 12);
+        padding: 15px;
     }
 
     .banner-mobil {

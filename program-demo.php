@@ -83,13 +83,8 @@
                                 <h4 class="text-center">28 NİSAN 2025 PAZARTESİ <br> KURSLAR</h4>
 
                                 <div class="tab program" role="tabpanel">
-                                    <ul class="nav nav-tabs" style="" role="tablist">
-                                        <li class="active" role="presentation">
-                                        </li>
-
-                                    </ul><!-- Tab panes -->
                                     <div class="tab-content ">
-                                        <div class="tab-pane active in fade" id="Section5" role="tabpanel">
+                                        <div class=" active in fade" id="Section5" role="tabpanel">
                                             <!-- Tables -->
                                             <table class="table table-bordered table-striped tg">
                                                 <colgroup>
@@ -171,14 +166,9 @@
                             <div class="tab-pane fade" id="Section2" role="tabpanel">
                                 <h4 class="text-center">29 NİSAN 2025 SALI <br> BİLİMSEL PROGRAM</h4>
                                 <div class="tab program" role="tabpanel">
-                                    <ul class="nav nav-tabs" style="" role="tablist">
-                                        <li class="active" role="presentation">
-                                            <a data-toggle="tab" href="#Section8" role="tab">SALON 1</a>
-                                        </li>
-
-                                    </ul><!-- Tab panes -->
+                                 
                                     <div class="tab-content ">
-                                        <div class="tab-pane active in fade" id="Section8" role="tabpanel">
+                                        <div class="active in fade" id="Section8" role="tabpanel">
                                             <!-- Tables -->
                                             <table class="table table-bordered table-striped tg">
                                                 <colgroup>
@@ -273,12 +263,7 @@
                             <div class="tab-pane fade" id="Section3" role="tabpanel">
                                 <h4 class="text-center">30 NİSAN 2025 ÇARŞAMBA <br> BİLİMSEL PROGRAM</h4>
                                 <div class="tab program" role="tabpanel">
-                                    <ul class="nav nav-tabs" style="" role="tablist">
-                                        <li class="active" role="presentation">
-                                            <a data-toggle="tab" href="#Section11" role="tab">SALON 1</a>
-                                        </li>
-
-                                    </ul><!-- Tab panes -->
+                                
                                     <div class="tab-content ">
                                         <div class="tab-pane active in fade" id="Section11" role="tabpanel">
                                             <!-- Tables -->
@@ -371,12 +356,7 @@
                             <div class="tab-pane fade" id="Section4" role="tabpanel">
                                 <h4 class="text-center">01 MAYIS 2025 PERŞEMBE <br> BİLİMSEL PROGRAM </h4>
                                 <div class="tab program" role="tabpanel">
-                                    <ul class="nav nav-tabs" style="" role="tablist">
-                                        <li class="active" role="presentation">
-                                            <a data-toggle="tab" href="#Section14" role="tab">SALON 1</a>
-                                        </li>
-
-                                    </ul><!-- Tab panes -->
+                                
                                     <div class="tab-content ">
                                         <div class="tab-pane active in fade" id="Section14" role="tabpanel">
                                             <!-- Tables -->
@@ -454,12 +434,7 @@
                             <div class="tab-pane fade" id="Section20" role="tabpanel">
                                 <h4 class="text-center">02 MAYIS 2025 CUMA <br> BİLİMSEL PROGRAM</h4>
                                 <div class="tab program" role="tabpanel">
-                                    <ul class="nav nav-tabs" style="" role="tablist">
-                                        <li class="active" role="presentation">
-                                            <a data-toggle="tab" href="#Section21" role="tab">SALON 1</a>
-                                        </li>
-
-                                    </ul><!-- Tab panes -->
+                                 
                                     <div class="tab-content ">
                                         <div class="tab-pane active in fade" id="Section21" role="tabpanel">
                                             <!-- Tables -->
@@ -518,7 +493,7 @@
                                 }
 
                                 .oturum_baslik { 
-                                    background-color: #307692;
+                                    background-color: #5b93b0;
                                     color: white;
                                     vertical-align: middle !important;
                                 }
@@ -599,7 +574,7 @@
                                     
                                 }
                                 .breaktime{
-                					background: rgb(207 100 93 / 90%);
+                					background: #99aebb;
                 					color: #ffffff;
                 				}
                 				.breaktime b{

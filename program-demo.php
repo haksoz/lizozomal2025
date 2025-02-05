@@ -507,7 +507,7 @@
                                 }
 
                                 .sub_clock {
-                                    text-align: right !important;
+                                    text-align: left !important;
                                     font-size: 14px !important;
                                     vertical-align: middle !important;
                                     

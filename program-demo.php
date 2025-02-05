@@ -38,7 +38,18 @@
                 <div class="hr"></div>
             </div><!-- Parallax object -->
             <div class="container">
-               
+<!--                <div class="program-lang-tab">-->
+<!--                    <div class="active">-->
+<!--                        <h6 class="text-center">-->
+<!--                            Bilimsel Program (TR)-->
+<!--                        </h6>-->
+<!--                    </div>-->
+<!--                    <div>-->
+<!--                        <h6 class="text-center">-->
+<!--                            Scientific Program (EN)-->
+<!--                        </h6>-->
+<!--                    </div>-->
+<!--                </div>-->
                 <div class="row" style="padding-bottom:30px; display:flex; justify-content:center;">
 					<a href="doc/17caadcep.pdf?v=09" target="_blank">
 						<div class="serviceBox col-lg-12" style="margin-top:0; background-color: #d64c68;">
@@ -82,72 +93,72 @@
                                             <!-- Tables -->
                                             <table class="table table-bordered table-striped tg">
                                                 <colgroup>
-												    <col style="width: 95px">
-											    </colgroup>
+                                                    <col style="width: 95px">
+                                                </colgroup>
 
                                                 <thead>
                                                 <tr>
-                                                    <th class="tabletitle" style="text-align:center">SAAT</th>
-                                                    <th class="tabletitle" style="text-align:center">TÜM YÖNLERİYLE LİZOZOMAL DEPO HASTALIKLARI TEDAVİ KURSU</th>
+                                                    <th class="tabletitle" style="text-align:center">Saat</th>
+                                                    <th class="tabletitle" style="text-align:center">Tüm Yönleriyle Lizozomal Depo Hastalıkları Tedavi Kursu</th>
                                                 </tr>
                                                 </thead>
                                                 <tbody>
-                                                <tr> 
-                                                    <td class="oturum_baslik"><b>09:00-09:20 </b></td>
+                                                <tr>
+                                                    <td class="oturum_baslik"><b>09:00-09:20</b></td>
                                                     <td class="oturum_baslik">
-                                                        <b> AÇILIŞ VE TANIŞMA</b>
+                                                        <b>Açılış Ve Tanışma</b>
                                                     </td>
                                                 </tr>
                                                 <tr>
                                                     <td class="oturum sub_clock">09:20-11:00</td>
                                                     <td class="oturum">
-                                                        LİZOZOM DEPO HASTALIKLARINDA ENZİM TEDAVİLERİ <br>
-                                                        GAUCHER HASTALIĞI <br>
-                                                        LİZOZOMAL ASİT LİPAZ EKSİKLİĞİ<br>
-                                                        FABRY HASTALIĞI<br>
-                                                        MUKOPOLİSAKKARİDOZLAR<br>
-                                                        NÖRONAL SEROİD LİPOFUKSİNOZİS<br>
+                                                        Lizozom Depo Hastalıklarında Enzim Tedavileri <br>
+                                                        Gaucher Hastalığı <br>
+                                                        Lizozomal Asit Lipaz Eksikliği<br>
+                                                        Fabry Hastalığı<br>
+                                                        Mukopolisakkaridozlar<br>
+                                                        Nöronal Serodi Lipofuksinozis<br>
                                                     </td>
                                                 </tr>
                                                 <tr>
                                                     <td class="breaktime">11:00-11:30</td>
-                                                    <td class="breaktime"><i class="fa fa-coffee"></i> <b>KAHVE ARASI</b></td>
+                                                    <td class="breaktime"><i class="fa fa-coffee"></i> <b>Kahve Arası</b></td>
                                                 </tr>
                                                 <tr>
-                                                    <td class="oturum sub_clock">09:20-11:00</td>
+                                                    <td class="oturum sub_clock">11:30-13:00</td>
                                                     <td class="oturum">
-                                                        LİZOZOMAL DEPO HASTALIKLARINDA BESLENME <br>
-                                                        LİZOZOMAL DEPO HASTALIKLARINDA ANESTEZİ VE CERRAHİ SORUNLARA YAKLAŞIM<br>
-                                                        ENZİM TEDAVİLERİNDE ALERJİK REAKSİYONLARIN YÖNETİMİ <br>
+                                                        Lizozomal Depo Hastalıklarında Beslenme <br>
+                                                        Lizozomal Depo Hastalıklarında Anestezi Ve Cerrahi Sorunlara Yaklaşım<br>
+                                                        Enzim Tedavilerinde Alerjik Reaksiyonların Yönetimi <br>
                                                     </td>
                                                 </tr>
                                                 <tr>
                                                     <td class="breaktime">13:00-14:00</td>
-                                                    <td class="breaktime"><i class="fa fa-cutlery mr-1"></i> <b>ÖĞLE YEMEĞİ</b></td>
+                                                    <td class="breaktime"><i class="fa fa-cutlery mr-1"></i> <b>Öğle Yemeği</b></td>
                                                 </tr>
                                                 <tr>
                                                     <td class="oturum sub_clock">14:00-15:00</td>
                                                     <td class="oturum">
-                                                        LİZOZOMAL DEPO HASTALIKLARINDA DİĞER TEDAVİ YAKLAŞIMLARI - 1<br>
-                                                        SOLİD ORGAN NAKİLLERİ<br>
-                                                        HEMATOPOETİK KÖK HÜCRE NAKLİ<br>
+                                                        Lizozomal Depo Hastalıklarında Diğer Tedavi Yaklaşımları - 1<br>
+                                                        Solid Organ Nakilleri<br>
+                                                        Hematopoetik Kök Hücre Nakli<br>
                                                     </td>
                                                 </tr>
                                                 <tr>
                                                     <td class="breaktime">15:00-15:30</td>
-                                                    <td class="breaktime"><i class="fa fa-coffee"></i> <b>KAHVE ARASI</b></td>
+                                                    <td class="breaktime"><i class="fa fa-coffee"></i> <b>Kahve Arası</b></td>
                                                 </tr>
                                                 <tr>
-                                                    <td class="oturum sub_clock">14:00-15:00</td>
+                                                    <td class="oturum sub_clock">15:30-16:30</td>
                                                     <td class="oturum">
-                                                        LİZOZOMAL DEPO HASTALIKLARINDA DiĞER TEDAVİ YAKLAŞIMLARI - 2<br>
-                                                        GEN TEDAVİLERİ<br>
-                                                        KÜÇÜK MOLEKÜL TEDAVİLERİ<br>
+                                                        Lizozomal Depo Hastalıklarında Diğer Tedavi Yaklaşımları - 2<br>
+                                                        Gen Tedavileri<br>
+                                                        Küçük Molekül Tedavileri<br>
                                                     </td>
                                                 </tr>
                                                 <tr>
                                                     <td class="oturum_baslik"><b>16:30-16:45</b></td>
-                                                    <td class="oturum_baslik"><b>ÖZET VE KAPANIŞ</b></td>
+                                                    <td class="oturum_baslik"><b>Özet Ve Kapanış</b></td>
                                                 </tr>
                                                 </tbody>
                                             </table>
@@ -171,85 +182,85 @@
                                             <!-- Tables -->
                                             <table class="table table-bordered table-striped tg">
                                                 <colgroup>
-												    <col style="width: 95px">
-											    </colgroup>
+                                                    <col style="width: 95px">
+                                                </colgroup>
                                                 <thead>
                                                 <tr>
-                                                    <th class="tabletitle" style="text-align:center">SAAT</th>
-                                                    <th class="tabletitle" style="text-align:center">SALON 1</th>
+                                                    <th class="tabletitle" style="text-align:center">Saat</th>
+                                                    <th class="tabletitle" style="text-align:center">Salon 1</th>
                                                 </tr>
                                                 </thead>
                                                 <tbody>
                                                 <tr>
-                                                    <td class="oturum_baslik"><b>08:30-09:30 </b></td>
+                                                    <td class="oturum_baslik"><b>08:30-09:30</b></td>
                                                     <td class="oturum_baslik">
-                                                        <b>AÇILIŞ TÖRENİ</b>
+                                                        <b>Açılış Töreni</b>
                                                     </td>
                                                 </tr>
                                                 <tr>
                                                     <td class="oturum sub_clock">09:30-10:00</td>
                                                     <td class="oturum">
-                                                        YENİ UFUKLAR: LİZOZOMAL DEPO HASTALIKLARINDA PRENATAL ENZİM TEDAVİLERİ
+                                                        Yeni Ufuklar: Lizozomal Depo Hastalıklarında Prenatal Enzim Tedavileri
                                                     </td>
                                                 </tr>
                                                 <tr>
                                                     <td class="breaktime">10:00-10:30</td>
-                                                    <td class="breaktime"><i class="fa fa-coffee"></i> <b>KAHVE ARASI</b></td>
+                                                    <td class="breaktime"><i class="fa fa-coffee"></i> <b>Kahve Arası</b></td>
                                                 </tr>
                                                 <tr>
                                                     <td class="oturum sub_clock">10:30-11:30</td>
                                                     <td class="oturum">
-                                                        LİZOZOMAL DEPO HASTALIKLARINDA NÖROBİYOBELİRTEÇLER: <br>
-                                                        SERUM MU, BEYİN-OMURİLİK SIVISI MI? <br>
-                                                        NÖRONOPATİK FORMLARDA KAN-BEYİN BARİYERİNİ AŞABİLEN TEDAVİLER VE ÖZELLİKLERİ <br>
+                                                        Lizozomal Depo Hastalıklarında Nörobiyobelirteçler: <br>
+                                                        Serum Mu, Beyin-Omurilik Sıvısı Mı? <br>
+                                                        Nöronopatik Formlarda Kan-Beyin Bariyerini Aşabilen Tedaviler Ve Özellikleri <br>
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td class="oturum sub_clock">11.30-12.30</td>
+                                                    <td class="oturum sub_clock">11:30-12:30</td>
                                                     <td class="oturum">
-                                                        UYDU SEMPOZYUMU <br>
-                                                        GAUCHER HASTALIĞI <br>
+                                                        Uydu Sempozyumu <br>
+                                                        Gaucher Hastalığı <br>
                                                     </td>
                                                 </tr>
                                                 <tr>
                                                     <td class="breaktime">12:30-14:00</td>
-                                                    <td class="breaktime"><i class="fa fa-cutlery mr-1"></i> <b>ÖĞLE YEMEĞİ</b></td>
+                                                    <td class="breaktime"><i class="fa fa-cutlery mr-1"></i> <b>Öğle Yemeği</b></td>
                                                 </tr>
                                                 <tr>
                                                     <td class="oturum sub_clock">14:00-15:00</td>
                                                     <td class="oturum">
-                                                        UYDU SEMPOZYUMU <br>
-                                                        MUKOPOLİSAKKARİDOZ TİP II
+                                                        Uydu Sempozyumu <br>
+                                                        Mukopolisakkaridoz Tip II
                                                     </td>
                                                 </tr>
                                                 <tr>
                                                     <td class="breaktime">15:00-15:30</td>
-                                                    <td class="breaktime"><i class="fa fa-coffee"></i> <b>KAHVE ARASI</b></td>
+                                                    <td class="breaktime"><i class="fa fa-coffee"></i> <b>Kahve Arası</b></td>
                                                 </tr>
                                                 <tr>
                                                     <td class="oturum sub_clock">15:30-16:30</td>
                                                     <td class="oturum">
-                                                        LİZOZOMAL DEPO HASTALIKLARINDA GÖRÜNTÜLEME <br>
-                                                        SANTRAL SİNİR SİSTEMİ RADYOLOJİSİ<br>
-                                                        İSKELET SİSTEMİ RADYOLOJİSİ<br>
+                                                        Lizozomal Depo Hastalıklarında Görüntüleme <br>
+                                                        Santral Sinir Sistemi Radyolojisi<br>
+                                                        İskelet Sistemi Radyolojisi<br>
                                                     </td>
                                                 </tr>
                                                 <tr>
                                                     <td class="oturum sub_clock">16:30-17:00</td>
                                                     <td class="oturum">
-                                                        MUKOPOLİSAKKARİDOZLARDA ERKEN BAŞLANAN ENZİM TEDAVİLERİ VE BÜYÜME
+                                                        Mukopolisakkaridozlarda Erken Başlanan Enzim Tedavileri Ve Büyüme
                                                     </td>
                                                 </tr>
                                                 <tr>
                                                     <td class="oturum sub_clock">17:00-18:00</td>
                                                     <td class="oturum">
-                                                        SÖZLÜ SUNUMLAR
+                                                        Sözlü Sunumlar
                                                     </td>
                                                 </tr>
                                                 <tr>
                                                     <td class="oturum sub_clock">18:00-18:30</td>
                                                     <td class="oturum">
-                                                        POSTER SUNUMLARI
+                                                        Poster Sunumları
                                                     </td>
                                                 </tr>
                                                 </tbody>
@@ -273,81 +284,81 @@
                                             <!-- Tables -->
                                             <table class="table table-bordered table-striped tg">
                                                 <colgroup>
-												    <col style="width: 95px">
-											    </colgroup>
+                                                    <col style="width: 95px">
+                                                </colgroup>
                                                 <thead>
                                                 <tr>
-                                                    <th class="tabletitle" style="text-align:center">SAAT</th>
-                                                    <th class="tabletitle" style="text-align:center">SALON 1</th>
+                                                    <th class="tabletitle" style="text-align:center">Saat</th>
+                                                    <th class="tabletitle" style="text-align:center">Salon 1</th>
                                                 </tr>
                                                 </thead>
                                                 <tbody>
                                                 <tr>
                                                     <td class="oturum sub_clock">08:00-09:00</td>
                                                     <td class="oturum">
-                                                        SÖZLÜ SUNUMLAR
+                                                        Sözlü Sunumlar
                                                     </td>
                                                 </tr>
                                                 <tr>
                                                     <td class="oturum sub_clock">09:00-09:30</td>
                                                     <td class="oturum">
-                                                        LİZOZOMAL DEPO HASTALIKLARINDA <br>
-                                                        İNFLAMASYON VE ANTİİNFLAMATUVAR TEDAVİLER
+                                                        Lizozomal Depo Hastalıklarında <br>
+                                                        İnflamasyon Ve Antiinflamatuvar Tedaviler
                                                     </td>
                                                 </tr>
                                                 <tr>
                                                     <td class="oturum sub_clock">09:30-11:00</td>
                                                     <td class="oturum">
-                                                        LİZOZOMAL DEPO HASTALIKLARINDA OTOFAJİ VE HÜCRESEL HASAR MEKANİZMALARI<br>
-                                                        PERİFERİK NÖROPATİ<br>
-                                                        ARTROPATİ
+                                                        Lizozomal Depo Hastalıklarında Otofaji Ve Hücresel Hasar Mekanizmaları<br>
+                                                        Periferik Nöropati<br>
+                                                        Artropati
                                                     </td>
                                                 </tr>
                                                 <tr>
                                                     <td class="breaktime">11:00-11:30</td>
-                                                    <td class="breaktime"><i class="fa fa-coffee"></i> <b>KAHVE ARASI</b></td>
+                                                    <td class="breaktime"><i class="fa fa-coffee"></i> <b>Kahve Arası</b></td>
                                                 </tr>
                                                 <tr>
                                                     <td class="oturum sub_clock">11:30-12:00</td>
                                                     <td class="oturum">
-                                                        BİLİNENLERİN ÖTESİNDE NİEMANN-PİCK TİP C HASTALIĞI
+                                                        Bilinenlerin Ötesinde Niemann-Pick Tip C Hastalığı
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td class="breaktime">12:30-14:00</td>
-                                                    <td class="breaktime"><i class="fa fa-cutlery mr-1"></i> <b>ÖĞLE YEMEĞİ</b></td>
+                                                    <td class="breaktime">12:00-13:30</td>
+                                                    <td class="breaktime"><i class="fa fa-cutlery mr-1"></i> <b>Öğle Yemeği</b></td>
                                                 </tr>
                                                 <tr>
                                                     <td class="oturum sub_clock">13:30-15:00</td>
                                                     <td class="oturum">
-                                                        GÜNCEL BİLGİLER IŞIĞINDA OLİGOSAKKARİDOZLAR <br>
-                                                        MANNOSİDOZ<br>
-                                                        FUKOSİDOZ<br>
-                                                        SİYALİK ASİT METABOLİZMASI HASTALIKLARI                                                    </td>
+                                                        Güncel Bilgiler Işığında Oligosakkaridozlar <br>
+                                                        Mannosidoz<br>
+                                                        Fukosidoz<br>
+                                                        Siyalik Asit Metabolizması Hastalıkları
+                                                    </td>
                                                 </tr>
-
                                                 <tr>
                                                     <td class="breaktime">15:00-15:30</td>
-                                                    <td class="breaktime"><i class="fa fa-coffee"></i> <b>KAHVE ARASI</b></td>
+                                                    <td class="breaktime"><i class="fa fa-coffee"></i> <b>Kahve Arası</b></td>
                                                 </tr>
                                                 <tr>
                                                     <td class="oturum sub_clock">15:30-17:00</td>
                                                     <td class="oturum">
-                                                        ULTRA NADİR LİZOZOMAL DEPO HASTALIKLARI<br>
-                                                        MULTİPL SÜLFATAZ EKSİKLİĞİ<br>
-                                                        MUKOLİPİDOZLAR
+                                                        Ultra Nadir Lizozomal Depo Hastalıkları<br>
+                                                        Multipl Sülfataz Eksikliği<br>
+                                                        Mukolipidozlar
                                                     </td>
                                                 </tr>
                                                 <tr>
                                                     <td class="oturum sub_clock">17:00-18:00</td>
                                                     <td class="oturum">
-                                                        SÖZLÜ SUNUMLAR
+                                                        Sözlü Sunumlar
                                                     </td>
                                                 </tr>
                                                 <tr>
                                                     <td class="oturum sub_clock">18:00-18:30</td>
                                                     <td class="oturum">
-                                                        POSTER SUNUMLARI
+                                                        Poster Sunumları
                                                     </td>
                                                 </tr>
                                                 </tbody>
@@ -371,71 +382,69 @@
                                             <!-- Tables -->
                                             <table class="table table-bordered table-striped tg">
                                                 <colgroup>
-												    <col style="width: 95px">
-											    </colgroup>
+                                                    <col style="width: 95px">
+                                                </colgroup>
                                                 <thead>
                                                 <tr>
-                                                    <th class="tabletitle" style="text-align:center">SAAT</th>
-                                                    <th class="tabletitle" style="text-align:center">SALON 1</th>
+                                                    <th class="tabletitle" style="text-align:center">Saat</th>
+                                                    <th class="tabletitle" style="text-align:center">Salon 1</th>
                                                 </tr>
                                                 </thead>
                                                 <tbody>
                                                 <tr>
                                                     <td class="oturum sub_clock">08:00-09:00</td>
                                                     <td class="oturum">
-                                                        SÖZLÜ SUNUMLAR
+                                                        Sözlü Sunumlar
                                                     </td>
                                                 </tr>
                                                 <tr>
                                                     <td class="oturum sub_clock">09:00-09:30</td>
                                                     <td class="oturum">
-                                                        METAKROMATİK LÖKODİSTROFİDE GEN TEDAVİSİ VE NÖROLOJİK SONUÇLARI
+                                                        Metakromatik LökoDistrofide Gen Tedavisi Ve Nörolojik Sonuçları
                                                     </td>
                                                 </tr>
                                                 <tr>
                                                     <td class="oturum sub_clock">09:30-10:00</td>
                                                     <td class="oturum">
-                                                        MULTİOMİK ANALİZLER VE LİZOZOMAL DEPO HASTALIKLARI
+                                                        Multiomik Analizler Ve Lizozomal Depo Hastalıkları
                                                     </td>
                                                 </tr>
                                                 <tr>
                                                     <td class="breaktime">10:30-11:00</td>
-                                                    <td class="breaktime"><i class="fa fa-coffee"></i> <b>KAHVE ARASI</b></td>
+                                                    <td class="breaktime"><i class="fa fa-coffee"></i> <b>Kahve Arası</b></td>
                                                 </tr>
                                                 <tr>
                                                     <td class="oturum sub_clock">11:00-12:00</td>
                                                     <td class="oturum">
-                                                        LİZOZOMAL DEPO HASTALIKLARINDA GÜNCEL TEDAVİLER - 1 <br>
-                                                        MPS TİP III<br>
-                                                        MPS TİP IVA
+                                                        Lizozomal Depo Hastalıklarında Güncel Tedaviler - 1 <br>
+                                                        Mukopolisakkaridoz Tip II<br>
+                                                        Mukopolisakkaridoz Tip IVA
                                                     </td>
                                                 </tr>
                                                 <tr>
                                                     <td class="breaktime">12:00-13:30</td>
-                                                    <td class="breaktime"><i class="fa fa-cutlery mr-1"></i> <b>ÖĞLE YEMEĞİ</b></td>
+                                                    <td class="breaktime"><i class="fa fa-cutlery mr-1"></i> <b>Öğle Yemeği</b></td>
                                                 </tr>
                                                 <tr>
                                                     <td class="oturum sub_clock">13:30-15:00</td>
                                                     <td class="oturum">
-                                                        LIZOZOMAL DEPO HASTALIKLARINDA GÜNCEL TEDAVİLER - 2<br>
-                                                        POMPE HASTALIĞI<br>
-                                                        ASİT SİFİNGOMİYELİNAZ EKSİKLİĞİ<br>
-                                                        SİSTİNOZİS
+                                                        Lizozomal Depo Hastalıklarında Güncel Tedaviler - 2<br>
+                                                        Pompe Hastalığı<br>
+                                                        Asit Sifingomiyelinaz Eksikliği<br>
+                                                        Sistinozis
                                                     </td>
                                                 </tr>
-
                                                 <tr>
                                                     <td class="breaktime">15:00-15:30</td>
-                                                    <td class="breaktime"><i class="fa fa-coffee"></i> <b>KAHVE ARASI</b></td>
+                                                    <td class="breaktime"><i class="fa fa-coffee"></i> <b>Kahve Arası</b></td>
                                                 </tr>
                                                 <tr>
                                                     <td class="oturum sub_clock">15:30-16:30</td>
                                                     <td class="oturum">
-                                                        LİZOZOMAL DEPO HASTALIKLARINDA YAŞANAN RAPORLAMA VE REÇETE SORUNLARI
+                                                        Lizozomal Depo Hastalıklarında Yaşanan Raporlama Ve Reçete Sorunları
                                                     </td>
                                                 </tr>
                                                 </tbody>
-
                                             </table>
                                             <!-- /table -->
                                         </div>
@@ -456,29 +465,28 @@
                                             <!-- Tables -->
                                             <table class="table table-bordered table-striped tg">
                                                 <colgroup>
-												    <col style="width: 95px">
-											    </colgroup>
+                                                    <col style="width: 95px">
+                                                </colgroup>
                                                 <thead>
                                                 <tr>
-                                                    <th class="tabletitle" style="text-align:center">SAAT</th>
-                                                    <th class="tabletitle" style="text-align:center">SALON 1</th>
+                                                    <th class="tabletitle" style="text-align:center">Saat</th>
+                                                    <th class="tabletitle" style="text-align:center">Salon 1</th>
                                                 </tr>
                                                 </thead>
                                                 <tbody>
                                                 <tr>
                                                     <td class="oturum sub_clock">09:00-10:30</td>
                                                     <td class="oturum">
-                                                        LİZOZOMAL DEPO HASTALIKLARINDA AKILCI İLAÇ KULLANIMI
+                                                        Lizozomal Depo Hastalıklarında Akılcı İlaç Kullanımı
                                                     </td>
                                                 </tr>
                                                 <tr>
                                                     <td class="oturum_baslik"><b>10:30-11:30</b></td>
                                                     <td class="oturum_baslik">
-                                                        <b>KAPANIŞ TÖRENİ</b>
+                                                        <b>Kapanış Töreni</b>
                                                     </td>
                                                 </tr>
                                                 </tbody>
-
                                             </table>
                                             <!-- /table -->
                                         </div>

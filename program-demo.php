@@ -38,18 +38,7 @@
                 <div class="hr"></div>
             </div><!-- Parallax object -->
             <div class="container">
-                <div class="program-lang-tab">
-                    <div class="active">
-                        <h6 class="text-center">
-                            Bilimsel Program (TR)
-                        </h6>
-                    </div>
-                    <div>
-                        <h6 class="text-center">
-                            Scientific Program (EN)
-                        </h6>
-                    </div>
-                </div>
+               
                 <div class="row" style="padding-bottom:30px; display:flex; justify-content:center;">
 					<a href="doc/17caadcep.pdf?v=09" target="_blank">
 						<div class="serviceBox col-lg-12" style="margin-top:0; background-color: #d64c68;">

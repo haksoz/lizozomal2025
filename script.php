@@ -7,10 +7,6 @@
 <script src="js/main.js?v=712352">
 </script> <!-- Open maps -->
 
- 
-<script src="js/contact.js?v=712352">
-</script> <!--Other Plugins -->
- 
 <script src="js/plugins.js?v=712352">
 </script> <!-- Prefix free CSS -->
  

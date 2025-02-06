@@ -52,7 +52,7 @@ h4 {
     color: #333;
     font-size: 26px;
     margin-bottom: 10px;
-    margin-top: 20px;
+    margin-top: 10px;
     font-family: 'Rubik', sans-serif;
 }
 
@@ -2311,11 +2311,11 @@ button.list-group-item:hover {
     /* Headers */
     h1 {
         font-size: 46px;
-        line-height: 52px;
+        line-height: 35px;
     }
 
     h2 {
-        font-size: 40px;
+        font-size: 30px;
     }
 
     h3 {
@@ -2430,7 +2430,7 @@ button.list-group-item:hover {
 
     /* Space between sections */
     .section-heading {
-        margin-bottom: 30px;
+        margin-bottom: 10px;
     }
 
     /* miscelaneous */
@@ -2463,7 +2463,7 @@ button.list-group-item:hover {
     }
 
     .nav-tabs li a {
-        padding: 15px 8px;
+        padding: 8px 8px;
         font-size: 14px;
         margin: 0 0 0 0;
     }
@@ -2530,7 +2530,7 @@ button.list-group-item:hover {
     }
 
     h1 {
-        font-size: 2.998em;
+        font-size: 2.0em;
     }
 
     .nav-pills > li > a {
@@ -2628,7 +2628,7 @@ button.list-group-item:hover {
 
     /* Headers */
     h1 {
-        font-size: 36px !important;
+        font-size: 24px !important;
         line-height: 30px !important;
     }
 
@@ -2867,11 +2867,11 @@ button.list-group-item:hover {
     }
 
     .serviceBox {
-        margin-top: 0px;
+        margin: 0px 10px 0px 10px;
     }
 
     .jumbo-heading {
-        padding: 70px 0px 4px 0px;
+        padding: 40px 0px 4px 0px;
     }
     .single-fun-fact {
     padding: 10px 18px !important;
@@ -2978,7 +2978,7 @@ button.list-group-item:hover {
 
 .header-top {
     padding: 8px 0 8px 0;
-    background-color: #2f7692;
+    background-color: #00788b;
 }
 
 .flex-row {

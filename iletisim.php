@@ -56,7 +56,7 @@
                                     Konutkent Mah. 3035 Cadde Dış Kapı No:74 A İç Kapı No:47
                                     <br>Çankaya/Ankara/Türkiye
                                 </p>
-								<p><i class="fa fa-envelope margin-icon"></i><b>E-Mail:</b> <a href="mailto:cbmdsekreter@gmail.com">cbmdsekreter@gmail.com</a></p>
+								<p><i class="fa fa-envelope margin-icon"></i><b>E-Mail:</b> cbmdsekreter@gmail.com</p>
 							</div>
 						</div>
 						<div class="col-lg-2 col-md-2">
@@ -70,7 +70,7 @@
 									Şişli, 34394, İstanbul</p>
 								<p><i class="fa fa-phone margin-icon"></i><b>Tel:</b> +90 212 279 00 20</p>
 								<p><i class="fa fa-fax margin-icon"></i><b>Faks:</b> +90 212 279 00 35</p>
-								<p><i class="fa fa-envelope margin-icon"></i><b>E-Mail:</b> <a href="mailto:lizozomal@soloevent.net">lizozomal@soloevent.net</a></p>
+								<p><i class="fa fa-envelope margin-icon"></i><b>E-Mail:</b> lizozomal@soloevent.net</p>
 							</div>
 						</div>
 					</div>

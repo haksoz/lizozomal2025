@@ -3315,3 +3315,13 @@ footer .img-responsive {
 .program-lang-tab > div:hover h6{
     color: #ffffff;
 }
+.nav.nav-tabs .courses{
+    text-align: center;
+    width: 15%;
+    display: block;
+}
+@media screen and (max-width: 768px){
+    .nav.nav-tabs .courses{
+        width: 50%;
+    }
+}

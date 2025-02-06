@@ -25,7 +25,7 @@
                 <div class="jumbotron"></div><!-- /jumbotron-->
                 <div class="jumbo-heading" style="background-color: transparent;">
                     <!-- Heading -->
-           
+                    <h1>9. Uluslararası Katılımlı <br>Lizozomal Hastalıklar Kongresi</h1><!-- Breadcrumb -->
                 </div><!-- /jumbo-heading -->
             </div><!-- /container-fluid-->
         </section><!--Section Blog ends -->
@@ -59,11 +59,10 @@
 					</a>
                 </div>
                     <div class="tab" role="tabpanel">
-                        <!-- Nav tabs -->
-                        <ul class="nav nav-tabs date-button" role="tablist" >
-                            <li class="active" role="presentation">
-                                <a data-toggle="tab" href="#Section1" role="tab" style="text-align: center;">28 Nisan Pazartesi <br>Kurslar</a>
-                            </li>
+                        <ul class="nav nav-tabs date-button" role="tablist" style="display: flex;justify-content: center;flex-wrap: wrap;">
+                               <li class="active" role="presentation" style="width: 100%;display: flex;justify-content: center;">
+                                   <a data-toggle="tab" href="#Section1" role="tab" class="courses">28 Nisan Pazartesi <br>Kurs</a>
+                               </li>
                             <li role="presentation">
                                 <a data-toggle="tab" href="#Section2" role="tab" style="text-align: center;">29 Nisan Salı<br>Bilimsel Program</a>
                             </li>
@@ -79,7 +78,7 @@
                         </ul><!-- Tab panes -->
                         <div class="tab-content">
                             <div class="tab-pane active in fade" id="Section1" role="tabpanel">
-                                <h4 class="text-center">28 NİSAN 2025 PAZARTESİ <br> KURSLAR</h4>
+                                <h4 class="text-center">28 NİSAN 2025, PAZARTESİ <br> KURS</h4>
 
                                 <div class="tab program" role="tabpanel">
                                     <div class="tab-content ">
@@ -163,7 +162,7 @@
 
                             </div><!-- /tab-panel -->
                             <div class="tab-pane fade" id="Section2" role="tabpanel">
-                                <h4 class="text-center">29 NİSAN 2025 SALI <br> BİLİMSEL PROGRAM</h4>
+                                <h4 class="text-center">29 NİSAN 2025, SALI <br> BİLİMSEL PROGRAM</h4>
                                 <div class="tab program" role="tabpanel">
                                  
                                     <div class="tab-content ">
@@ -207,8 +206,11 @@
                                                 <tr>
                                                     <td class="oturum sub_clock">11:30-12:30</td>
                                                     <td class="oturum">
-                                                        Uydu Sempozyumu <br>
-                                                        Gaucher Hastalığı <br>
+                                                        Uydu Sempozyumu Sanofi<br>
+                                                        Bone involvement in Gaucher disease: <br>
+                                                        Can miRNAs determine or predict the severity degree? <br>
+                                                        Olgularla Cerezyme Deneyimi
+                                                        <br>
                                                     </td>
                                                 </tr>
                                                 <tr>
@@ -218,9 +220,9 @@
                                                 <tr>
                                                     <td class="oturum sub_clock">14:00-15:00</td>
                                                     <td class="oturum">
-                                                        Uydu Sempozyumu <br>
-                                                        Mukopolisakkaridoz Tip II
-                                                    </td>
+                                                        Uydu Sempozyumu Takeda<br>
+                                                        Türkiye’de MPS Tip II ve Idursülfaz Deneyimi <br>
+                                                        MPS Tip II’de Optimal Hastalık Yönetimi Nasıl Olmalı?
                                                 </tr>
                                                 <tr>
                                                     <td class="breaktime">15:00-15:30</td>
@@ -260,7 +262,7 @@
                                 </div>
                             </div><!-- /tab-panel -->
                             <div class="tab-pane fade" id="Section3" role="tabpanel">
-                                <h4 class="text-center">30 NİSAN 2025 ÇARŞAMBA <br> BİLİMSEL PROGRAM</h4>
+                                <h4 class="text-center">30 NİSAN 2025, ÇARŞAMBA <br> BİLİMSEL PROGRAM</h4>
                                 <div class="tab program" role="tabpanel">
                                 
                                     <div class="tab-content ">
@@ -286,8 +288,7 @@
                                                 <tr>
                                                     <td class="oturum sub_clock">09:00-09:30</td>
                                                     <td class="oturum">
-                                                        Lizozomal Depo Hastalıklarında <br>
-                                                        İnflamasyon Ve Antiinflamatuvar Tedaviler
+                                                        Lizozomal Depo Hastalıklarında İnflamasyon Ve Antiinflamatuvar Tedaviler
                                                     </td>
                                                 </tr>
                                                 <tr>
@@ -317,8 +318,8 @@
                                                     <td class="oturum">
                                                         Güncel Bilgiler Işığında Oligosakkaridozlar <br>
                                                         Mannosidoz<br>
+                                                        Siyalik Asit Metabolizması Hastalıkları <br>
                                                         Fukosidoz<br>
-                                                        Siyalik Asit Metabolizması Hastalıkları
                                                     </td>
                                                 </tr>
                                                 <tr>
@@ -353,7 +354,7 @@
                                 </div>
                             </div><!-- /tab-panel -->
                             <div class="tab-pane fade" id="Section4" role="tabpanel">
-                                <h4 class="text-center">01 MAYIS 2025 PERŞEMBE <br> BİLİMSEL PROGRAM </h4>
+                                <h4 class="text-center">01 MAYIS 2025, PERŞEMBE <br> BİLİMSEL PROGRAM </h4>
                                 <div class="tab program" role="tabpanel">
                                 
                                     <div class="tab-content ">
@@ -379,7 +380,9 @@
                                                 <tr>
                                                     <td class="oturum sub_clock">09:00-09:30</td>
                                                     <td class="oturum">
-                                                        Metakromatik LökoDistrofide Gen Tedavisi Ve Nörolojik Sonuçları
+                                                        Atidarsagene autotemcel autologous hematopoietic stem cell gene therapy:
+                                                        <br>
+                                                        Cognitive and motor development in metachromatic leukodystrophy
                                                     </td>
                                                 </tr>
                                                 <tr>
@@ -396,7 +399,7 @@
                                                     <td class="oturum sub_clock">11:00-12:00</td>
                                                     <td class="oturum">
                                                         Lizozomal Depo Hastalıklarında Güncel Tedaviler - 1 <br>
-                                                        Mukopolisakkaridoz Tip II<br>
+                                                        Mukopolisakkaridoz Tip III<br>
                                                         Mukopolisakkaridoz Tip IVA
                                                     </td>
                                                 </tr>
@@ -431,7 +434,7 @@
                                 </div>
                             </div><!-- /tab-panel -->
                             <div class="tab-pane fade" id="Section20" role="tabpanel">
-                                <h4 class="text-center">02 MAYIS 2025 CUMA <br> BİLİMSEL PROGRAM</h4>
+                                <h4 class="text-center">02 MAYIS 2025, CUMA <br> BİLİMSEL PROGRAM</h4>
                                 <div class="tab program" role="tabpanel">
                                  
                                     <div class="tab-content ">

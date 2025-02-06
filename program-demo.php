@@ -25,8 +25,7 @@
                 <div class="jumbotron"></div><!-- /jumbotron-->
                 <div class="jumbo-heading" style="background-color: transparent;">
                     <!-- Heading -->
-                    <h1>Uluslararası Katılımlı<br>
-                        17. Çocuk Alerji ve Astım Kongresi</h1><!-- Breadcrumb -->
+           
                 </div><!-- /jumbo-heading -->
             </div><!-- /container-fluid-->
         </section><!--Section Blog ends -->

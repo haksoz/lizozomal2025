@@ -25,17 +25,13 @@
                 <div class="jumbotron"></div><!-- /jumbotron-->
                 <div class="jumbo-heading" style="background-color: transparent;">
                     <!-- Heading -->
-                    <h1>9. Uluslararası Katılımlı <br>Lizozomal Hastalıklar Kongresi</h1><!-- Breadcrumb -->
+                    <h1>9. Uluslararası Katılımlı <br>Lizozomal Hastalıklar Kongresi <br>Bilimsel Program</h1><!-- Breadcrumb -->
                 </div><!-- /jumbo-heading -->
             </div><!-- /container-fluid-->
         </section><!--Section Blog ends -->
         <!-- Section about -->
         <section class="container-fluid" id="about">
-            <!-- Section heading -->
-            <div class="section-heading">
-                <h2>BİLİMSEL PROGRAM</h2><!-- divider -->
-                <div class="hr"></div>
-            </div><!-- Parallax object -->
+          
             <div class="container">
 <!--                <div class="program-lang-tab">-->
 <!--                    <div class="active">-->
@@ -92,7 +88,7 @@
                                                 <thead>
                                                 <tr>
                                                     <th class="tabletitle" style="text-align:center">Saat</th>
-                                                    <th class="tabletitle" style="text-align:center">Tüm Yönleriyle Lizozomal Depo Hastalıkları Tedavi Kursu</th>
+                                                    <th class="tabletitle" style="text-align:center">TÜM YÖNLERİYLE LİZOZOMAL DEPO HASTALIKLARI TEDAVİ KURSU</th>
                                                 </tr>
                                                 </thead>
                                                 <tbody>
@@ -105,7 +101,7 @@
                                                 <tr>
                                                     <td class="oturum sub_clock">09:20-11:00</td>
                                                     <td class="oturum">
-                                                        Lizozom Depo Hastalıklarında Enzim Tedavileri <br>
+                                                        <b>Lizozom Depo Hastalıklarında Enzim Tedavileri</b> <br>
                                                         Gaucher Hastalığı <br>
                                                         Lizozomal Asit Lipaz Eksikliği<br>
                                                         Fabry Hastalığı<br>
@@ -120,7 +116,7 @@
                                                 <tr>
                                                     <td class="oturum sub_clock">11:30-13:00</td>
                                                     <td class="oturum">
-                                                        Lizozomal Depo Hastalıklarında Beslenme <br>
+                                                        <b>Lizozomal Depo Hastalıklarında Beslenme</b> <br>
                                                         Lizozomal Depo Hastalıklarında Anestezi Ve Cerrahi Sorunlara Yaklaşım<br>
                                                         Enzim Tedavilerinde Alerjik Reaksiyonların Yönetimi <br>
                                                     </td>
@@ -132,7 +128,7 @@
                                                 <tr>
                                                     <td class="oturum sub_clock">14:00-15:00</td>
                                                     <td class="oturum">
-                                                        Lizozomal Depo Hastalıklarında Diğer Tedavi Yaklaşımları - 1<br>
+                                                        <b>Lizozomal Depo Hastalıklarında Diğer Tedavi Yaklaşımları - 1</b><br>
                                                         Solid Organ Nakilleri<br>
                                                         Hematopoetik Kök Hücre Nakli<br>
                                                     </td>
@@ -144,14 +140,14 @@
                                                 <tr>
                                                     <td class="oturum sub_clock">15:30-16:30</td>
                                                     <td class="oturum">
-                                                        Lizozomal Depo Hastalıklarında Diğer Tedavi Yaklaşımları - 2<br>
+                                                        <b>Lizozomal Depo Hastalıklarında Diğer Tedavi Yaklaşımları - 2</b><br>
                                                         Gen Tedavileri<br>
                                                         Küçük Molekül Tedavileri<br>
                                                     </td>
                                                 </tr>
                                                 <tr>
                                                     <td class="oturum_baslik"><b>16:30-16:45</b></td>
-                                                    <td class="oturum_baslik"><b>Özet Ve Kapanış</b></td>
+                                                    <td class="oturum_baslik"><b>ÖZET VE KAPANIŞ</b></td>
                                                 </tr>
                                                 </tbody>
                                             </table>
@@ -182,13 +178,13 @@
                                                 <tr>
                                                     <td class="oturum_baslik"><b>08:30-09:30</b></td>
                                                     <td class="oturum_baslik">
-                                                        <b>Açılış Töreni</b>
+                                                        <b>AÇILIŞ TÖRENİ</b>
                                                     </td>
                                                 </tr>
                                                 <tr>
                                                     <td class="oturum sub_clock">09:30-10:00</td>
                                                     <td class="oturum">
-                                                        Yeni Ufuklar: Lizozomal Depo Hastalıklarında Prenatal Enzim Tedavileri
+                                                        <b>Yeni Ufuklar: Lizozomal Depo Hastalıklarında Prenatal Enzim Tedavileri</b>
                                                     </td>
                                                 </tr>
                                                 <tr>
@@ -198,7 +194,7 @@
                                                 <tr>
                                                     <td class="oturum sub_clock">10:30-11:30</td>
                                                     <td class="oturum">
-                                                        Lizozomal Depo Hastalıklarında Nörobiyobelirteçler: <br>
+                                                        <b>Lizozomal Depo Hastalıklarında Nörobiyobelirteçler:</b> <br>
                                                         Serum Mu, Beyin-Omurilik Sıvısı Mı? <br>
                                                         Nöronopatik Formlarda Kan-Beyin Bariyerini Aşabilen Tedaviler Ve Özellikleri <br>
                                                     </td>
@@ -206,7 +202,7 @@
                                                 <tr>
                                                     <td class="oturum sub_clock">11:30-12:30</td>
                                                     <td class="oturum">
-                                                        Uydu Sempozyumu Sanofi<br>
+                                                        <b>Uydu Sempozyumu - Sanofi</b><br>
                                                         Bone involvement in Gaucher disease: <br>
                                                         Can miRNAs determine or predict the severity degree? <br>
                                                         Olgularla Cerezyme Deneyimi
@@ -220,7 +216,7 @@
                                                 <tr>
                                                     <td class="oturum sub_clock">14:00-15:00</td>
                                                     <td class="oturum">
-                                                        Uydu Sempozyumu Takeda<br>
+                                                        <b>Uydu Sempozyumu - Takeda</b><br>
                                                         Türkiye’de MPS Tip II ve Idursülfaz Deneyimi <br>
                                                         MPS Tip II’de Optimal Hastalık Yönetimi Nasıl Olmalı?
                                                 </tr>
@@ -231,7 +227,7 @@
                                                 <tr>
                                                     <td class="oturum sub_clock">15:30-16:30</td>
                                                     <td class="oturum">
-                                                        Lizozomal Depo Hastalıklarında Görüntüleme <br>
+                                                        <b>Lizozomal Depo Hastalıklarında Görüntüleme</b> <br>
                                                         Santral Sinir Sistemi Radyolojisi<br>
                                                         İskelet Sistemi Radyolojisi<br>
                                                     </td>
@@ -239,19 +235,19 @@
                                                 <tr>
                                                     <td class="oturum sub_clock">16:30-17:00</td>
                                                     <td class="oturum">
-                                                        Mukopolisakkaridozlarda Erken Başlanan Enzim Tedavileri Ve Büyüme
+                                                        <b>Mukopolisakkaridozlarda Erken Başlanan Enzim Tedavileri Ve Büyüme</b>
                                                     </td>
                                                 </tr>
                                                 <tr>
                                                     <td class="oturum sub_clock">17:00-18:00</td>
                                                     <td class="oturum">
-                                                        Sözlü Sunumlar
+                                                        <b>Sözlü Sunumlar</b>
                                                     </td>
                                                 </tr>
                                                 <tr>
                                                     <td class="oturum sub_clock">18:00-18:30</td>
                                                     <td class="oturum">
-                                                        Poster Sunumları
+                                                        <b>Poster Sunumları</b>
                                                     </td>
                                                 </tr>
                                                 </tbody>
@@ -282,19 +278,19 @@
                                                 <tr>
                                                     <td class="oturum sub_clock">08:00-09:00</td>
                                                     <td class="oturum">
-                                                        Sözlü Sunumlar
+                                                        <b>Sözlü Sunumlar</b>
                                                     </td>
                                                 </tr>
                                                 <tr>
                                                     <td class="oturum sub_clock">09:00-09:30</td>
                                                     <td class="oturum">
-                                                        Lizozomal Depo Hastalıklarında İnflamasyon Ve Antiinflamatuvar Tedaviler
+                                                        <b>Lizozomal Depo Hastalıklarında İnflamasyon Ve Antiinflamatuvar Tedaviler</b>
                                                     </td>
                                                 </tr>
                                                 <tr>
                                                     <td class="oturum sub_clock">09:30-11:00</td>
                                                     <td class="oturum">
-                                                        Lizozomal Depo Hastalıklarında Otofaji Ve Hücresel Hasar Mekanizmaları<br>
+                                                        <b>Lizozomal Depo Hastalıklarında Otofaji Ve Hücresel Hasar Mekanizmaları</b><br>
                                                         Periferik Nöropati<br>
                                                         Artropati
                                                     </td>
@@ -306,7 +302,7 @@
                                                 <tr>
                                                     <td class="oturum sub_clock">11:30-12:00</td>
                                                     <td class="oturum">
-                                                        Bilinenlerin Ötesinde Niemann-Pick Tip C Hastalığı
+                                                        <b>Bilinenlerin Ötesinde Niemann-Pick Tip C Hastalığı</b>
                                                     </td>
                                                 </tr>
                                                 <tr>
@@ -316,7 +312,7 @@
                                                 <tr>
                                                     <td class="oturum sub_clock">13:30-15:00</td>
                                                     <td class="oturum">
-                                                        Güncel Bilgiler Işığında Oligosakkaridozlar <br>
+                                                        <b>Güncel Bilgiler Işığında Oligosakkaridozlar</b> <br>
                                                         Mannosidoz<br>
                                                         Siyalik Asit Metabolizması Hastalıkları <br>
                                                         Fukosidoz<br>
@@ -329,7 +325,7 @@
                                                 <tr>
                                                     <td class="oturum sub_clock">15:30-17:00</td>
                                                     <td class="oturum">
-                                                        Ultra Nadir Lizozomal Depo Hastalıkları<br>
+                                                        <b>Ultra Nadir Lizozomal Depo Hastalıkları</b><br>
                                                         Multipl Sülfataz Eksikliği<br>
                                                         Mukolipidozlar
                                                     </td>
@@ -337,13 +333,13 @@
                                                 <tr>
                                                     <td class="oturum sub_clock">17:00-18:00</td>
                                                     <td class="oturum">
-                                                        Sözlü Sunumlar
+                                                        <b>Sözlü Sunumlar</b>
                                                     </td>
                                                 </tr>
                                                 <tr>
                                                     <td class="oturum sub_clock">18:00-18:30</td>
                                                     <td class="oturum">
-                                                        Poster Sunumları
+                                                        <b>Poster Sunumları</b>
                                                     </td>
                                                 </tr>
                                                 </tbody>
@@ -374,21 +370,21 @@
                                                 <tr>
                                                     <td class="oturum sub_clock">08:00-09:00</td>
                                                     <td class="oturum">
-                                                        Sözlü Sunumlar
+                                                        <b>Sözlü Sunumlar</b>
                                                     </td>
                                                 </tr>
                                                 <tr>
                                                     <td class="oturum sub_clock">09:00-09:30</td>
                                                     <td class="oturum">
-                                                        Atidarsagene autotemcel autologous hematopoietic stem cell gene therapy:
+                                                        <b>Atidarsagene autotemcel autologous hematopoietic stem cell gene therapy:
                                                         <br>
-                                                        Cognitive and motor development in metachromatic leukodystrophy
+                                                        Cognitive and motor development in metachromatic leukodystrophy</b>
                                                     </td>
                                                 </tr>
                                                 <tr>
                                                     <td class="oturum sub_clock">09:30-10:00</td>
                                                     <td class="oturum">
-                                                        Multiomik Analizler Ve Lizozomal Depo Hastalıkları
+                                                        <b>Multiomik Analizler Ve Lizozomal Depo Hastalıkları</b>
                                                     </td>
                                                 </tr>
                                                 <tr>
@@ -398,7 +394,7 @@
                                                 <tr>
                                                     <td class="oturum sub_clock">11:00-12:00</td>
                                                     <td class="oturum">
-                                                        Lizozomal Depo Hastalıklarında Güncel Tedaviler - 1 <br>
+                                                        <b>Lizozomal Depo Hastalıklarında Güncel Tedaviler - 1 </b><br>
                                                         Mukopolisakkaridoz Tip III<br>
                                                         Mukopolisakkaridoz Tip IVA
                                                     </td>
@@ -410,7 +406,7 @@
                                                 <tr>
                                                     <td class="oturum sub_clock">13:30-15:00</td>
                                                     <td class="oturum">
-                                                        Lizozomal Depo Hastalıklarında Güncel Tedaviler - 2<br>
+                                                        <b>Lizozomal Depo Hastalıklarında Güncel Tedaviler - 2</b><br>
                                                         Pompe Hastalığı<br>
                                                         Asit Sifingomiyelinaz Eksikliği<br>
                                                         Sistinozis
@@ -423,7 +419,7 @@
                                                 <tr>
                                                     <td class="oturum sub_clock">15:30-16:30</td>
                                                     <td class="oturum">
-                                                        Lizozomal Depo Hastalıklarında Yaşanan Raporlama Ve Reçete Sorunları
+                                                        <b>Lizozomal Depo Hastalıklarında Yaşanan Raporlama Ve Reçete Sorunları</b>
                                                     </td>
                                                 </tr>
                                                 </tbody>
@@ -454,7 +450,7 @@
                                                 <tr>
                                                     <td class="oturum sub_clock">09:00-10:30</td>
                                                     <td class="oturum">
-                                                        Lizozomal Depo Hastalıklarında Akılcı İlaç Kullanımı
+                                                        <b>Lizozomal Depo Hastalıklarında Akılcı İlaç Kullanımı</b>
                                                     </td>
                                                 </tr>
                                                 <tr>
@@ -504,14 +500,18 @@
                                     font-weight: bold;
                                 }
 
-                                .breaktime {
+                                .breaktime{
                                     font-weight: bold;
+                                    background: #99aebb;
+                                    color: #ffffff;
+                                    text-transform: uppercase;
                                 }
 
                                 .sub_clock {
                                     text-align: left !important;
                                     font-size: 14px !important;
                                     vertical-align: middle !important;
+                                    font-weight: bold;
                                     
                                 }
 
@@ -575,10 +575,7 @@
                                 }
                                     
                                 }
-                                .breaktime{
-                					background: #99aebb;
-                					color: #ffffff;
-                				}
+
                 				.breaktime b{
                 					color: #ffffff;
                 				}

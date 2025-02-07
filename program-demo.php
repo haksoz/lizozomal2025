@@ -95,7 +95,7 @@
                                                 <tr>
                                                     <td class="oturum_baslik"><b>09:00-09:20</b></td>
                                                     <td class="oturum_baslik">
-                                                        <b>Açılış Ve Tanışma</b>
+                                                        <b>Açılış ve Tanışma</b>
                                                     </td>
                                                 </tr>
                                                 <tr>
@@ -117,7 +117,7 @@
                                                     <td class="oturum sub_clock">11:30-13:00</td>
                                                     <td class="oturum">
                                                         <b>Lizozomal Depo Hastalıklarında Beslenme</b> <br>
-                                                        Lizozomal Depo Hastalıklarında Anestezi Ve Cerrahi Sorunlara Yaklaşım<br>
+                                                        Lizozomal Depo Hastalıklarında Anestezi ve Cerrahi Sorunlara Yaklaşım<br>
                                                         Enzim Tedavilerinde Alerjik Reaksiyonların Yönetimi <br>
                                                     </td>
                                                 </tr>
@@ -147,7 +147,7 @@
                                                 </tr>
                                                 <tr>
                                                     <td class="oturum_baslik"><b>16:30-16:45</b></td>
-                                                    <td class="oturum_baslik"><b>ÖZET VE KAPANIŞ</b></td>
+                                                    <td class="oturum_baslik"><b>ÖZET ve KAPANIŞ</b></td>
                                                 </tr>
                                                 </tbody>
                                             </table>
@@ -196,7 +196,7 @@
                                                     <td class="oturum">
                                                         <b>Lizozomal Depo Hastalıklarında Nörobiyobelirteçler:</b> <br>
                                                         Serum Mu, Beyin-Omurilik Sıvısı Mı? <br>
-                                                        Nöronopatik Formlarda Kan-Beyin Bariyerini Aşabilen Tedaviler Ve Özellikleri <br>
+                                                        Nöronopatik Formlarda Kan-Beyin Bariyerini Aşabilen Tedaviler ve Özellikleri <br>
                                                     </td>
                                                 </tr>
                                                 <tr>
@@ -235,7 +235,7 @@
                                                 <tr>
                                                     <td class="oturum sub_clock">16:30-17:00</td>
                                                     <td class="oturum">
-                                                        <b>Mukopolisakkaridozlarda Erken Başlanan Enzim Tedavileri Ve Büyüme</b>
+                                                        <b>Mukopolisakkaridozlarda Erken Başlanan Enzim Tedavileri ve Büyüme</b>
                                                     </td>
                                                 </tr>
                                                 <tr>
@@ -284,13 +284,13 @@
                                                 <tr>
                                                     <td class="oturum sub_clock">09:00-09:30</td>
                                                     <td class="oturum">
-                                                        <b>Lizozomal Depo Hastalıklarında İnflamasyon Ve Antiinflamatuvar Tedaviler</b>
+                                                        <b>Lizozomal Depo Hastalıklarında İnflamasyon ve Antiinflamatuvar Tedaviler</b>
                                                     </td>
                                                 </tr>
                                                 <tr>
                                                     <td class="oturum sub_clock">09:30-11:00</td>
                                                     <td class="oturum">
-                                                        <b>Lizozomal Depo Hastalıklarında Otofaji Ve Hücresel Hasar Mekanizmaları</b><br>
+                                                        <b>Lizozomal Depo Hastalıklarında Otofaji ve Hücresel Hasar Mekanizmaları</b><br>
                                                         Periferik Nöropati<br>
                                                         Artropati
                                                     </td>
@@ -384,7 +384,7 @@
                                                 <tr>
                                                     <td class="oturum sub_clock">09:30-10:00</td>
                                                     <td class="oturum">
-                                                        <b>Multiomik Analizler Ve Lizozomal Depo Hastalıkları</b>
+                                                        <b>Multiomik Analizler ve Lizozomal Depo Hastalıkları</b>
                                                     </td>
                                                 </tr>
                                                 <tr>
@@ -419,7 +419,7 @@
                                                 <tr>
                                                     <td class="oturum sub_clock">15:30-16:30</td>
                                                     <td class="oturum">
-                                                        <b>Lizozomal Depo Hastalıklarında Yaşanan Raporlama Ve Reçete Sorunları</b>
+                                                        <b>Lizozomal Depo Hastalıklarında Yaşanan Raporlama ve Reçete Sorunları</b>
                                                     </td>
                                                 </tr>
                                                 </tbody>

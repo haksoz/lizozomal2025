@@ -376,9 +376,11 @@
                                                 <tr>
                                                     <td class="oturum sub_clock">09:00-09:30</td>
                                                     <td class="oturum">
-                                                        <b>Atidarsagene autotemcel autologous hematopoietic stem cell gene therapy:
-                                                        <br>
-                                                        Cognitive and motor development in metachromatic leukodystrophy</b>
+                                                       <b>
+                                                           Atidarsagene Autotemcel Autologous Hematopoietic Stem Cell Gene Therapy:
+                                                           <br>
+                                                           Cognitive and Motor Development in Metachromatic Leukodystrophy
+                                                       </b>
                                                     </td>
                                                 </tr>
                                                 <tr>

@@ -58,7 +58,7 @@
                         <li>Sözlü bildirilere ayrı salon tahsis edilmiş olup çok sayıda sözlü bildirinin sunulması mümkün olacaktır. </li>
                         <li>Bilimsel kurul, bildirileri sözlü veya poster bildiri olarak değiştirme konusunda karar verme hakkına sahiptir. </li>
                         <li>Programda yer aldığı halde kongrede sunulmayan veya özeti zamanında teslim edilmeyen bildiriler bildiri özetleri kitabında yayınlanmayacaktır. Bildiri özetleri, Kongre Düzenleme Kurulu tarafından değerlendirilerek, kabul veya ret mektupları ve sunum biçimi (sözlü / poster) <b>21 Mart 2025</b> tarihine kadar başvuru sahiplerine iletilecek ve aynı zamanda kongre resmi web sitesinde ilan edilecektir. </li>
-                        <li>Bildiri özetlerinin son gönderim tarihi <b>17 Mart 2025</b> tarihi olup, bu tarihten sonra gönderilen bildiriler değerlendirmeye alınmayacaktır. Bildiriler kongreden sonra web sitesinde yayınlanacaktır. </li>
+                        <li>Bildiri özetlerinin son gönderim tarihi <b>10 Mart 2025</b> tarihi olup, bu tarihten sonra gönderilen bildiriler değerlendirmeye alınmayacaktır. Bildiriler kongreden sonra web sitesinde yayınlanacaktır. </li>
                         <li>Kongre kayıt işleminin tamamlanması için kongre organizasyon firmasına kayıt talebinin bildirilmesi ve kayıt ücretinin belirtilen banka hesap numarasına yatırılması gerekmektedir </li>
                         <li>Kayıt hakkında ayrıntılı bilgi için lütfen sitemizin “Kayıt” sayfasını ziyaret ediniz. Bildirisi kabul edilen katılımcıların <b>24 Mart 2025</b> tarihine kadar kayıtlarını tamamlaması gerekmektedir. Kayıt işlemleri tamamlanmayan bildiriler, bilimsel programdan çıkarılacaktır. </li>
                     </ul>

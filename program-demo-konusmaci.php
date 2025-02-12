@@ -46,13 +46,13 @@
 <!--                    </div>-->
 <!--                </div>-->
                 <div class="row" style="padding-bottom:30px; display:flex; justify-content:center;">
-                    <a href="#">
-                        <div class="serviceBox col-lg-12" style="margin-top:0; background-color: rgb(207 100 93 / 90%);">
-                            <div class="service-content text-light">
-                                <h4 class="title" style="font-size:20px; padding:0px; margin-bottom:0px; margin-top:0px;">Programı İndirmek İçin Tıklayınız</h4>
-                            </div>
-                        </div>
-                    </a>
+					<a href="#">
+						<div class="serviceBox col-lg-12" style="margin-top:0; background-color: rgb(207 100 93 / 90%);">
+							<div class="service-content text-light">
+								<h4 class="title" style="font-size:20px; padding:0px; margin-bottom:0px; margin-top:0px;">Programı İndirmek İçin Tıklayınız</h4>
+							</div>
+						</div>
+					</a>
                 </div>
                     <div class="tab" role="tabpanel">
                         <ul class="nav nav-tabs date-button" role="tablist" style="display: flex;justify-content: center;flex-wrap: wrap;">
@@ -102,11 +102,18 @@
                                                     <td class="oturum sub_clock">09:20-11:00</td>
                                                     <td class="oturum">
                                                         <b>Lizozom Depo Hastalıklarında Enzim Tedavileri</b> <br>
+                                                        <b>Oturum Başkanları: </b> Dr. Gülden Gökçay, Dr. Mehmet Gündüz<br><br>
                                                         Gaucher Hastalığı <br>
+                                                        <b>Konuşmacı: </b> Dr. Çiğdem Seher Kasapkara <br><br>
                                                         Lizozomal Asit Lipaz Eksikliği<br>
+                                                        <b>Konuşmacı: </b> Dr. Şahin Erdöl <br><br>
                                                         Fabry Hastalığı<br>
+                                                        <b>Konuşmacı: </b> Dr. Tanyel Zübarioğlu <br><br>
                                                         Mukopolisakkaridozlar<br>
+                                                        <b>Konuşmacı: </b> Dr. Yılmaz Yıldız <br><br>
                                                         Nöronal Serodi Lipofuksinozis<br>
+                                                        <b>Konuşmacı: </b> Dr. Fatma Derya Bulut
+
                                                     </td>
                                                 </tr>
                                                 <tr>
@@ -116,9 +123,13 @@
                                                 <tr>
                                                     <td class="oturum sub_clock">11:30-13:00</td>
                                                     <td class="oturum">
-                                                        <b>Lizozomal Depo Hastalıklarında Beslenme</b> <br>
+                                                        <b>Oturum Başkanları: </b> Dr. Mustafa Kendirci, Dr. Mahmut Çoker<br><br>
+                                                        Lizozomal Depo Hastalıklarında Beslenme <br>
+                                                        <b>Konuşmacı: </b> Dr. Hasan Önal <br><br>
                                                         Lizozomal Depo Hastalıklarında Anestezi ve Cerrahi Sorunlara Yaklaşım<br>
+                                                        <b>Konuşmacı: </b> Dr. Aynur Küçükçongar <br><br>
                                                         Enzim Tedavilerinde Alerjik Reaksiyonların Yönetimi <br>
+                                                        <b>Konuşmacı: </b> Dr. Meryem Karaca
                                                     </td>
                                                 </tr>
                                                 <tr>
@@ -129,8 +140,12 @@
                                                     <td class="oturum sub_clock">14:00-15:00</td>
                                                     <td class="oturum">
                                                         <b>Lizozomal Depo Hastalıklarında Diğer Tedavi Yaklaşımları - 1</b><br>
+                                                        <b>Oturum Başkanları: </b> Dr. Nur Arslan, Dr. Özlem Ünal Uzun <br><br>
+
                                                         Solid Organ Nakilleri<br>
+                                                        <b>Konuşmacı: </b> Dr. Halil İbrahim Aydın <br><br>
                                                         Hematopoetik Kök Hücre Nakli<br>
+                                                        <b>Konuşmacı: </b> Dr. Burcu Öztürk Hişmi
                                                     </td>
                                                 </tr>
                                                 <tr>
@@ -141,8 +156,11 @@
                                                     <td class="oturum sub_clock">15:30-16:30</td>
                                                     <td class="oturum">
                                                         <b>Lizozomal Depo Hastalıklarında Diğer Tedavi Yaklaşımları - 2</b><br>
+                                                        <b>Oturum Başkanları: </b> Dr. Neslihan Önenli Mungan, Dr. Ertuğrul Kıykım<br><br>
                                                         Gen Tedavileri<br>
+                                                        <b>Konuşmacı: </b> Dr. Berna Şeker Yılmaz <br><br>
                                                         Küçük Molekül Tedavileri<br>
+                                                        <b>Konuşmacı: </b> Dr. Asburçe Olgaç Kılıçkaya
                                                     </td>
                                                 </tr>
                                                 <tr>
@@ -203,9 +221,9 @@
                                                     <td class="oturum sub_clock">11:30-12:30</td>
                                                     <td class="oturum">
                                                         <b>Uydu Sempozyumu - Sanofi</b><br>
-                                                        GAUCHER HASTALIĞI:<br>
-                                                        miRNA'ların Kemik Tutulum Düzeyini Belirlemedeki Rolleri<br>
-                                                        Olgularla Cerezyme Deneyimi  
+                                                        Bone involvement in Gaucher disease: <br>
+                                                        Can miRNAs determine or predict the severity degree? <br>
+                                                        Olgularla Cerezyme Deneyimi
                                                         <br>
                                                     </td>
                                                 </tr>
@@ -377,9 +395,9 @@
                                                     <td class="oturum sub_clock">09:00-09:30</td>
                                                     <td class="oturum">
                                                        <b>
-                                                           Metakromatik Lökodistrofide Atidarsagene Ototemcel Otolog Hematopoetik Kök Hücre Gen Tedavisi:
+                                                           Atidarsagene Autotemcel Autologous Hematopoietic Stem Cell Gene Therapy:
                                                            <br>
-                                                           Kognitif ve Motor Gelişim Üzerine Etkileri
+                                                           Cognitive and Motor Development in Metachromatic Leukodystrophy
                                                        </b>
                                                     </td>
                                                 </tr>
@@ -578,19 +596,19 @@
                                     
                                 }
 
-                                .breaktime b{
-                                    color: #ffffff;
-                                }
+                				.breaktime b{
+                					color: #ffffff;
+                				}
                                 .breaktime i{
                                     color: #ffffff;
                                 }
-                                .tabletitle{
-                                    color: #ffffff;
-                                    background: #004e68;
-                                }
-                                .mr-1{
-                                    margin-right: 5px;
-                                }
+                				.tabletitle{
+                					color: #ffffff;
+                					background: #004e68;
+                				}
+                				.mr-1{
+                					margin-right: 5px;
+                				}
                         </style>
                     </div><!-- /tab -->
          

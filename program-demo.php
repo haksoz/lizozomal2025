@@ -102,11 +102,18 @@
                                                     <td class="oturum sub_clock">09:20-11:00</td>
                                                     <td class="oturum">
                                                         <b>Lizozom Depo Hastalıklarında Enzim Tedavileri</b> <br>
+                                                        <b>Oturum Başkanları: </b> Dr. Gülden Gökçay, Dr. Mehmet Gündüz<br><br>
                                                         Gaucher Hastalığı <br>
+                                                        <b>Konuşmacı: </b> Dr. Çiğdem Seher Kasapkara <br><br>
                                                         Lizozomal Asit Lipaz Eksikliği<br>
+                                                        <b>Konuşmacı: </b> Dr. Şahin Erdöl <br><br>
                                                         Fabry Hastalığı<br>
+                                                        <b>Konuşmacı: </b> Dr. Tanyel Zübarioğlu <br><br>
                                                         Mukopolisakkaridozlar<br>
+                                                        <b>Konuşmacı: </b> Dr. Yılmaz Yıldız <br><br>
                                                         Nöronal Serodi Lipofuksinozis<br>
+                                                        <b>Konuşmacı: </b> Dr. Fatma Derya Bulut
+
                                                     </td>
                                                 </tr>
                                                 <tr>
@@ -116,9 +123,13 @@
                                                 <tr>
                                                     <td class="oturum sub_clock">11:30-13:00</td>
                                                     <td class="oturum">
-                                                        <b>Lizozomal Depo Hastalıklarında Beslenme</b> <br>
+                                                        <b>Oturum Başkanları: </b> Dr. Mustafa Kendirci, Dr. Mahmut Çoker<br><br>
+                                                        Lizozomal Depo Hastalıklarında Beslenme <br>
+                                                        <b>Konuşmacı: </b> Dr. Hasan Önal <br><br>
                                                         Lizozomal Depo Hastalıklarında Anestezi ve Cerrahi Sorunlara Yaklaşım<br>
+                                                        <b>Konuşmacı: </b> Dr. Aynur Küçükçongar <br><br>
                                                         Enzim Tedavilerinde Alerjik Reaksiyonların Yönetimi <br>
+                                                        <b>Konuşmacı: </b> Dr. Meryem Karaca
                                                     </td>
                                                 </tr>
                                                 <tr>
@@ -129,8 +140,12 @@
                                                     <td class="oturum sub_clock">14:00-15:00</td>
                                                     <td class="oturum">
                                                         <b>Lizozomal Depo Hastalıklarında Diğer Tedavi Yaklaşımları - 1</b><br>
+                                                        <b>Oturum Başkanları: </b> Dr. Nur Arslan, Dr. Özlem Ünal Uzun <br><br>
+
                                                         Solid Organ Nakilleri<br>
+                                                        <b>Konuşmacı: </b> Dr. Halil İbrahim Aydın <br><br>
                                                         Hematopoetik Kök Hücre Nakli<br>
+                                                        <b>Konuşmacı: </b> Dr. Burcu Öztürk Hişmi
                                                     </td>
                                                 </tr>
                                                 <tr>
@@ -141,8 +156,11 @@
                                                     <td class="oturum sub_clock">15:30-16:30</td>
                                                     <td class="oturum">
                                                         <b>Lizozomal Depo Hastalıklarında Diğer Tedavi Yaklaşımları - 2</b><br>
+                                                        <b>Oturum Başkanları: </b> Dr. Neslihan Önenli Mungan, Dr. Ertuğrul Kıykım<br><br>
                                                         Gen Tedavileri<br>
+                                                        <b>Konuşmacı: </b> Dr. Berna Şeker Yılmaz <br><br>
                                                         Küçük Molekül Tedavileri<br>
+                                                        <b>Konuşmacı: </b> Dr. Asburçe Olgaç Kılıçkaya
                                                     </td>
                                                 </tr>
                                                 <tr>

@@ -48,7 +48,7 @@
                             <a data-toggle="tab" href="#Section4" role="tab" style="text-align: center;">01 Mayıs Perşembe<br>Bilimsel Program</a>
                         </li>
                         <li role="presentation">
-                            <a data-toggle="tab" href="#Section20" role="tab" style="text-align: center;">02 Mayıs Perşembe<br>Bilimsel Program</a>
+                            <a data-toggle="tab" href="#Section20" role="tab" style="text-align: center;">02 Mayıs Cuma<br> Bilimsel Program</a>
                         </li>
                     </ul><!-- Tab panes -->
                     <div class="tab-content">

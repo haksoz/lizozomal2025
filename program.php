@@ -85,7 +85,7 @@
                                                     Lizozomal Asit Lipaz Eksikliği<br>
                                                     Fabry Hastalığı<br>
                                                     Mukopolisakkaridozlar<br>
-                                                    Nöronal Serodi Lipofuksinozis<br>
+                                                    Nöronal Seroid Lipofuksinozis<br>
                                                 </td>
                                             </tr>
                                             <tr>
@@ -263,6 +263,7 @@
                                             <tr>
                                                 <td class="oturum sub_clock">09:00-09:30</td>
                                                 <td class="oturum">
+                                                    <b>Prof. Dr. Alev Hasanoğlu Oturumu</b>
                                                     <b>Lizozomal Depo Hastalıklarında İnflamasyon ve Antiinflamatuvar Tedaviler</b>
                                                 </td>
                                             </tr>

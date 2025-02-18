@@ -263,7 +263,7 @@
                                             <tr>
                                                 <td class="oturum sub_clock">09:00-09:30</td>
                                                 <td class="oturum">
-                                                    <b>Prof. Dr. Alev Hasanoğlu Oturumu</b>
+                                                    <b>Prof. Dr. Alev Hasanoğlu Oturumu</b><br>
                                                     <b>Lizozomal Depo Hastalıklarında İnflamasyon ve Antiinflamatuvar Tedaviler</b>
                                                 </td>
                                             </tr>

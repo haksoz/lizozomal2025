@@ -94,8 +94,8 @@
                     <h4 class="sub-header">Kayıt İptal Şartları;</h4>
                     <ul class="custom no-margin">
                         <li>Kayıt iptal talebi Solo Event’e yazılı olarak bildirilmelidir.</li>
-                        <li>1 Şubat 2024 tarihinden önce yapılan iptal talebinde, yatırılmış bulunan kayıt ücretinin yarısı iade edilecektir.</li>
-                        <li>1 Şubat 2024 ve sonrasında yapılacak iptallerde herhangi bir iade yapılmayacaktır. Bu tarihten sonra sadece isim değişiklikleri kabul edilecektir.</li>
+                        <li>1 Şubat 2025 tarihinden önce yapılan iptal talebinde, yatırılmış bulunan kayıt ücretinin yarısı iade edilecektir.</li>
+                        <li>1 Şubat 2025 ve sonrasında yapılacak iptallerde herhangi bir iade yapılmayacaktır. Bu tarihten sonra sadece isim değişiklikleri kabul edilecektir.</li>
                     </ul>
                 </div>
 				<div class="col-md-12 col-md-12 res-margin">
@@ -182,8 +182,8 @@
                     <ul class="custom no-margin">
                         <li>Konaklama iptal talebi Solo Event’e yazılı olarak bildirilmelidir</li>
                         <li>Konaklama konfirmasyonu ödeme önceliğine göre verilecektir. Belirtilen tarihte ödeme yapılmaması durumunda Kongre Organizasyon Sekretaryası konaklama talebini konfirme edemeyecektir.</li>
-                        <li>1 Şubat 2024 tarihinden önce yapılan iptal talebinde, yatırılmış bulunan konaklama ücretinin yarısı iade edilecektir.</li>
-                        <li>1 Şubat 2024 ve sonrasında yapılacak iptallerde herhangi bir iade yapılmayacaktır. Bu tarihten sonra sadece isim değişiklikleri kabul edilecektir.</li>
+                        <li>1 Şubat 2025 tarihinden önce yapılan iptal talebinde, yatırılmış bulunan konaklama ücretinin yarısı iade edilecektir.</li>
+                        <li>1 Şubat 2025 ve sonrasında yapılacak iptallerde herhangi bir iade yapılmayacaktır. Bu tarihten sonra sadece isim değişiklikleri kabul edilecektir.</li>
                     </ul>
                 </div>
                 <div class="col-md-12 col-md-12 res-margin">

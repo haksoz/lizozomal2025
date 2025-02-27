@@ -104,12 +104,12 @@
                 <div class="col-lg-12 col-md-12">
                     <h4 class="sub-header">Kongre Konaklama</h4>
                     <ul class="custom no-margin">
-                        <li>Konaklama fiyatı 4 geceliktir.</li>
+                        <li>Konaklama fiyatı 4 geceliktir. 28 Nisan giriş ve 2 Mayıs çıkış olmak üzere 4 gece konaklamayı kapsar.</li>
                         <li>Oda dağılımı; müracaat sırasına ve ödeme tarihlerine göre yapılacaktır.</li>
                         <li>Kongre tarihinden sonra zamanında ödenmeyen veya geciktirilen tüm ödemeler için bütçelerde ve web sitesinde ilan ettiğimiz gibi %10 ekleme yapılacak ve tarafınıza yansıtılacaktır.</li>
                         <li>Konaklama konfirmasyonu ödeme yapıldığında gerçekleşecektir.</li>
-                        <li>Konaklama bedeline KDV dahil değildir. Konaklama KDV'si %10 eklenecektir.</li>
-                        <li>Konaklama vergisi %2 eklenecektir.</li>
+                        <li>Konaklama bedeline KDV ve vergiler dahil değildir.</li>
+<!--                        <li>Konaklama vergisi %2 eklenecektir.</li>-->
                     </ul>
                 </div>
 				<center>
@@ -125,14 +125,14 @@
                             </thead>
                             <tbody>
                             <tr>
-                                <td>Tek Kişilik Konaklama <br> 4 Gece</td>
-                                <td>€ 1.100,00</td>
-                                <td>€ 1.500,00</td>
+                                <td>Tek Kişilik Konaklama <br> 4 Gece (28 Nisan-2 Mayıs)</td>
+                                <td style="vertical-align: middle">€ 1.100,00</td>
+                                <td style="vertical-align: middle">€ 1.500,00</td>
                             </tr>
                             <tr>
-                                <td>İki Kişilik Oda (Kişi Başı) <br> 4 Gece</td>
-                                <td>€ 650,00</td>
-                                <td>€ 850,00</td>
+                                <td>İki Kişilik Oda (Kişi Başı) <br> 4 Gece (28 Nisan-2 Mayıs)</td>
+                                <td style="vertical-align: middle">€ 650,00</td>
+                                <td style="vertical-align: middle">€ 850,00</td>
                             </tr>
                             </tbody>
                         </table>
@@ -144,12 +144,12 @@
                 <div class="col-lg-12 col-md-12">
                     <h4 class="sub-header">Kurs Konaklama</h4>
                     <ul class="custom no-margin">
-                        <li>Konaklama fiyatı 1 geceliktir.</li>
+                        <li>Konaklama fiyatı 1 geceliktir. Kurs konaklaması kapsamında 27 Nisan (1 Gece) konaklamayı kapsar.</li>
                         <li>Oda dağılımı; müracaat sırasına ve ödeme tarihlerine göre yapılacaktır.</li>
                         <li>Kongre tarihinden sonra zamanında ödenmeyen veya geciktirilen tüm ödemeler için bütçelerde ve web sitesinde ilan ettiğimiz gibi %10 ekleme yapılacak ve tarafınıza yansıtılacaktır.</li>
                         <li>Konaklama konfirmasyonu ödeme yapıldığında gerçekleşecektir.</li>
-                        <li>Konaklama bedeline KDV dahil değildir. Konaklama KDV'si %10 eklenecektir.</li>
-                        <li>Konaklama vergisi %2 eklenecektir.</li>
+                        <li>Konaklama bedeline KDV ve vergiler dahil değildir.</li>
+<!--                        <li>Konaklama vergisi %2 eklenecektir.</li>-->
                     </ul>
                 </div>
 
@@ -165,12 +165,12 @@
                             </thead>
                             <tbody>
                             <tr>
-                                <td>Tek Kişilik Konaklama <br> 1 Gece</td>
-                                <td>€ 500,00</td>
+                                <td>Tek Kişilik Konaklama <br> 1 Gece (27 Nisan)</td>
+                                <td style="vertical-align: middle">€ 500,00</td>
                             </tr>
                             <tr>
-                                <td>İki Kişilik Oda (Kişi Başı) <br> 1 Gece</td>
-                                <td>€ 350,00</td>
+                                <td>İki Kişilik Oda (Kişi Başı) <br> 1 Gece (27 Nisan)</td>
+                                <td style="vertical-align: middle">€ 350,00</td>
                             </tr>
                             </tbody>
                         </table>

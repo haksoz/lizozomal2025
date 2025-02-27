@@ -588,7 +588,7 @@
                                     overflow: hidden;
                                     padding: 10px 5px;
                                     word-break: normal;
-                                    border-color: #fff !important;
+                                    border-color: #8fb0be !important;
                                 }
                                 
 
@@ -599,14 +599,14 @@
                                     overflow: hidden;
                                     padding: 10px 5px;
                                     word-break: normal;
-                                    border-color: #fff !important;
+                                    border-color: #8fb0be !important;
                                 }
 
                                 .tg tr {
                                     /*
                                     border: 3px solid #fff;
                                     */
-                                    border: 2px solid #fff;
+                                    border: 2px solid #8fb0be;
                                     
                                 }
 

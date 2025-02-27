@@ -2,7 +2,7 @@
 <html lang="TR">
 <?php $page = 'index'; ?>
 <head>
-	<title>9. Uluslararası Katılımlı Lizozomal Hastalıklar Kongresi | Anasayfa</title>
+	<title>IX. Uluslararası Katılımlı Lizozomal Hastalıklar Kongresi | Anasayfa</title>
 	<?php include("head.php") ?>
 </head>
 <body data-spy="scroll" data-target=".navbar-custom" id="page-top">
@@ -142,7 +142,7 @@
 						<!-- Testimonial 1 -->
 						<div class="testimonial">
 							<div class="description">
-								<p><b>Toplantı Adı:<br>9. Uluslararası Katılımlı Lizozomal Hastalıklar Kongresi</b></p>
+								<p><b>Toplantı Adı:<br>IX. Uluslararası Katılımlı Lizozomal Hastalıklar Kongresi</b></p>
 							</div>
 						</div><!-- /Testimonial 1 -->
 						<!-- Testimonial 2 -->

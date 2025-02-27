@@ -3,7 +3,7 @@
 <?php $page = 'program'; ?>
 
 <head>
-    <title>9. Uluslararası Katılımlı Lizozomal Hastalıklar Kongresi | Bilimsel Program</title>
+    <title>IX. Uluslararası Katılımlı Lizozomal Hastalıklar Kongresi | Bilimsel Program</title>
     <?php include("head.php") ?>
 </head>
 
@@ -25,7 +25,7 @@
                 <div class="jumbotron"></div><!-- /jumbotron-->
                 <div class="jumbo-heading" style="background-color: transparent;">
                     <!-- Heading -->
-                    <h1>9. Uluslararası Katılımlı <br>Lizozomal Hastalıklar Kongresi <br>Bilimsel Program</h1><!-- Breadcrumb -->
+                    <h1>IX. Uluslararası Katılımlı <br>Lizozomal Hastalıklar Kongresi <br>Bilimsel Program</h1><!-- Breadcrumb -->
                 </div><!-- /jumbo-heading -->
             </div><!-- /container-fluid-->
         </section><!--Section Blog ends -->

@@ -38,9 +38,9 @@
                     <div class="hr"></div>
                 </div>
                 <div class="col-md-12 col-md-12 res-margin">
-                    <p><b>Toplantı Adı:</b> 9. Uluslararası Katılımlı Lizozomal Hastalıklar Kongresi</p>
+                    <p><b>Toplantı Adı:</b> IX. Uluslararası Katılımlı Lizozomal Hastalıklar Kongresi</p>
                     <p><b>Toplanı Yeri:</b> Concorde Luxury Hotel KKTC</p>
-                    <p><b>Toplantı Tarihi:</b> 27 Nisan - 02 Mayıs 2025</p>
+                    <p><b>Toplantı Tarihi:</b> 28 Nisan - 02 Mayıs 2025</p>
                     <p><b>Toplantı Konusu:</b> Lizozomal Depo Hastalıklarında İnovatif Yaklaşımlar</p><br>
                 </div>
 <!--                <div class="col-lg-12 col-md-12">-->

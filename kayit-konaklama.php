@@ -193,7 +193,7 @@
                 <div class="col-lg-12 col-md-12">
                     <ul class="custom no-margin">
                         <li>Transfer Ücretine Dahil Olan Hizmetler;</li>
-                        <li>Havalimanı - Otel - Havalimanı arası 27 Nisan tarihinde geliş ve 2 Mayıs tarihinde dönüş olarak gerçekleşecek kişi başı transfer bedeli çift yön 200 € + KDV’dir.</li>
+                        <li>Havalimanı - Otel - Havalimanı arası 28 Nisan tarihinde geliş ve 2 Mayıs tarihinde dönüş olarak gerçekleşecek kişi başı transfer bedeli çift yön 200 € + KDV’dir.</li>
                         <li>Bu tarihler dışında talep edilecek özel transfer talepleriniz için Solo Event ile iletişime geçebilirsiniz.</li>
                     </ul>
                 </div>

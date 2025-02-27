@@ -1,8 +1,8 @@
 <div class="col-md-12 col-md-12 res-margin" style="padding-bottom: 60px;">
 	<p><b>Sevgili Meslektaşlarımız,</b></p>
-    <p>Bu yıl, Çocuk Beslenme ve Metabolizma Derneği’nin IX. Uluslararası Katılımlı Lizozomal Hastalıklar Kongresi, 27 Nisan – 02 Mayıs 2025 tarihleri arasında Concorde Luxury Resort Hotel, KKTC’de düzenlenecektir.
+    <p>Bu yıl, Çocuk Beslenme ve Metabolizma Derneği’nin IX. Uluslararası Katılımlı Lizozomal Hastalıklar Kongresi, 28 Nisan – 02 Mayıs 2025 tarihleri arasında Concorde Luxury Resort Hotel, KKTC’de düzenlenecektir.
     <p>Ülkemizde de lizozomal hastalıklar, çocuk metabolizma uzmanlarının yanı sıra, birinci basamakta çalışan çocuk doktorlarının ve aile hekimlerinin günlük pratiklerinde önemli bir yer tutmaya devam etmektedir.
-    <p>Bilgi ve deneyimlerimizi paylaşacağımız, dostluklarımızı pekiştireceğimiz IX. Kongremizde sizlerle buluşmayı arz ediyoruz. 27 Nisan – 02 Mayıs 2025 sizleri de aramızda görmekten büyük mutluluk duyacağımızı belirterek, sevgi ve saygılarımızı sunuyoruz. 
+    <p>Bilgi ve deneyimlerimizi paylaşacağımız, dostluklarımızı pekiştireceğimiz IX. Kongremizde sizlerle buluşmayı arz ediyoruz. 28 Nisan – 02 Mayıs 2025 sizleri de aramızda görmekten büyük mutluluk duyacağımızı belirterek, sevgi ve saygılarımızı sunuyoruz.
     <p><b>Saygılarımızla,<br>
     Çocuk Beslenme ve Metabolizma Derneği</b></p>
 </div>

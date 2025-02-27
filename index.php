@@ -154,7 +154,7 @@
 						<!-- Testimonial 3 -->
 						<div class="testimonial">
 							<div class="description">
-								<p><b>Toplantı Tarihi:<br>27 Nisan - 02 Mayıs 2025</b></p>
+								<p><b>Toplantı Tarihi:<br>28 Nisan - 02 Mayıs 2025</b></p>
 							</div>
 						</div><!-- /Testimonial 3 -->
                         <div class="testimonial">

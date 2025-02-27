@@ -3,8 +3,8 @@
       <![endif]-->
 	<meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
 
-	<meta content="IX. Uluslararası Katılımlı Lizozomal Hastalıklar Kongresi, Lizozomal Hastalıklar Kongresi, Çocuk Beslenme ve Metabolizma Derneği, 27 Nisan – 02 Mayıs 2025, Concorde Luxury Resort Hotel " name="keywords">
-	<meta content="Bu yıl, Çocuk Beslenme ve Metabolizma Derneği’nin IX. Uluslararası Katılımlı Lizozomal Hastalıklar Kongresi, 27 Nisan – 02 Mayıs 2025 tarihleri arasında Concorde Luxury Resort Hotel, KKTC’de düzenlenecektir." name="description">
+	<meta content="IX. Uluslararası Katılımlı Lizozomal Hastalıklar Kongresi, Lizozomal Hastalıklar Kongresi, Çocuk Beslenme ve Metabolizma Derneği, 28 Nisan – 02 Mayıs 2025, Concorde Luxury Resort Hotel " name="keywords">
+	<meta content="Bu yıl, Çocuk Beslenme ve Metabolizma Derneği’nin IX. Uluslararası Katılımlı Lizozomal Hastalıklar Kongresi, 28 Nisan – 02 Mayıs 2025 tarihleri arasında Concorde Luxury Resort Hotel, KKTC’de düzenlenecektir." name="description">
 
 	<meta content="" name="author">
 	<!--[if lt IE 9]>

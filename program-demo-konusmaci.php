@@ -101,17 +101,17 @@
                                                 <tr>
                                                     <td class="oturum sub_clock">09:20-11:00</td>
                                                     <td class="oturum">
-                                                        <b>Lizozom Depo Hastalıklarında Enzim Tedavileri</b> <br>
+                                                        <b class="text-uppercase">Lizozom Depo Hastalıklarında Enzim Tedavileri</b> <br>
                                                         <b>Oturum Başkanları: </b> Dr. Gülden Gökçay, Dr. Mehmet Gündüz<br><br>
-                                                        Gaucher Hastalığı <br>
+                                                        <b>Gaucher Hastalığı</b> <br>
                                                         <b>Konuşmacı: </b> Dr. Çiğdem Seher Kasapkara <br><br>
-                                                        Lizozomal Asit Lipaz Eksikliği<br>
+                                                        <b>Lizozomal Asit Lipaz Eksikliği</b><br>
                                                         <b>Konuşmacı: </b> Dr. Şahin Erdöl <br><br>
-                                                        Fabry Hastalığı<br>
+                                                        <b>Fabry Hastalığı</b><br>
                                                         <b>Konuşmacı: </b> Dr. Tanyel Zübarioğlu <br><br>
-                                                        Mukopolisakkaridozlar<br>
+                                                        <b>Mukopolisakkaridozlar</b><br>
                                                         <b>Konuşmacı: </b> Dr. Yılmaz Yıldız <br><br>
-                                                        Nöronal Serodi Lipofuksinozis<br>
+                                                        <b>Nöronal Serodi Lipofuksinozis</b><br>
                                                         <b>Konuşmacı: </b> Dr. Fatma Derya Bulut
 
                                                     </td>
@@ -124,11 +124,11 @@
                                                     <td class="oturum sub_clock">11:30-13:00</td>
                                                     <td class="oturum">
                                                         <b>Oturum Başkanları: </b> Dr. Mustafa Kendirci, Dr. Mahmut Çoker<br><br>
-                                                        Lizozomal Depo Hastalıklarında Beslenme <br>
+                                                        <b>Lizozomal Depo Hastalıklarında Beslenme</b> <br>
                                                         <b>Konuşmacı: </b> Dr. Hasan Önal <br><br>
-                                                        Lizozomal Depo Hastalıklarında Anestezi ve Cerrahi Sorunlara Yaklaşım<br>
+                                                        <b>Lizozomal Depo Hastalıklarında Anestezi ve Cerrahi Sorunlara Yaklaşım</b><br>
                                                         <b>Konuşmacı: </b> Dr. Aynur Küçükçongar <br><br>
-                                                        Enzim Tedavilerinde Alerjik Reaksiyonların Yönetimi <br>
+                                                        <b>Enzim Tedavilerinde Alerjik Reaksiyonların Yönetimi</b> <br>
                                                         <b>Konuşmacı: </b> Dr. Meryem Karaca
                                                     </td>
                                                 </tr>
@@ -139,12 +139,11 @@
                                                 <tr>
                                                     <td class="oturum sub_clock">14:00-15:00</td>
                                                     <td class="oturum">
-                                                        <b>Lizozomal Depo Hastalıklarında Diğer Tedavi Yaklaşımları - 1</b><br>
+                                                        <b class="text-uppercase">Lizozomal Depo Hastalıklarında Diğer Tedavi Yaklaşımları - 1</b><br>
                                                         <b>Oturum Başkanları: </b> Dr. Nur Arslan, Dr. Özlem Ünal Uzun <br><br>
-
-                                                        Solid Organ Nakilleri<br>
+                                                        <b>Solid Organ Nakilleri</b><br>
                                                         <b>Konuşmacı: </b> Dr. Halil İbrahim Aydın <br><br>
-                                                        Hematopoetik Kök Hücre Nakli<br>
+                                                        <b>Hematopoetik Kök Hücre Nakli</b><br>
                                                         <b>Konuşmacı: </b> Dr. Burcu Öztürk Hişmi
                                                     </td>
                                                 </tr>
@@ -155,11 +154,11 @@
                                                 <tr>
                                                     <td class="oturum sub_clock">15:30-16:30</td>
                                                     <td class="oturum">
-                                                        <b>Lizozomal Depo Hastalıklarında Diğer Tedavi Yaklaşımları - 2</b><br>
+                                                        <b class="text-uppercase">Lizozomal Depo Hastalıklarında Diğer Tedavi Yaklaşımları - 2</b><br>
                                                         <b>Oturum Başkanları: </b> Dr. Neslihan Önenli Mungan, Dr. Ertuğrul Kıykım<br><br>
-                                                        Gen Tedavileri<br>
+                                                        <b>Gen Tedavileri</b><br>
                                                         <b>Konuşmacı: </b> Dr. Berna Şeker Yılmaz <br><br>
-                                                        Küçük Molekül Tedavileri<br>
+                                                        <b>Küçük Molekül Tedavileri</b><br>
                                                         <b>Konuşmacı: </b> Dr. Asburçe Olgaç Kılıçkaya
                                                     </td>
                                                 </tr>
@@ -202,7 +201,7 @@
                                                 <tr>
                                                     <td class="oturum sub_clock">09:30-10:00</td>
                                                     <td class="oturum">
-                                                        <b>Yeni Ufuklar: Lizozomal Depo Hastalıklarında Prenatal Enzim Tedavileri</b><br>
+                                                        <b class="text-uppercase">Yeni Ufuklar: Lizozomal Depo Hastalıklarında Prenatal Enzim Tedavileri</b><br>
                                                         <b>Oturum Başkanları: </b> Dr. Alev Hasanoğlu, Dr. Turgay Coşkun <br>
                                                         <b>Konuşmacı: </b> Dr. Gülden Fatma Gökçay
                                                     </td>
@@ -215,7 +214,7 @@
                                                     <td class="oturum sub_clock">10:30-11:30</td>
                                                     <td class="oturum">
                                                         <b>Oturum Başkanları: </b> Dr. Fatoş Tanzer, Dr. Ayşegül Tokatlı <br><br>
-                                                        <b>Lizozomal Depo Hastalıklarında Nörobiyobelirteçler:
+                                                        <b>Lizozomal Depo Hastalıklarında Nörobiyobelirteçler: <br>
                                                         Serum Mu, Beyin-Omurilik Sıvısı Mı?</b> <br>
                                                         <b>Konuşmacı: </b> Dr. Mahmut Çoker <br><br>
                                                         <b>Nöronopatik Formlarda Kan-Beyin Bariyerini Aşabilen Tedaviler ve Özellikleri</b> <br>
@@ -225,7 +224,7 @@
                                                 <tr>
                                                     <td class="oturum sub_clock">11:30-12:30</td>
                                                     <td class="oturum">
-                                                        <b>UYDU SEMPOZYUMU - SANOFI</b> <br><br>
+                                                        <b class="text-uppercase">UYDU SEMPOZYUMU - SANOFI</b> <br><br>
                                                         <b>Gaucher Hastalığı:</b> <br>
                                                         <b>miRNA'ların Kemik Tutulum Düzeyini Belirlemedeki Rolleri</b> <br>
                                                         <b>Konuşmacı: </b> Dr. Irene Serrano Gonzalo <br><br>
@@ -240,7 +239,7 @@
                                                 <tr>
                                                     <td class="oturum sub_clock">14:00-15:00</td>
                                                     <td class="oturum">
-                                                        <b>UYDU SEMPOZYUMU - TAKEDA</b> <br><br>
+                                                        <b class="text-uppercase">UYDU SEMPOZYUMU - TAKEDA</b> <br><br>
                                                         <b>Türkiye’de MPS Tip II ve Idursülfaz Deneyimi</b> <br>
                                                         <b>Konuşmacı: </b> Dr. Mehmet Cihan Balcı <br><br>
                                                         <b>MPS Tip II’de Optimal Hastalık Yönetimi Nasıl Olmalı?</b> <br>
@@ -254,7 +253,7 @@
                                                 <tr>
                                                     <td class="oturum sub_clock">15:30-16:30</td>
                                                     <td class="oturum">
-                                                        <b>Lizozomal Depo Hastalıklarında Görüntüleme</b> <br><br>
+                                                        <b class="text-uppercase">Lizozomal Depo Hastalıklarında Görüntüleme</b> <br>
                                                         <b>Oturum Başkanları: </b> Dr. Mustafa Kendirci, Dr. Selda Bülbül <br><br>
                                                         <b>Santral Sinir Sistemi Radyolojisi</b> <br>
                                                         <b>Konuşmacı: </b> Dr. Rahşan Göçmen <br><br>
@@ -265,22 +264,22 @@
                                                 <tr>
                                                     <td class="oturum sub_clock">16:30-17:00</td>
                                                     <td class="oturum">
-                                                        <b>Mukopolisakkaridozlarda Erken Başlanan Enzim Replasman Tedavileri Ve Büyüme</b> <br><br>
-                                                        <b>Oturum Başkanları: </b> Dr. Halil Sağlam, Dr. Mehmet Keskin <br><br>
+                                                        <b class="text-uppercase">Mukopolisakkaridozlarda Erken Başlanan Enzim Replasman Tedavileri Ve Büyüme</b> <br>
+                                                        <b>Oturum Başkanları: </b> Dr. Halil Sağlam, Dr. Mehmet Keskin <br>
                                                         <b>Konuşmacı: </b> Dr. Fatih Kardaş
                                                     </td>
                                                 </tr>
                                                 <tr>
                                                     <td class="oturum sub_clock">17:00-18:00</td>
                                                     <td class="oturum">
-                                                        <b>Sözlü Sunumlar</b> <br><br>
+                                                        <b class="text-uppercase">Sözlü Sunumlar</b> <br>
                                                         Dr. Aynur Küçükçongar, Dr. Erdoğan Soyuçen
                                                     </td>
                                                 </tr>
                                                 <tr>
                                                     <td class="oturum sub_clock">18:00-18:30</td>
                                                     <td class="oturum">
-                                                        <b>Poster Sunumları</b> <br><br>
+                                                        <b class="text-uppercase">Poster Sunumları</b> <br>
                                                         <b>Oturum Başkanları: </b> Dr. Hatice Güneş, Dr. Mehtap Kağnıcı, Dr. Esra Er, Dr. Banu Kadıoğlu, Dr. İzzet Erdal
                                                     </td>
                                                 </tr>
@@ -312,14 +311,14 @@
                                                 <tr>
                                                     <td class="oturum sub_clock">08:00-09:00</td>
                                                     <td class="oturum">
-                                                        <b>Sözlü Sunumlar</b> <br>
+                                                        <b class="text-uppercase">Sözlü Sunumlar</b> <br>
                                                         <b>Oturum Başkanları: </b> Dr. Yaşar Cesur, Dr. Işıl Özer
                                                     </td>
                                                 </tr>
                                                 <tr>
                                                     <td class="oturum sub_clock">09:00-09:30</td>
                                                     <td class="oturum">
-                                                        <b>Prof. Dr. Alev Hasanoğlu Oturumu</b> <br>
+                                                        <b class="text-uppercase">Prof. Dr. Alev Hasanoğlu Oturumu</b> <br>
                                                         <b>Oturum Başkanları: </b> Dr. Gülden Gökçay, Dr. Mahmut Çoker <br><br>
                                                         <b>Lizozomal Depo Hastalıklarında İnflamasyon Ve Antiinflamatuvar Tedaviler</b> <br>
                                                         <b>Konuşmacı: </b> Dr. Turgay Coşkun
@@ -328,7 +327,7 @@
                                                 <tr>
                                                     <td class="oturum sub_clock">09:30-11:00</td>
                                                     <td class="oturum">
-                                                        <b>Oturum Başkanları: </b> Dr. Halil Sağlam, Dr. Mustafa Kılıç <br>
+                                                        <b>Oturum Başkanları: </b> Dr. Halil Sağlam, Dr. Mustafa Kılıç <br><br>
                                                         <b>Lizozomal Depo Hastalıklarında:</b> <br>
                                                         <b>Otofaji Ve Hücresel Hasar Mekanizmaları</b> <br>
                                                         <b>Konuşmacı: </b> Dr. Ali Dursun <br><br>
@@ -345,7 +344,7 @@
                                                 <tr>
                                                     <td class="oturum sub_clock">11:30-12:00</td>
                                                     <td class="oturum">
-                                                        <b>Bilinenlerin Ötesinde Niemann-Pick Tip C Hastalığı</b> <br>
+                                                        <b class="text-uppercase">Bilinenlerin Ötesinde Niemann-Pick Tip C Hastalığı</b> <br>
                                                         <b>Oturum Başkanları: </b> Dr. Sema Kalkan Uçar, Dr. Ertuğrul Kıykım <br>
                                                         <b>Konuşmacı: </b> Dr. Paul Gissen
                                                     </td>
@@ -357,9 +356,9 @@
                                                 <tr>
                                                     <td class="oturum sub_clock">13:30-14:30</td>
                                                     <td class="oturum">
+                                                        <b class="text-uppercase">Güncel Bilgiler Işığında Oligosakkaridozlar</b> <br>
                                                         <b>Oturum Başkanları: </b> Dr. Çiğdem Aktuğlu Zeybek, Dr. Yaşar Cesur <br><br>
-                                                        <b>Güncel Bilgiler Işığında Oligosakkaridozlar</b> <br>
-                                                        <b>Mannosidoz</b> <br>
+                                                        <b>Siyatik Asit Metabolizması Hastalıkları</b> <br>
                                                         <b>Konuşmacı: </b> Dr. Nafiye Emel Çakar <br><br>
                                                         <b>Fukosidoz</b> <br>
                                                         <b>Konuşmacı: </b> Dr. Sebile Kılavuz
@@ -383,14 +382,14 @@
                                                 <tr>
                                                     <td class="oturum sub_clock">16:00-17:00</td>
                                                     <td class="oturum">
-                                                        <b>Sözlü Sunumlar</b> <br>
+                                                        <b class="text-uppercase">Sözlü Sunumlar</b> <br>
                                                         <b>Oturum Başkanları: </b> Dr. Deniz Kor, Dr. Abdurrahman Akgün
                                                     </td>
                                                 </tr>
                                                 <tr>
                                                     <td class="oturum sub_clock">17:00-17:30</td>
                                                     <td class="oturum">
-                                                        <b>Poster Sunumları</b> <br>
+                                                        <b class="text-uppercase">Poster Sunumları</b> <br>
                                                         <b>Oturum Başkanları: </b> Dr. İbrahim Taş, Dr. Havva Yazıcı, Dr. Hüseyin Bilgin, Dr. Dilek Güneş, Dr. Kısmet Çıkı <br><br>
                                                     </td>
                                                 </tr>
@@ -422,14 +421,14 @@
                                                 <tr>
                                                     <td class="oturum sub_clock">08:00-09:00</td>
                                                     <td class="oturum">
-                                                        <b>Sözlü Sunumlar</b> <br>
+                                                        <b class="text-uppercase">Sözlü Sunumlar</b> <br>
                                                         <b>Oturum Başkanları: </b> Dr. Burcu Öztürk Hişmi, Dr. Seda Güneş
                                                     </td>
                                                 </tr>
                                                 <tr>
                                                     <td class="oturum sub_clock">09:00-09:30</td>
                                                     <td class="oturum">
-                                                        <b>Metakromatik Lökodistrofide Atidarsagene Ototemcel Otolog Hematopoetik Kök Hücre Gen Tedavisi: Kognitif ve Motor Gelişim Üzerine Etkileri</b> <br>
+                                                        <b class="text-uppercase">Metakromatik Lökodistrofide Atidarsagene Ototemcel Otolog Hematopoetik Kök Hücre Gen Tedavisi: Kognitif ve Motor Gelişim Üzerine Etkileri</b> <br>
                                                         <b>Oturum Başkanları: </b> Dr. Serap Sivri, Dr. Berna Şeker Yılmaz <br>
                                                         <b>Konuşmacı: </b> Dr. Francesca Fumagalli
                                                     </td>
@@ -437,7 +436,7 @@
                                                 <tr>
                                                     <td class="oturum sub_clock">09:30-10:00</td>
                                                     <td class="oturum">
-                                                        <b>Multiomik Analizler ve Lizozomal Depo Hastalıkları</b> <br>
+                                                        <b class="text-uppercase">Multiomik Analizler ve Lizozomal Depo Hastalıkları</b> <br>
                                                         <b>Oturum Başkanları: </b> Dr. Ali Dursun, Dr. Halil İbrahim Aydın <br>
                                                         <b>Konuşmacı: </b> Dr. Mustafa Çelebier
                                                     </td>
@@ -449,7 +448,7 @@
                                                 <tr>
                                                     <td class="oturum sub_clock">10:30-12:00</td>
                                                     <td class="oturum">
-                                                        <b>Lizozomal Depo Hastalıklarında Güncel Tedaviler - 1</b> <br>
+                                                        <b class="text-uppercase">Lizozomal Depo Hastalıklarında Güncel Tedaviler - 1</b> <br>
                                                         <b>Oturum Başkanları: </b> Dr. H. Neslihan Önenli Mungan, Dr. Mehmet Nuri Özbek <br><br>
                                                         <b>Mannosidoz</b> <br>
                                                         <b>Konuşmacı: </b> Dr. Fatma Tuba Eminoğlu <br><br>
@@ -466,7 +465,7 @@
                                                 <tr>
                                                     <td class="oturum sub_clock">13:30-15:00</td>
                                                     <td class="oturum">
-                                                        <b>Lizozomal Depo Hastalıklarında Güncel Tedaviler - 2</b> <br>
+                                                        <b class="text-uppercase">Lizozomal Depo Hastalıklarında Güncel Tedaviler - 2</b> <br>
                                                         <b>Oturum Başkanları: </b> Dr. Hasan Önal, Dr. Ertuğrul Kıykım <br><br>
                                                         <b>Pompe Hastalığı</b> <br>
                                                         <b>Konuşmacı: </b> Dr. Mehmet Gündüz <br><br>
@@ -483,7 +482,7 @@
                                                 <tr>
                                                     <td class="oturum sub_clock">15:30-16:30</td>
                                                     <td class="oturum">
-                                                        <b>Lizozomal Depo Hastalıklarında Yaşanan Raporlama ve Reçete Sorunları</b><br>
+                                                        <b class="text-uppercase">Lizozomal Depo Hastalıklarında Yaşanan Raporlama ve Reçete Sorunları</b><br>
                                                         <b>Oturum Başkanları: </b> Dr. Mehmet Gündüz, Dr. Gülhan Karakaya, Dr. Duhan Hopurcuoğlu
                                                     </td>
                                                 </tr>
@@ -515,7 +514,7 @@
                                                 <tr>
                                                     <td class="oturum sub_clock">09:00-10:30</td>
                                                     <td class="oturum">
-                                                        <b>Lizozomal Depo Hastalıklarında Akılcı İlaç Kullanımı</b> <br>
+                                                        <b class="text-uppercase">Lizozomal Depo Hastalıklarında Akılcı İlaç Kullanımı</b> <br>
                                                         <b>Oturum Başkanları: </b> Dr. Neslihan Önenli Mungan, Dr. Şahin Erdöl<br>
                                                         <b>Konuşmacı:</b> Dr. Fatih Kardaş
                                                     </td>
@@ -523,7 +522,7 @@
                                                 <tr>
                                                     <td class="oturum_baslik"><b>10:30-11:30</b></td>
                                                     <td class="oturum_baslik">
-                                                        <b>Kapanış Töreni</b>
+                                                        <b class="text-uppercase">Kapanış Töreni</b>
                                                     </td>
                                                 </tr>
                                                 </tbody>

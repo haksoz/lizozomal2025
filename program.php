@@ -252,7 +252,7 @@
                                                     <td class="oturum sub_clock">17:00-18:00</td>
                                                     <td class="oturum">
                                                         <b class="text-uppercase">Sözlü Sunumlar</b> <br>
-                                                        Dr. Aynur Küçükçongar, Dr. Erdoğan Soyuçen
+                                                        <b>Oturum Başkanları: </b> Dr. Aynur Küçükçongar, Dr. Erdoğan Soyuçen
                                                     </td>
                                                 </tr>
                                                 <tr>

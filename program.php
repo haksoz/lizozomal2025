@@ -39,16 +39,16 @@
                                 <a data-toggle="tab" href="#Section1" role="tab" class="courses">28 Nisan Pazartesi <br>Kurs</a>
                             </li>
                             <li role="presentation">
-                                <a data-toggle="tab" href="#Section2" role="tab" style="text-align: center;">29 Nisan Salı<br>Bilimsel Program</a>
+                                <a data-toggle="tab" href="#Section2" role="tab" style="text-align: center;">29 Nisan Salı</a>
                             </li>
                             <li role="presentation">
-                                <a data-toggle="tab" href="#Section3" role="tab" style="text-align: center;">30 Nisan Çarşamba<br>Bilimsel Program</a>
+                                <a data-toggle="tab" href="#Section3" role="tab" style="text-align: center;">30 Nisan Çarşamba</a>
                             </li>
                             <li role="presentation">
-                                <a data-toggle="tab" href="#Section4" role="tab" style="text-align: center;">01 Mayıs Perşembe<br>Bilimsel Program</a>
+                                <a data-toggle="tab" href="#Section4" role="tab" style="text-align: center;">01 Mayıs Perşembe</a>
                             </li>
                             <li role="presentation">
-                                <a data-toggle="tab" href="#Section20" role="tab" style="text-align: center;">02 Mayıs Cuma<br> Bilimsel Program</a>
+                                <a data-toggle="tab" href="#Section20" role="tab" style="text-align: center;">02 Mayıs Cuma</a>
                             </li>
                         </ul><!-- Tab panes -->
                         <div class="tab-content">

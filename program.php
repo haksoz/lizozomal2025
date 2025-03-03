@@ -203,7 +203,7 @@
                                                 <tr>
                                                     <td class="uydu-sempozyumu sub_clock">11:30-12:30</td>
                                                     <td class="uydu-sempozyumu">
-                                                        <b class="text-uppercase" style="color: #e9aa52;">UYDU SEMPOZYUMU - SANOFI</b> <br><br>
+                                                        <b class="text-uppercase" style="color: #a94442;">UYDU SEMPOZYUMU - SANOFI</b> <br><br>
                                                         <b>Gaucher Hastalığı:</b> <br>
                                                         <b>miRNA'ların Kemik Tutulum Düzeyini Belirlemedeki Rolleri</b> <br>
                                                         <b>Konuşmacı: </b> Dr. Irene Serrano Gonzalo <br><br>
@@ -520,7 +520,7 @@
                             }
 
                             .uydu-sempozyumu {
-                                background-color: #d9ecf9;
+                                background-color: #5b93b0;
                                 font-weight: bold;
                                 vertical-align: middle !important;
                                 color: black;
@@ -534,7 +534,7 @@
                             }
 
                             .oturum {
-                                background-color: transparent;
+                                background-color: rgb(202 232 250);
                                 color: black;
                             }
 

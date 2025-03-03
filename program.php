@@ -52,7 +52,7 @@
                             </li>
                         </ul><!-- Tab panes -->
                         <div class="tab-content">
-                            <div class="tab-pane active in fade" id="Section1" role="tabpanel">
+                            <div class="tab-pane scientific-program active in fade" id="Section1" role="tabpanel">
                                 <h4 class="text-center">28 NİSAN 2025, PAZARTESİ <br> KURS</h4>
 
                                 <div class="tab program" role="tabpanel">
@@ -153,7 +153,7 @@
                                 </div>
 
                             </div><!-- /tab-panel -->
-                            <div class="tab-pane fade" id="Section2" role="tabpanel">
+                            <div class="tab-pane scientific-program fade" id="Section2" role="tabpanel">
                                 <h4 class="text-center">29 NİSAN 2025, SALI <br> BİLİMSEL PROGRAM</h4>
                                 <div class="tab program" role="tabpanel">
 
@@ -269,7 +269,7 @@
                                     </div>
                                 </div>
                             </div><!-- /tab-panel -->
-                            <div class="tab-pane fade" id="Section3" role="tabpanel">
+                            <div class="tab-pane scientific-program fade" id="Section3" role="tabpanel">
                                 <h4 class="text-center">30 NİSAN 2025, ÇARŞAMBA <br> BİLİMSEL PROGRAM</h4>
                                 <div class="tab program" role="tabpanel">
 
@@ -379,7 +379,7 @@
                                     </div>
                                 </div>
                             </div><!-- /tab-panel -->
-                            <div class="tab-pane fade" id="Section4" role="tabpanel">
+                            <div class="tab-pane scientific-program fade" id="Section4" role="tabpanel">
                                 <h4 class="text-center">01 MAYIS 2025, PERŞEMBE <br> BİLİMSEL PROGRAM </h4>
                                 <div class="tab program" role="tabpanel">
 
@@ -472,7 +472,7 @@
                                     </div>
                                 </div>
                             </div><!-- /tab-panel -->
-                            <div class="tab-pane fade" id="Section20" role="tabpanel">
+                            <div class="tab-pane scientific-program fade" id="Section20" role="tabpanel">
                                 <h4 class="text-center">02 MAYIS 2025, CUMA <br> BİLİMSEL PROGRAM</h4>
                                 <div class="tab program" role="tabpanel">
 
@@ -523,16 +523,19 @@
                                 background-color: #d9ecf9;
                                 font-weight: bold;
                                 vertical-align: middle !important;
+                                color: black;
                             }
 
 
                             .sozlu_bildiri {
                                 background-color: #E6F4F1;
                                 vertical-align: middle !important;
+                                color: black;
                             }
 
                             .oturum {
                                 background-color: transparent;
+                                color: black;
                             }
 
                             .oturum_baslik {

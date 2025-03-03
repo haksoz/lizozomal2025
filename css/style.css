@@ -3325,3 +3325,9 @@ footer .img-responsive {
         width: 50%;
     }
 }
+
+.tab-content .tab-pane.scientific-program{
+    background-color: #ffffff;
+    border: 3px solid #307692;
+    box-shadow: 8px 6px 14px 9px rgba(153, 153, 153, 0.22);
+}

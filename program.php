@@ -259,7 +259,7 @@
                                                     <td class="oturum sub_clock">18:00-18:30</td>
                                                     <td class="oturum">
                                                         <b class="text-uppercase">Poster Sunumları</b> <br>
-                                                        <b>Oturum Başkanları: </b> Dr. Hatice Güneş, Dr. Mehtap Kağnıcı, Dr. Esra Er, Dr. Banu Kadıoğlu, Dr. İzzet Erdal
+                                                        <b>Oturum Başkanları: </b> Dr. Mehtap Kağnıcı, Dr. Esra Er, Dr. Banu Kadıoğlu, Dr. İzzet Erdal
                                                     </td>
                                                 </tr>
                                                 </tbody>

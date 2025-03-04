@@ -203,7 +203,7 @@
                                                 <tr>
                                                     <td class="uydu-sempozyumu sub_clock">11:30-12:30</td>
                                                     <td class="uydu-sempozyumu">
-                                                        <b class="text-uppercase" style="color: #a94442;">UYDU SEMPOZYUMU - SANOFI</b> <br><br>
+                                                        <b class="text-uppercase" style="color: #b26300;">UYDU SEMPOZYUMU - SANOFI</b> <br><br>
                                                         <b>Gaucher Hastalığı:</b> <br>
                                                         <b>miRNA'ların Kemik Tutulum Düzeyini Belirlemedeki Rolleri</b> <br>
                                                         <b>Konuşmacı: </b> Dr. Irene Serrano Gonzalo <br><br>
@@ -218,7 +218,7 @@
                                                 <tr>
                                                     <td class="uydu-sempozyumu sub_clock">14:00-15:00</td>
                                                     <td class="uydu-sempozyumu">
-                                                        <b class="text-uppercase" style="color: #e9aa52;">UYDU SEMPOZYUMU - TAKEDA</b> <br><br>
+                                                        <b class="text-uppercase" style="color: #b26300;">UYDU SEMPOZYUMU - TAKEDA</b> <br><br>
                                                         <b>Türkiye’de MPS Tip II ve Idursülfaz Deneyimi</b> <br>
                                                         <b>Konuşmacı: </b> Dr. Mehmet Cihan Balcı <br><br>
                                                         <b>MPS Tip II’de Optimal Hastalık Yönetimi Nasıl Olmalı?</b> <br>
@@ -428,7 +428,7 @@
                                                     <td class="oturum sub_clock">10:30-12:00</td>
                                                     <td class="oturum">
                                                         <b class="text-uppercase">Lizozomal Depo Hastalıklarında Güncel Tedaviler - 1</b> <br>
-                                                        <b>Oturum Başkanları: </b> Dr. H. Neslihan Önenli Mungan, Dr. Mehmet Nuri Özbek <br><br>
+                                                        <b>Oturum Başkanları: </b> Dr. Neslihan Önenli Mungan, Dr. Mehmet Nuri Özbek <br><br>
                                                         <b>Mannosidoz</b> <br>
                                                         <b>Konuşmacı: </b> Dr. Fatma Tuba Eminoğlu <br><br>
                                                         <b>Mukopolisakkaridoz Tip III</b> <br>
@@ -520,7 +520,7 @@
                             }
 
                             .uydu-sempozyumu {
-                                background-color: #5b93b0;
+                                background-color: #e8fcff;
                                 font-weight: bold;
                                 vertical-align: middle !important;
                                 color: black;
@@ -534,7 +534,7 @@
                             }
 
                             .oturum {
-                                background-color: rgb(202 232 250);
+                                background-color: rgb(202 232 250 / 70%);
                                 color: black;
                             }
 

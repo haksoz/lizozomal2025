@@ -2040,7 +2040,7 @@ blockquote:before {
     background-image: url(../img/linedpaper.png), url(../img/linedpaper.png);
     background-position: center left, center right;
     /*background-repeat: no-repeat;*/
-    padding: 50px 0px 20px 0px;
+    padding: 50px 0px 0px 0px;
     text-align: center;
     margin: 0 auto;
     margin-top: -38px;
@@ -3010,7 +3010,7 @@ footer .img-responsive {
 }
 
 .mt-5 {
-    margin-top: 4rem
+    margin-top: 1rem
 }
 #blog{
     padding-bottom: 0px!important;

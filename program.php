@@ -337,7 +337,7 @@
                                                     <td class="oturum">
                                                         <b class="text-uppercase">Güncel Bilgiler Işığında Oligosakkaridozlar</b> <br>
                                                         <b>Oturum Başkanları: </b> Dr. Çiğdem Aktuğlu Zeybek, Dr. Yaşar Cesur <br><br>
-                                                        <b>Siyatik Asit Metabolizması Hastalıkları</b> <br>
+                                                        <b>Siyalik Asit Metabolizması Hastalıkları</b> <br>
                                                         <b>Konuşmacı: </b> Dr. Nafiye Emel Çakar <br><br>
                                                         <b>Fukosidoz</b> <br>
                                                         <b>Konuşmacı: </b> Dr. Sebile Kılavuz

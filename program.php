@@ -520,7 +520,7 @@
                             }
 
                             .uydu-sempozyumu {
-                                background-color: #fde5f8;
+                                background-color: #fdf2e1;
                                 font-weight: bold;
                                 vertical-align: middle !important;
                                 color: black;

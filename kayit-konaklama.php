@@ -160,7 +160,7 @@
                             <thead>
                             <tr>
                                 <th>Konaklama Tipi</th>
-                                <th>14 Şubat 2025 ve Öncesi</th>
+                                <th>14 Şubat 2025 Sonrası</th>
                             </tr>
                             </thead>
                             <tbody>

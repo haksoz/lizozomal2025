@@ -204,11 +204,18 @@
                                                     <td class="uydu-sempozyumu sub_clock">11:30-12:30</td>
                                                     <td class="uydu-sempozyumu">
                                                         <b class="text-uppercase" style="color: #b26300;">UYDU SEMPOZYUMU - SANOFI</b> <br><br>
-                                                        <b>Gaucher Hastalığı:</b> <br>
-                                                        <b>miRNA'ların Kemik Tutulum Düzeyini Belirlemedeki Rolleri</b> <br>
-                                                        <b>Konuşmacı: </b> Dr. Irene Serrano Gonzalo <br><br>
-                                                        <b>Olgularla Cerezyme Deneyimi</b> <br>
-                                                        <b>Konuşmacı: </b> Dr. Gonca Kılıç Yıldırım
+                                                        <div style="display: flex; align-items: center;">
+                                                            <div> 
+                                                                <b>Gaucher Hastalığı:</b> <br>
+                                                                <b>miRNA'ların Kemik Tutulum Düzeyini Belirlemedeki Rolleri</b> <br>
+                                                                <b>Konuşmacı: </b> Dr. Irene Serrano Gonzalo <br><br>
+                                                                <b>Olgularla Cerezyme Deneyimi</b> <br>
+                                                                <b>Konuşmacı: </b> Dr. Gonca Kılıç Yıldırım
+                                                            </div>
+                                                            <div>
+                                                                <img src="/doc/sanofi-logo.png" style="max-height: 44px; margin-left: 50px;">
+                                                            </div> 
+                                                        </div>
                                                     </td>
                                                 </tr>
                                                 <tr>
@@ -219,10 +226,17 @@
                                                     <td class="uydu-sempozyumu sub_clock">14:00-15:00</td>
                                                     <td class="uydu-sempozyumu">
                                                         <b class="text-uppercase" style="color: #b26300;">UYDU SEMPOZYUMU - TAKEDA</b> <br><br>
-                                                        <b>Türkiye’de MPS Tip II ve Idursülfaz Deneyimi</b> <br>
-                                                        <b>Konuşmacı: </b> Dr. Mehmet Cihan Balcı <br><br>
-                                                        <b>MPS Tip II’de Optimal Hastalık Yönetimi Nasıl Olmalı?</b> <br>
-                                                        <b>Konuşmacı: </b> Dr. Ayşe Ergül Bozacı
+                                                        <div style="display: flex; align-items: center;">
+                                                            <div>
+                                                                <b>Türkiye’de MPS Tip II ve Idursülfaz Deneyimi</b> <br>
+                                                                <b>Konuşmacı: </b> Dr. Mehmet Cihan Balcı <br><br>
+                                                                <b>MPS Tip II’de Optimal Hastalık Yönetimi Nasıl Olmalı?</b> <br>
+                                                                <b>Konuşmacı: </b> Dr. Ayşe Ergül Bozacı
+                                                            </div>
+                                                            <div>
+                                                                <img src="/doc/takeda-logo.png" style="max-height: 70px; margin-left: 50px;">
+                                                            </div>
+                                                        </div>
                                                     </td>
                                                 </tr>
                                                 <tr>

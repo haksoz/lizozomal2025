@@ -505,7 +505,7 @@
                                                 </thead>
                                                 <tbody>
                                                 <tr>
-                                                    <td class="oturum sub_clock">09:00-10:30</td>
+                                                    <td class="oturum sub_clock">09:00-10:00</td>
                                                     <td class="oturum">
                                                         <b class="text-uppercase">Lizozomal Depo Hastalıklarında Akılcı İlaç Kullanımı</b> <br>
                                                         <b>Oturum Başkanları: </b> Dr. Neslihan Önenli Mungan, Dr. Şahin Erdöl<br>
@@ -513,11 +513,32 @@
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td class="oturum_baslik"><b>10:30-11:30</b></td>
-                                                    <td class="oturum_baslik">
-                                                        <b class="text-uppercase">Kapanış Töreni</b>
+                                                    <td class="oturum sub_clock">10:00-11:00</td>
+                                                    <td class="oturum">
+                                                        <b class="text-uppercase">Sözlü Sunumlar</b> <br>
+                                                        <b>Oturum Başkanları: </b> Dr. Özlem Ünal Uzun, Dr. Ertuğrul Kıykım
                                                     </td>
                                                 </tr>
+                                                <tr>
+                                                    <td class="breaktime">11:00-11:30</td>
+                                                    <td class="breaktime"><i class="fa fa-coffee"></i> <b>Kahve Arası</b></td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="oturum sub_clock">11:30-13:00</td>
+                                                    <td class="oturum">
+                                                        <b class="text-uppercase">OLGU ÖRNEKLERİYLE LİZOZOMAL DEPO HASTALIĞI OLAN İNFANTLARIN BÜYÜMESİNİN İZLENMESİ VE BESLENME DESTEĞİ TEDAVİLERİ</b> <br>
+                                                        <b>Oturum Başkanı: </b> Dr. Mehmet Gündüz <br>
+                                                        <b>Konuşmacı:</b> Dr. Nur Arslan, Dr. Sevil Yıldız, Dr. Duhan Hopurcuoğlu
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="oturum_baslik"><b>13:00-13:30</b></td>
+                                                    <td class="oturum_baslik">
+                                                        <b class="text-uppercase">Kapanış Töreni</b> <br>
+                                                        Neslihan Önenli Mungan
+                                                    </td>
+                                                </tr>
+
                                                 </tbody>
                                             </table>
                                             <!-- /table -->

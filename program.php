@@ -161,10 +161,10 @@
                                 <div class="tab program" role="tabpanel">
                                     <ul class="nav nav-tabs date-button" role="tablist" style="width:100%;display: flex;justify-content: center;">
                                         <li class="active" role="presentation">
-                                            <a data-toggle="tab" href="#Section7" role="tab" style="text-align: center;" >Salon 1</a>
+                                            <a data-toggle="tab" href="#Section7" role="tab" style="text-align: center;" >Salon A</a>
                                         </li>
                                         <li role="presentation">
-                                            <a data-toggle="tab" href="#Section8" role="tab" style="text-align: center;">Salon 2</a>
+                                            <a data-toggle="tab" href="#Section8" role="tab" style="text-align: center;">Salon B</a>
                                         </li>
                                     </ul><!-- Tab panes -->
                                     <div class="tab-content ">
@@ -177,7 +177,7 @@
                                                 <thead>
                                                 <tr>
                                                     <th class="tabletitle" style="text-align:center">Saat</th>
-                                                    <th class="tabletitle" style="text-align:center">Salon 1</th>
+                                                    <th class="tabletitle" style="text-align:center">Salon A</th>
                                                 </tr>
                                                 </thead>
                                                 <tbody>
@@ -305,7 +305,7 @@
                                                 <thead>
                                                 <tr>
                                                     <th class="tabletitle" style="text-align:center">Saat</th>
-                                                    <th class="tabletitle" style="text-align:center">Salon 2</th>
+                                                    <th class="tabletitle" style="text-align:center">Salon B</th>
                                                 </tr>
                                                 </thead>
                                                 <tbody>
@@ -341,10 +341,10 @@
                                 <div class="tab program" role="tabpanel">
                                     <ul class="nav nav-tabs date-button" role="tablist" style=" width:100%;display: flex;justify-content: center;">
                                         <li class="active" role="presentation">
-                                            <a data-toggle="tab" href="#Section10" role="tab" style="text-align: center;" >Salon 1</a>
+                                            <a data-toggle="tab" href="#Section10" role="tab" style="text-align: center;" >Salon A</a>
                                         </li>
                                         <li role="presentation">
-                                            <a data-toggle="tab" href="#Section11" role="tab" style="text-align: center;">Salon 2</a>
+                                            <a data-toggle="tab" href="#Section11" role="tab" style="text-align: center;">Salon B</a>
                                         </li>
                                     </ul><!-- Tab panes -->
                                     <div class="tab-content ">
@@ -357,7 +357,7 @@
                                                 <thead>
                                                 <tr>
                                                     <th class="tabletitle" style="text-align:center">Saat</th>
-                                                    <th class="tabletitle" style="text-align:center">Salon 1</th>
+                                                    <th class="tabletitle" style="text-align:center">Salon A</th>
                                                 </tr>
                                                 </thead>
                                                 <tbody>
@@ -469,7 +469,7 @@
                                                 <thead>
                                                 <tr>
                                                     <th class="tabletitle" style="text-align:center">Saat</th>
-                                                    <th class="tabletitle" style="text-align:center">Salon 2</th>
+                                                    <th class="tabletitle" style="text-align:center">Salon B</th>
                                                 </tr>
                                                 </thead>
                                                 <tbody>
@@ -525,7 +525,7 @@
                                                 <thead>
                                                 <tr>
                                                     <th class="tabletitle" style="text-align:center">Saat</th>
-                                                    <th class="tabletitle" style="text-align:center">Salon 1</th>
+                                                    <th class="tabletitle" style="text-align:center">Salon A</th>
                                                 </tr>
                                                 </thead>
                                                 <tbody>
@@ -623,7 +623,7 @@
                                                 <thead>
                                                 <tr>
                                                     <th class="tabletitle" style="text-align:center">Saat</th>
-                                                    <th class="tabletitle" style="text-align:center">Salon 1</th>
+                                                    <th class="tabletitle" style="text-align:center">Salon A</th>
                                                 </tr>
                                                 </thead>
                                                 <tbody>

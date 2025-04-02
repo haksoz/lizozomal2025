@@ -1563,7 +1563,7 @@ label {
 
 .nav-tabs li a:hover {
     background: transparent;
-    border: 0;
+    /*border: transparent;*/
 }
 
 .nav-tabs li a:before {
@@ -2906,15 +2906,15 @@ button.list-group-item:hover {
 
     .program ul li {
         margin-right: 0px;
-        margin-bottom: 10px;
+        margin-bottom: 0px;
     }
 
     .program ul li a:before {
-        border-radius: 10px 0px 0px 10px;
+        /*border-radius: 10px 0px 0px 10px;*/
     }
 
     .program ul li a {
-        padding: 8px 8px;
+        padding: 8px 20px;
         width: 100%;
         text-align: center;
     }
@@ -2922,6 +2922,7 @@ button.list-group-item:hover {
     .program .tab-content {
         width: calc((100% / 12) * 12);
         padding: 15px;
+        padding-top: 0px;
     }
 
     .banner-mobil {

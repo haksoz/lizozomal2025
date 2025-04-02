@@ -156,9 +156,16 @@
                             <div class="tab-pane scientific-program fade" id="Section2" role="tabpanel">
                                 <h4 class="text-center">29 NİSAN 2025, SALI <br> BİLİMSEL PROGRAM</h4>
                                 <div class="tab program" role="tabpanel">
-
+                                    <ul class="nav nav-tabs date-button" role="tablist" style="width:100%;display: flex;justify-content: center;">
+                                        <li class="active" role="presentation">
+                                            <a data-toggle="tab" href="#Section7" role="tab" style="text-align: center;" >Salon 1</a>
+                                        </li>
+                                        <li role="presentation">
+                                            <a data-toggle="tab" href="#Section8" role="tab" style="text-align: center;">Salon 2</a>
+                                        </li>
+                                    </ul><!-- Tab panes -->
                                     <div class="tab-content ">
-                                        <div class="active in fade" id="Section8" role="tabpanel">
+                                        <div class="tab-pane active in fade" id="Section7" role="tabpanel">
                                             <!-- Tables -->
                                             <table class="table table-bordered table-striped tg">
                                                 <colgroup>
@@ -267,6 +274,49 @@
                                                     <td class="oturum">
                                                         <b class="text-uppercase">Sözlü Sunumlar</b> <br>
                                                         <b>Oturum Başkanları: </b> Dr. Aynur Küçükçongar, Dr. Erdoğan Soyuçen
+                                                        <br>
+                                                        <b>1413- </b>Niemann-Pick Tip B Hastalarında Enzim Replasman Tedavisinin Dönüştürücü Etkisi <b>- Ayşe Ergül Bozacı</b> <br>
+                                                        <b>8113- </b>Çapraz Karaciğer Nakli Yapılan Niman Pick Tip B Tanılı Hastanın Değerlendirilmesi <b>– Şükrü Güngör</b> <br>
+                                                        <b>7969- </b>Gaucher ve Niemann Pick Hastalarında Karaciğer Fibrozisinin Değerlendirilmesi <b>- Özge Kamer Karalar Pekuz</b> <br>
+                                                        <b>5432- </b>Sistinozisli Hastalarda Serum Fibroblast Büyüme Faktörü-21 Düzeylerinin Böbrek Fonksiyonlarıyla İlişkisi <b>- Nazmiye Tüzel Gündüz</b> <br>
+                                                        <b>7425- </b>Farklı Yaş Gruplarındaki 25 Sistinozis Hastasının Beslenme Durumunun Değerlendirmesi: Çukurova Üniversitesi Deneyimi <b>- Sema Uzunoğlu</b>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="oturum sub_clock">18:00-18:30</td>
+                                                    <td class="oturum">
+                                                        <b class="text-uppercase">Poster Sunumları</b> <br>
+                                                        <b>Oturum Başkanları: </b> Dr. Mehtap Kağnıcı, Dr. Esra Er, Dr. Banu Kadıoğlu, Dr. İzzet Erdal
+                                                    </td>
+                                                </tr>
+                                                </tbody>
+                                            </table>
+                                            <!-- /table -->
+                                        </div>
+                                        <div class="tab-pane fade" id="Section8" role="tabpanel">
+                                            <!-- Tables -->
+                                            <table class="table table-bordered table-striped tg">
+                                                <colgroup>
+                                                    <col style="width: 95px">
+                                                </colgroup>
+                                                <thead>
+                                                <tr>
+                                                    <th class="tabletitle" style="text-align:center">Saat</th>
+                                                    <th class="tabletitle" style="text-align:center">Salon 2</th>
+                                                </tr>
+                                                </thead>
+                                                <tbody>
+                                                <tr>
+                                                    <td class="oturum sub_clock">17:00-18:00</td>
+                                                    <td class="oturum">
+                                                        <b class="text-uppercase">Sözlü Sunumlar</b> <br>
+                                                        <b>Oturum Başkanları: </b> Dr. Mahmut Çoker, Ünal Uzun
+                                                        <br>
+                                                        <b>1018- </b>Yirmi Beş Yıllık Bir Deneyimin Penceresinden Mukopolisakkaridoz Tip I Hastalığı <b>- Sakina Mammadova</b><br>
+                                                        <b>2595- </b>Mukopolisakkaridoz Tip 4 A ve Tip 6 Hastalarının Korneal Tutulum ve Göz içi Basınçları Sonuçları <b>- İsmail Aydın</b><br>
+                                                        <b>2137- </b>Mukopolisakkaridoz Tanılı 175 Hastada Nörolojik Tutulum Bulguları, Davranış Sorunları ve Nörogörüntüleme Sonuçları <b>- Yasemin Şengezer Evirgen </b><br>
+                                                        <b>2615- </b>MPS Tanılı Hastaların Uyku Kalitelerinin Ölçek ile Değerlendirilmesi <b>- Fehime Erdem Karapınar</b><br>
+                                                        <b>9534- </b>Mukopolisakkaridoz Tanılı Hastalarımızda Üriner Sistem Sorunları <b>- İlknur Sürücü Kara</b><br>
                                                     </td>
                                                 </tr>
                                                 <tr>
@@ -286,9 +336,16 @@
                             <div class="tab-pane scientific-program fade" id="Section3" role="tabpanel">
                                 <h4 class="text-center">30 NİSAN 2025, ÇARŞAMBA <br> BİLİMSEL PROGRAM</h4>
                                 <div class="tab program" role="tabpanel">
-
+                                    <ul class="nav nav-tabs date-button" role="tablist" style=" width:100%;display: flex;justify-content: center;">
+                                        <li class="active" role="presentation">
+                                            <a data-toggle="tab" href="#Section10" role="tab" style="text-align: center;" >Salon 1</a>
+                                        </li>
+                                        <li role="presentation">
+                                            <a data-toggle="tab" href="#Section11" role="tab" style="text-align: center;">Salon 2</a>
+                                        </li>
+                                    </ul><!-- Tab panes -->
                                     <div class="tab-content ">
-                                        <div class="tab-pane active in fade" id="Section11" role="tabpanel">
+                                        <div class="tab-pane active in fade" id="Section10" role="tabpanel">
                                             <!-- Tables -->
                                             <table class="table table-bordered table-striped tg">
                                                 <colgroup>
@@ -305,7 +362,12 @@
                                                     <td class="oturum sub_clock">08:00-09:00</td>
                                                     <td class="oturum">
                                                         <b class="text-uppercase">Sözlü Sunumlar</b> <br>
-                                                        <b>Oturum Başkanları: </b> Dr. Yaşar Cesur, Dr. Işıl Özer
+                                                        <b>Oturum Başkanları: </b> Dr. Yaşar Cesur, Dr. Işıl Özer <br>
+                                                        <b>5877-</b> Gaucher Tip IIIc Hastalarında Kardiyak Prognoz  <b>- Fatma Derya Bulut</b><br>
+                                                        <b>4468-</b> Gaucher (GBA1) Geninin Parkinson Hastalığındaki Rolü: Asya Minör’ün En Büyük Kohortu  <b>- Merve Koç Yekedüz</b><br>
+                                                        <b>7521-</b> Gaucher Hastalarında Kemik İliği Hücresel Belirteçleri ile Hematolojik ve İnflamatuvar Parametrelerin Değerlendirilmesi <b>- Merve Yoldaş Çelik</b><br>
+                                                        <b>2489-</b> Gaucher Hastalığında Kronik Enflamasyonun Göstergesi: Pteridin Metabolitleri <b>- Kağan Çalışgan</b><br>
+                                                        <b>5345-</b> Gaucher Hastalarında Elektrofizyolojik Değerlendirme <b>- İrem Kaplan</b><br>
                                                     </td>
                                                 </tr>
                                                 <tr>
@@ -376,7 +438,61 @@
                                                     <td class="oturum sub_clock">16:00-17:00</td>
                                                     <td class="oturum">
                                                         <b class="text-uppercase">Sözlü Sunumlar</b> <br>
-                                                        <b>Oturum Başkanları: </b> Dr. Deniz Kor, Dr. Abdurrahman Akgün
+                                                        <b>Oturum Başkanları: </b> Dr. Deniz Kor, Dr. Abdurrahman Akgün <br>
+                                                        <b>8403- </b>Mukopolisakkaridozis Tip ıv Hastalarının Klinik İzlemlerinin Değerlendirilmesi  <b>- Müge Çınar</b><br>
+                                                        <b>4938- </b>Mukopolisakkaridoz Hastalarında Mortalite ile ilişkili Klinik Özelliklerin Değerlendirilmesi <b>- Didem Büyükdalgıç</b><br>
+                                                        <b>3764- </b>Mukopolisakkaridoz Tip 6 Hastalarında Enzim Replasman Tedavisinin Kardiyak Tutulum Üzerine Etkisi <b>- Sedef Alpdoğan</b><br>
+                                                        <b>5286- </b>MPS-4A hastalarının Ekokardiyografik Bulgularının Değerlendirilmesi: Tedavi Yaklaşımlarının Kardiyak Etkileri <b>- Emine Genç</b><br>
+                                                        <b>5515- </b>Nadir Lizozomal Hastalıklar Mukolipidoz II ve III Hastalarında Kardiyak Doğal Seyir <b>- Ayşe Şenol Ersak</b><br>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="oturum sub_clock">17:00-17:30</td>
+                                                    <td class="oturum">
+                                                        <b class="text-uppercase">Poster Sunumları</b> <br>
+                                                        <b>Oturum Başkanları: </b> Dr. İbrahim Taş, Dr. Havva Yazıcı, Dr. Hüseyin Bilgin, Dr. Dilek Güneş, Dr. Kısmet Çıkı <br><br>
+                                                    </td>
+                                                </tr>
+                                                </tbody>
+                                            </table>
+                                            <!-- /table -->
+                                        </div>
+                                        <div class="tab-pane fade" id="Section11" role="tabpanel">
+                                            <!-- Tables -->
+                                            <table class="table table-bordered table-striped tg">
+                                                <colgroup>
+                                                    <col style="width: 95px">
+                                                </colgroup>
+                                                <thead>
+                                                <tr>
+                                                    <th class="tabletitle" style="text-align:center">Saat</th>
+                                                    <th class="tabletitle" style="text-align:center">Salon 2</th>
+                                                </tr>
+                                                </thead>
+                                                <tbody>
+                                                <tr>
+                                                    <td class="oturum sub_clock">08:00-09:00</td>
+                                                    <td class="oturum">
+                                                        <b class="text-uppercase">Sözlü Sunumlar</b> <br>
+                                                        <b>Oturum Başkanları: </b> Dr. Nur Arslan, Dr. Çiğdem Aktuğlu Zeybek
+                                                        <br>
+                                                        <b>4408- </b>Niemann-Pick tip C’nin Klinik ve Genetik Yönleri: Altı Olgu Üzerine Bir İnceleme <b>- Abdurrahman Akgün</b><br>
+                                                        <b>1324- </b>Niemann-Pick Tip C Hastalığında Klinik Bulgular ve Moleküler Genetik: Yeni Bir Varyantın Tanımlandığı Vaka Serisi <b>- Cemre Kara</b><br>
+                                                        <b>3306- </b>Niemann-Pick Tip C Tanılı Hastaların Demografik, Klinik, Biyokimyasal, Radyolojik ve Moleküler Genetik Özelliklerinin Araştırılması <b>- Gizem Gökçe Altaş</b><br>
+                                                        <b>8634- </b>Niemann-Pick Tip C Hastalığında İmmün Disregülasyonun Değerlendirilmesi <b>- Hanım Aghakıshılı</b><br>
+                                                        <b>6917- </b>Multıple Sülfataz Eksikliğinde Oral ve Epidermal Retinoik Asitin Etkinliği <b>– Göksu Demirbaş</b><br>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="oturum sub_clock">16:00-17:00</td>
+                                                    <td class="oturum">
+                                                        <b class="text-uppercase">Sözlü Sunumlar</b> <br>
+                                                        <b>Oturum Başkanları: </b> Dr. Hasan Önal, Dr. Ertuğrul Kıykım <br>
+                                                        <b>1064- </b>Fabry Hastalarımızın Klinik, Genetik Özellikleri ve Uzun Dönem Takibi <b>- Merve Atasoy Kütri</b><br>
+                                                        <b>7908- </b>Kadın Fabry Hastaların Uzun Dönem İzlemi - Ege Tıp Deneyimi  <b>- Ayşe Yüksel Yanbolu</b><br>
+                                                        <b>1429- </b>GLA Geninde c.427G>A p.(Ala143Thr) Varyant Saptanan Vakaların Değerlendirilmesi <b>- Sevgi Doğan</b><br>
+                                                        <b>1365- </b>Erişkin Fabry Hastalarında Kardiyak Bulgular <b>- Duygu Uzun Dinçtürk</b><br>
+                                                        <b>1652- </b>Yüksek Doz Enzim Replasman Tedavisi ile İnfantil Başlangıçlı Pompe Hastalığı Juvenil Pompe Hastalığına mı Evriliyor? <b>- Deniz Kor</b><br>
                                                     </td>
                                                 </tr>
                                                 <tr>
@@ -396,7 +512,6 @@
                             <div class="tab-pane scientific-program fade" id="Section4" role="tabpanel">
                                 <h4 class="text-center">01 MAYIS 2025, PERŞEMBE <br> BİLİMSEL PROGRAM </h4>
                                 <div class="tab program" role="tabpanel">
-
                                     <div class="tab-content ">
                                         <div class="tab-pane active in fade" id="Section14" role="tabpanel">
                                             <!-- Tables -->
@@ -415,7 +530,12 @@
                                                     <td class="oturum sub_clock">08:00-09:00</td>
                                                     <td class="oturum">
                                                         <b class="text-uppercase">Sözlü Sunumlar</b> <br>
-                                                        <b>Oturum Başkanları: </b> Dr. Burcu Öztürk Hişmi, Dr. Seda Güneş
+                                                        <b>Oturum Başkanları: </b> Dr. Burcu Öztürk Hişmi, Dr. Seda Güneş <br>
+                                                        <b>9977- </b>GM2 Gangliyosidozlu Hastaların Klinik, Labaratuvar ve Görüntüleme Bulguları <b>- Serpil Dinçer</b><br>
+                                                        <b>3863- </b>Tay-Sachs Hastalığı Tanısı Alan Olguların Klinik ve Moleküler Özelliklerinin Değerlendirilmesi <b>- Şerife Öztürk Yılmaz</b><br>
+                                                        <b>5274- </b>Metakromatik Lökodistrofi’de Hematopoietik Kök Hücre Nakli ile Gen Tedavisi Karşılaştırılması <b>- Esra Sayar</b><br>
+                                                        <b>8696- </b>İnfantil ve Geç Başlangıçlı Tip Krabbe Hastalarının Tanı Yolculuğu, Klinik ve Moleküler Bulguları <b>- Merve Bilen</b><br>
+                                                        <b>3400- </b>Enzim Replasman Tedavisi Alan Lizozomal Depo Hastalarında Sirkadiyen Ritim Profilinin Değerlendirilmesi <b>– Şeyma Topuz </b><br>
                                                     </td>
                                                 </tr>
                                                 <tr>

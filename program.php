@@ -805,7 +805,13 @@
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td class="oturum sub_clock" rowspan="8">Dr. Banu Kadıoğlu</td>
+                                                    <td class="oturum sub_clock" rowspan="9">Dr. Banu Kadıoğlu</td>
+                                                    <td class="oturum sub_clock">1326</td>
+                                                    <td class="oturum">
+                                                        Galaktosialidoz: İki Olgu Nedeniyle Ultra Nadir Bir Lizozomal Depo Hastalığı - <b>Burcu Köşeci</b>
+                                                    </td>
+                                                </tr>
+                                                <tr>
                                                     <td class="oturum sub_clock">1608</td>
                                                     <td class="oturum">
                                                         Multipl Sülfataz Eksikliği Tanılı Bir Olgu Takdimi - <b>Neslihan Özcan</b>

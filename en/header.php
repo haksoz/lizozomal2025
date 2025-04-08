@@ -52,16 +52,16 @@
                     <a href="/en/committees.php">Committees</a>
                 </li>
                 <li class="<?php echo $page == 'general-information' ? 'active' : '' ?>">
-                    <a href="/en/general-information.php">General Information</a>
+                    <a style="line-height: 25px;" href="/en/general-information.php">General <br> Information</a>
                 </li>
                 <li class="<?php echo $page == 'registration-accommodation' ? 'active' : '' ?>">
-                    <a href="/en/registration-accommodation.php">Registration & Accommodation</a>
+                    <a style="line-height: 25px;" href="/en/registration-accommodation.php">Registration <br> Accommodation</a>
                 </li>
                 <li class="<?php echo $page == 'program' ? 'active' : '' ?>">
-                    <a href="/en/program.php">Scientific Program</a>
+                    <a href="/en/program.php"> Program</a>
                 </li>
                 <li class="<?php echo $page == 'abstract' ? 'active' : '' ?>">
-                    <a href="/en/abstract-submission.php">Abstract Submission</a>
+                    <a href="/en/abstract-submission.php">Abstract</a>
                 </li>
                 <li class="<?php echo $page == 'contact' ? 'active' : '' ?>">
                     <a href="/en/contact.php">Contact</a>

@@ -2249,6 +2249,9 @@ button.list-group-item:hover {
     width: 80%;
     padding-top: 130px;
 }
+.banner-img.banner-desktop {
+    padding-top: 160px;
+}
 
 @media (max-width: 991px) {
     /* Slider */

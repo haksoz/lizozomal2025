@@ -50,6 +50,17 @@
                
               </div>
                 <div>
+                    <h4>E-poster Nasıl Hazırlanmalıdır?</h4>
+                    <!-- Custom List -->
+                    <ul class="custom no-margin" style="font-weight:normal;">
+                        <li> Daha önceden hazırlamış olduğunuz poster dosyanızı (PDF formatında tablo olmadan) Dikey tasarım şeklinde bilgisayarınızda hazır bulundurunuz. </li>
+                        <li> E-poster yüklemesi için; <b>14 Nisan tarihine kadar <a href="https://solo.digiabstract.com/lizozomal2025/" target="_blank">https://solo.digiabstract.com/lizozomal2025/</a> </b> linkinden daha önce özet göndermek için kullandığınız kullanıcı adı ve şifre ile sisteme giriş yapınız. </li>
+                        <li> Bildirinizin detaylarını gördüğünüz satırda; sağ taraftaki İşlemler kısmından "e-poster Yükleme " butonuna tıklayınız. </li>
+                        <li> "Poster ekle" butonuna tıklayarak bilgileri girip, "Dosya Seç" butonuyla da bilgisayarınızda PDF olarak kayıtlı posterinizi seçip kaydet diyerek işlemi tamamlayınız. </li>
+                        <li> Yine bu alanda gerekli gördüğünüz zaman yüklemiş olduğunuz e-posterinizi güncelleyebilirsiniz. </li>
+                    </ul>
+                </div>
+                <div>
                     <h4>Bildiri Gönderim Kuralları</h4>
                     <!-- Custom List -->
                     <ul class="custom no-margin" style="font-weight:normal;">

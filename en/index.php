@@ -19,8 +19,8 @@
         <!-- Home Page -->
         <div class="home" id="main">
             <div class="relative">
-                <img class="banner-img banner-desktop" src="../doc/lizozomalkongre_webbanner3.jpg" alt="">
-                <img class="banner-img banner-mobil" src="../doc/lizozomalkongre_webbanner3.jpg" alt="">
+                <img class="banner-img banner-desktop" src="../doc/lizozomal-webbanner-en.jpg" alt="">
+                <img class="banner-img banner-mobil" src="../doc/lizozomal-webbanner-en.jpg" alt="">
                 <div class="px-0 py-0 md-absolute bottom-0 w-100">
                 <div class="container">
                     <div class="flex-row justify-content-center">

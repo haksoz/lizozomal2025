@@ -390,7 +390,7 @@
                                                         <b>Otofaji Ve Hücresel Hasar Mekanizmaları</b> <br>
                                                         <b>Konuşmacı: </b> Dr. Ali Dursun <br><br>
                                                         <b>Periferik Nöropati</b> <br>
-                                                        <b>Konuşmacı: </b> Dr. Emine Pektaş <br><br>
+                                                        <b>Konuşmacı: </b> Dr. Emine Göksoy <br><br>
                                                         <b>Artropati</b> <br>
                                                         <b>Konuşmacı: </b> Dr. Engin Köse
                                                     </td>

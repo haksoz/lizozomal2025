@@ -51,25 +51,23 @@
 				<li class="<?php echo $page == 'kayit-konaklama' ? 'active' : '' ?>">
 					<a href="kayit-konaklama.php">Kayıt & Konaklama</a>
 				</li>
-				<li class="<?php echo $page == 'program' ? 'active' : '' ?>">
-					<a href="program.php">Bilimsel Program</a>
+				<li class="dropdown <?php echo $page == 'program' ? 'active' : '' ?>">
+					<a class="dropdown-toggle" data-toggle="dropdown" href="#">Bilimsel Program<b class="caret"></b></a>
+					<ul class="dropdown-menu">
+						<li>
+							<a href="program.php">Bilimsel Program</a>
+						</li>
+						<li>
+							<a href="kongre-sunum-taslagi.php">Kongre Sunum Taslagi</a>
+						</li>
+					</ul>
 				</li>
 				<li class="<?php echo $page == 'bildiri' ? 'active' : '' ?>">
 					<a href="bildiri-gonderimi.php">Bildiri Gönderimi</a>
 				</li>
-				<!--
-                  		<li class="dropdown <?php echo $page == 'program' ? 'active' : '' ?>">
-							<a class="dropdown-toggle" data-toggle="dropdown" href="#">Bilimsel<b class="caret"></b></a>
-							<ul class="dropdown-menu">
-								<li>
-									<a href="program.php">Bilimsel Program</a>
-								</li>
-								<li>
-									<a href="bildiri-gonderimi.php">Bildiri Gönderimi</a>
-								</li>
-							</ul>
-						</li>
-						-->
+				
+                  		
+						
 				<li class="<?php echo $page == 'iletisim' ? 'active' : '' ?>">
 					<a href="iletisim.php">İletişim</a>
 				</li>

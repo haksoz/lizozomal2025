@@ -602,6 +602,19 @@
                                                         <b>Oturum Başkanları: </b> Dr. Mehmet Gündüz, Dr. Gülhan Karakaya, Dr. Duhan Hopurcuoğlu
                                                     </td>
                                                 </tr>
+                                                <tr>
+                                                    <td class="oturum sub_clock">16:30-17:30</td>
+                                                    <td class="oturum">
+                                                        <b class="text-uppercase">ULTRA-NADİR OLGULAR OTURUMU: TANISAL İPUÇLARI</b><br>
+                                                        <b>Oturum Başkanı: </b> Dr. Turgay Coşkun <br>
+                                                        <b>1494- </b>Saposin B Eksikliğinde Nörodejeneratif Süreç ve Hepatobiliyer Disfonksiyon: İki Olgu Sunumu <b>- Merve Yoldaş Çelik</b><br>
+                                                        <b>1555- </b>Wolman Hastalığı: Nadir, Hızlı İlerleyen Bir Lizozomal Depo Hastalığının Dört Vakada Klinik Süreci ve Zorlukları <b>- Güler Acar</b><br>
+                                                        <b>2314- </b>Fetal Tanılı İnfantil Pompe Hastasında Fetal Kardiyak Takip ve Profilaktik İmmunmodülasyon Tecrübemiz <b>- Enver Yaya</b><br>
+                                                        <b>5738- </b>Farber lipogranülomatozis: Vaka Sunumu ve Literatür Derlemesi <b>- Harun Yıldız</b><br>
+                                                        <b>6215- </b>Hipoksik İskemik Ensefalopati Tanısıyla İzlenen Fukosidoz Olgusu <b>- Emine Didem Demirdöken</b><br>
+                                                        <b>7889- </b>Danon Hastalığı ile İzlenen İki Vakanın Değerlendirilmesi <b>- Müge Çınar</b><br>
+                                                    </td>
+                                                </tr>
                                                 </tbody>
                                             </table>
                                             <!-- /table -->

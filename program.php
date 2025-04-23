@@ -973,7 +973,7 @@
                                                 <tr>
                                                     <td class="oturum sub_clock">9867</td>
                                                     <td class="oturum">
-                                                        Metakromatik Lökodistrofi Tanısı Olan Hastaların Demografik, Klinik, Biyokimyasal, Radyolojik ve Genetik Özelliklerinin Belirlenmesi - <b>Ümmü Gülsüm Serin Akterlik</b>
+                                                        Neonatal Kolestaz ve Hlh ile Başvuran Wolman Hastalığı - <b>Ümmü Gülsüm Serin Akterlik</b>
                                                     </td>
                                                 </tr>
 

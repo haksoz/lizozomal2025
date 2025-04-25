@@ -216,6 +216,8 @@
                                                         <b class="text-uppercase" style="color: #b26300;">UYDU SEMPOZYUMU - SANOFI</b> <br><br>
                                                         <div style="display: flex; align-items: center;">
                                                             <div> 
+                                                                <b>Oturum Başkanları: </b> Dr. Nur Arslan, Dr. Özlem Ünal Uzun<br><br>
+                                                                
                                                                 <b>Gaucher Hastalığı:</b> <br>
                                                                 <b>miRNA'ların Kemik Tutulum Düzeyini Belirlemedeki Rolleri</b> <br>
                                                                 <b>Konuşmacı: </b> Dr. Irene Serrano Gonzalo <br><br>

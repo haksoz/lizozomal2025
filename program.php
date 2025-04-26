@@ -93,7 +93,7 @@
                                                         <b>Konuşmacı: </b> Dr. Tanyel Zübarioğlu <br><br>
                                                         <b>Mukopolisakkaridozlar</b><br>
                                                         <b>Konuşmacı: </b> Dr. Yılmaz Yıldız <br><br>
-                                                        <b>Nöronal Serodi Lipofuksinozis</b><br>
+                                                        <b>Nöronal Seroid Lipofuksinozis</b><br>
                                                         <b>Konuşmacı: </b> Dr. Fatma Derya Bulut
 
                                                     </td>

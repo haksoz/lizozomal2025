@@ -4,7 +4,7 @@
 <script src="js/bootstrap.min.js?v=712352">
 </script> <!-- Main Js -->
  
-<script src="js/main.js?v=712352">
+<script src="js/main.js?v=71235223">
 </script> <!-- Open maps -->
 
 <script src="js/plugins.js?v=712352">

@@ -39,9 +39,9 @@
 				<li class="<?php echo $page == 'index' ? 'active' : '' ?>">
 					<a href="index.php">Anasayfa</a>
 				</li>
-				<li class="<?php echo $page == 'davet' ? 'active' : '' ?>">
-					<a href="davet.php">Davet</a>
-				</li>
+<!--				<li class="--><?php //echo $page == 'davet' ? 'active' : '' ?><!--">-->
+<!--					<a href="davet.php">Davet</a>-->
+<!--				</li>-->
 				<li class="<?php echo $page == 'kurullar' ? 'active' : '' ?>">
 					<a href="kurullar.php">Kurullar</a>
 				</li>
@@ -66,7 +66,7 @@
 					<a href="bildiri-gonderimi.php">Bildiri Gönderimi</a>
 				</li>
                 <li class="<?php echo $page == 'bildiri' ? 'active' : '' ?>">
-                    <a href="https://e-certificate.arcadiastech.com/Lizozomal2025/KatilimciSertifika" target="_blank" style="background: #ffffff; color: #000000;font-weight: bold;">Bildiri Kitabı</a>
+                    <a href="https://e-certificate.arcadiastech.com/Lizozomal2025/KatilimciSertifika" target="_blank" style="background: #ffffff; color: #000000;font-weight: bold;">Katılım Sertifikası</a>
                 </li>
 						
 				<li class="<?php echo $page == 'iletisim' ? 'active' : '' ?>">

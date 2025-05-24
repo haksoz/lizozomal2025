@@ -62,8 +62,11 @@
 						</li>
 					</ul>
 				</li>
-				<li class="<?php echo $page == 'bildiri' ? 'active' : '' ?>">
-					<a href="bildiri-gonderimi.php">Bildiri Gönderimi</a>
+<!--				<li class="--><?php //echo $page == 'bildiri' ? 'active' : '' ?><!--">-->
+<!--					<a href="bildiri-gonderimi.php">Bildiri Gönderimi</a>-->
+<!--				</li>-->
+                <li class="<?php echo $page == 'bildiri' ? 'active' : '' ?>">
+					<a href="/doc/kongre-kitabi.pdf" target="_blank" style="background: #d4746d; color: #ffffff;font-weight: bold;">Kongre Kitabı</a>
 				</li>
                 <li class="<?php echo $page == 'bildiri' ? 'active' : '' ?>">
                     <a href="https://e-certificate.arcadiastech.com/Lizozomal2025/KatilimciSertifika" target="_blank" style="background: #ffffff; color: #000000;font-weight: bold;">Katılım Sertifikası</a>
